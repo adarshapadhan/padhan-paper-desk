@@ -1,6 +1,6 @@
-2026-10-09 10:33:01Z [desk] PARTIAL CONDOM take_profit_1 sold 50% for $30.34
-2026-10-09 10:34:02Z [desk] PARTIAL QI take_profit_1 sold 50% for $32.56
-2026-10-09 10:34:02Z [control] PARTIAL QI take_profit_1 sold 50% for $27.45
-2026-10-09 10:35:33Z [desk] EXIT TRUMPSI stop_loss pnl=$-15.42 (-32.5%)
-2026-10-09 10:38:20Z [desk] EXIT CONDOM trailing_stop pnl=$+12.00 (+28.2%)
-2026-10-09 10:45:44Z [control] EXIT SENTS stop_loss pnl=$-12.09 (-30.3%)
+2026-10-09 10:47:02Z [desk] PARTIAL PQC take_profit_1 sold 50% for $31.26
+2026-10-09 10:50:05Z [control] EXIT Gary stop_loss pnl=$-12.46 (-31.3%)
+2026-10-09 10:51:36Z [desk] EXIT QI trailing_stop pnl=$+13.07 (+27.6%)
+2026-10-09 10:51:36Z [control] EXIT QI trailing_stop pnl=$+10.91 (+27.3%)
+2026-10-09 10:52:07Z [desk] BUY TikTok $37.70 @ 0.0005388 score=65.2 liq=$77,269
+2026-10-09 10:52:07Z [control] BUY BORDR $37.70 @ 0.0007787 score=38.7 liq=$81,812
