@@ -3,53 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 858.7400869218757,
-   "positions": {
-    "DoVAVzViX8Bjy3r15nwikSaSbzE6dV4ovd28aWpJpump": {
-     "symbol": "HIGGS",
-     "pair": "BFrSZakeqNzVtM3EFhroo4eRhagmmWN8BRntiQKFH6Ru",
-     "url": "https://dexscreener.com/solana/bfrszakeqnzvtm3efhroo4erhagmmwn8brntiqkfh6ru",
-     "opened": 1791549583.3240561,
-     "qty": 26158.40253681435,
-     "qty0": 26158.40253681435,
-     "cost": 39.89,
-     "entry_price": 0.001494,
-     "fill_price": 0.0015096879461359244,
-     "peak": 0.001716,
-     "entry_liq": 159278.38,
-     "last_price": 0.001391,
-     "last_liq": 153332.32,
-     "score": 70.5,
-     "detail": {
-      "atlas": 52,
-      "vega": 65,
-      "orion": 100,
-      "luna": 68,
-      "buy_ratio": 0.66,
-      "tx_m5": 35,
-      "vol_accel": 0.65,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": 8.02,
-      "h1": 0.5,
-      "liq": 159278,
-      "fdv": 1446887,
-      "turnover_h1": 0.36
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1791563774.90229
-    }
-   },
-   "realized": -101.36991307812434,
+   "cash": 896.342912706413,
+   "positions": {},
+   "realized": -103.65708729358701,
    "fees_est": 0.0,
    "day": "2026-10-09",
    "day_start_equity": 1000.0,
    "halted_day": "2026-10-09",
-   "trades": 16,
+   "trades": 17,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.11198286505943544
   },
@@ -94,18 +55,18 @@
   "HoLyRoDEQvK5zPsGpcz3BbCWhceTGhWAGnVifSoUShit": 1791552047.2140203
  },
  "stats": {
-  "scans": 374,
-  "candidates_seen": 28679,
+  "scans": 389,
+  "candidates_seen": 29848,
   "rejections": {
-   "dex": 11328,
-   "liq_low": 10187,
-   "odd_quote": 2985,
-   "too_old": 3489,
-   "too_new": 122,
-   "rug_danger": 121,
+   "dex": 11826,
+   "liq_low": 10485,
+   "odd_quote": 3091,
+   "too_old": 3639,
+   "too_new": 144,
+   "rug_danger": 136,
    "fdv_liq_thin": 2,
    "fdv_low": 15,
-   "titan_daily_loss_stop": 56,
+   "titan_daily_loss_stop": 65,
    "lp_unlocked": 15
   }
  },
