@@ -1,3 +1,5 @@
 book,mint,symbol,opened_utc,closed_utc,hold_min,score,cost_usd,proceeds_usd,pnl_usd,pnl_pct,exit_reason,entry_price,exit_price,peak_price
 desk,DsgtDh4kgo5BZjaeC8b8DRir9eHFpbDdwB8aioyDpump,OctoBul,2026-10-09 10:00,2026-10-09 10:02,2.3,65.6,40.36,27.53,-12.83,-31.8,stop_loss,8.323e-05,5.961e-05,9.563e-05
 desk,B3wB91NRRW7XzssWqeMoDpCGCdhNvMNb9ZSWXfKrpump,SC,2026-10-09 09:59,2026-10-09 10:11,12.9,66.0,40.34,18.52,-21.82,-54.1,stop_loss,0.0002459,0.0001189,0.0002608
+desk,B4kxjbuNHFj1smvSYJark1ucXiiWVXYPmLqfrZ6zpump,Slime,2026-10-09 10:05,2026-10-09 10:22,17.2,70.5,42.34,0.43,-41.91,-99.0,liquidity_pulled,0.0001103,2.813e-06,0.0001458
+control,CmCHvr99aXrLDQB7jAtFtsBwg3DnXqq4spcTEMt7pump,OWLNIGHT,2026-10-09 09:59,2026-10-09 10:31,32.7,62.9,39.93,28.56,-11.37,-28.5,stop_loss,0.0005221,0.0003907,0.0005233
