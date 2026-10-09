@@ -17,8 +17,8 @@
      "fill_price": 0.0015096879461359244,
      "peak": 0.001716,
      "entry_liq": 159278.38,
-     "last_price": 0.001456,
-     "last_liq": 157120.44,
+     "last_price": 0.001391,
+     "last_liq": 153332.32,
      "score": 70.5,
      "detail": {
       "atlas": 52,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791562868.8929381
+     "last_seen": 1791563774.90229
     }
    },
    "realized": -101.36991307812434,
@@ -94,18 +94,18 @@
   "HoLyRoDEQvK5zPsGpcz3BbCWhceTGhWAGnVifSoUShit": 1791552047.2140203
  },
  "stats": {
-  "scans": 359,
-  "candidates_seen": 27473,
+  "scans": 374,
+  "candidates_seen": 28679,
   "rejections": {
-   "dex": 10839,
-   "liq_low": 9801,
-   "odd_quote": 2876,
-   "too_old": 3338,
-   "too_new": 116,
-   "rug_danger": 106,
+   "dex": 11328,
+   "liq_low": 10187,
+   "odd_quote": 2985,
+   "too_old": 3489,
+   "too_new": 122,
+   "rug_danger": 121,
    "fdv_liq_thin": 2,
    "fdv_low": 15,
-   "titan_daily_loss_stop": 52,
+   "titan_daily_loss_stop": 56,
    "lp_unlocked": 15
   }
  },
