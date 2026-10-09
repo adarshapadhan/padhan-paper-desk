@@ -1,6 +1,4 @@
-2026-10-09 10:47:02Z [desk] PARTIAL PQC take_profit_1 sold 50% for $31.26
-2026-10-09 10:50:05Z [control] EXIT Gary stop_loss pnl=$-12.46 (-31.3%)
-2026-10-09 10:51:36Z [desk] EXIT QI trailing_stop pnl=$+13.07 (+27.6%)
-2026-10-09 10:51:36Z [control] EXIT QI trailing_stop pnl=$+10.91 (+27.3%)
-2026-10-09 10:52:07Z [desk] BUY TikTok $37.70 @ 0.0005388 score=65.2 liq=$77,269
-2026-10-09 10:52:07Z [control] BUY BORDR $37.70 @ 0.0007787 score=38.7 liq=$81,812
+2026-10-09 11:05:19Z [desk] BUY SIGMAPHIL $41.49 @ 0.0001101 score=72.7 liq=$27,667
+2026-10-09 11:05:19Z [control] BUY TWEETCRAFT $38.61 @ 0.001168 score=59.0 liq=$141,569
+2026-10-09 11:07:05Z [desk] PARTIAL SIGMAPHIL take_profit_1 sold 50% for $31.20
+2026-10-09 11:08:05Z [desk] EXIT SIGMAPHIL trailing_stop pnl=$+9.25 (+22.3%)
