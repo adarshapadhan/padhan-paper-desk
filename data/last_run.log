@@ -1,3 +1,6 @@
-2026-10-09 10:22:20Z [desk] EXIT Slime liquidity_pulled pnl=$-41.91 (-99.0%)
-2026-10-09 10:30:58Z [desk] BUY CONDOM $42.47 @ 9.434e-05 score=75.3 liq=$25,990
-2026-10-09 10:31:43Z [control] EXIT OWLNIGHT stop_loss pnl=$-11.37 (-28.5%)
+2026-10-09 10:33:01Z [desk] PARTIAL CONDOM take_profit_1 sold 50% for $30.34
+2026-10-09 10:34:02Z [desk] PARTIAL QI take_profit_1 sold 50% for $32.56
+2026-10-09 10:34:02Z [control] PARTIAL QI take_profit_1 sold 50% for $27.45
+2026-10-09 10:35:33Z [desk] EXIT TRUMPSI stop_loss pnl=$-15.42 (-32.5%)
+2026-10-09 10:38:20Z [desk] EXIT CONDOM trailing_stop pnl=$+12.00 (+28.2%)
+2026-10-09 10:45:44Z [control] EXIT SENTS stop_loss pnl=$-12.09 (-30.3%)
