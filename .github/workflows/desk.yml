@@ -1,0 +1,41 @@
+name: paper-desk
+# Runs the paper desk 24/7. Each run lasts ~5.5 hours (22 x 15-minute chunks) and saves
+# its state to the repo after every chunk. The schedule queues the next run so there is
+# always one waiting; concurrency keeps it to one at a time.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      chunks:
+        description: "Number of 15-minute chunks to run (22 = ~5.5h)"
+        default: "22"
+permissions:
+  contents: write
+concurrency:
+  group: paper-desk
+  cancel-in-progress: false
+jobs:
+  desk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run desk
+        env:
+          CHUNKS: ${{ github.event.inputs.chunks || '22' }}
+        run: |
+          git config user.name "paper-desk-bot"
+          git config user.email "paper-desk-bot@users.noreply.github.com"
+          mkdir -p data
+          for i in $(seq 1 "$CHUNKS"); do
+            python desk/desk.py --data data --minutes 15 2>&1 | tail -n 400 > data/last_run.log || true
+            tail -n 15 data/last_run.log
+            python desk/report.py --data data --out . || echo "report failed"
+            git add -A data docs README.md
+            git commit -qm "desk update $(date -u +%Y-%m-%dT%H:%MZ)" || true
+            git push -q || (git pull -q --rebase && git push -q) || echo "push failed, will retry next chunk"
+          done

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Padhan Paper Desk</title>
+<style>
+:root{--bg:#0b1020;--panel:#131a2e;--line:#243052;--ink:#eef2ff;--mute:#9aa6c8;--desk:#ffb020;--ctrl:#5aa9ff;--good:#22c55e;--bad:#ef4444;--warn:#f59e0b}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:24px 16px 60px}
+h1{font-size:30px;margin:0 0 4px}h2{font-size:20px;margin:32px 0 12px;color:var(--mute);text-transform:uppercase;letter-spacing:.08em}
+.sub{color:var(--mute);font-size:15px}
+.paper{display:inline-block;background:#3b2a06;color:var(--desk);border:1px solid var(--desk);border-radius:999px;padding:2px 12px;font-size:13px;font-weight:700;letter-spacing:.06em;margin-left:8px;vertical-align:middle}
+.verdict{margin-top:20px;padding:20px 22px;border-radius:14px;font-size:22px;font-weight:800;border:2px solid}
+.v-early{background:#2a2206;border-color:var(--warn);color:#fde68a}.v-no{background:#2a0b0b;border-color:var(--bad);color:#fecaca}.v-yes{background:#062a14;border-color:var(--good);color:#bbf7d0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card .k{color:var(--mute);font-size:13px;text-transform:uppercase;letter-spacing:.06em}.card .v{font-size:26px;font-weight:800;margin-top:2px}
+.desk{color:var(--desk)}.ctrl{color:var(--ctrl)}.pos{color:var(--good)}.neg{color:var(--bad)}
+table{width:100%;border-collapse:collapse;font-size:15px;background:var(--panel);border-radius:12px;overflow:hidden}
+th,td{padding:10px 12px;border-bottom:1px solid var(--line);text-align:left}th{color:var(--mute);font-weight:600;font-size:13px;text-transform:uppercase;letter-spacing:.05em}
+td.n{text-align:right;font-variant-numeric:tabular-nums}
+.tbl{overflow-x:auto;border-radius:12px;border:1px solid var(--line)}
+.chart{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px}
+.legend span{display:inline-block;margin-right:18px;font-size:14px;color:var(--mute)}.legend i{display:inline-block;width:14px;height:4px;border-radius:2px;margin-right:6px;vertical-align:middle}
+.agents{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px}
+.agent{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--c);border-radius:10px;padding:12px}
+.agent b{color:var(--c);letter-spacing:.08em}.agent div{color:var(--mute);font-size:14px;margin-top:4px}
+a{color:var(--ctrl)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Padhan Paper Desk <span class="paper">PAPER ONLY</span></h1>
+  <div class="sub" id="upd">Loading…</div>
+  <div class="verdict v-early" id="verdict">—</div>
+
+  <h2>Invest only if all of these hold</h2>
+  <div class="tbl"><table id="rules"></table></div>
+
+  <h2>AI desk vs random control</h2>
+  <div class="grid" id="cards"></div>
+
+  <h2>Equity — both books started at $1,000</h2>
+  <div class="chart"><div class="legend"><span><i style="background:var(--desk)"></i>AI desk</span><span><i style="background:var(--ctrl)"></i>Random control</span></div><svg id="chart" viewBox="0 0 1000 300" width="100%" preserveAspectRatio="none" style="height:300px"></svg></div>
+
+  <h2>Side-by-side</h2>
+  <div class="tbl"><table id="cmp"></table></div>
+
+  <h2>Open positions</h2>
+  <div class="tbl"><table id="open"></table></div>
+
+  <h2>Recent closed trades</h2>
+  <div class="tbl"><table id="trades"></table></div>
+
+  <h2>The agents</h2>
+  <div class="agents">
+    <div class="agent" style="--c:#a78bfa"><b>RADAR</b><div>Finds new tokens: DexScreener profiles &amp; boosts, GeckoTerminal new + trending pools</div></div>
+    <div class="agent" style="--c:#22c55e"><b>LUNA</b><div>Safety gate: liquidity, age, FDV, RugCheck authorities, LP lock. Fails closed.</div></div>
+    <div class="agent" style="--c:#f472b6"><b>ATLAS</b><div>Money flow: buy/sell pressure, trade count, volume acceleration</div></div>
+    <div class="agent" style="--c:#38bdf8"><b>VEGA</b><div>Attention: socials, website, paid boosts, trending lists</div></div>
+    <div class="agent" style="--c:#fb923c"><b>ORION</b><div>Momentum: rising now, not already a blow-off top</div></div>
+    <div class="agent" style="--c:#facc15"><b>TITAN</b><div>Sizing: 4–6% per trade, ≤1% of pool, max 6 open, −10% daily stop</div></div>
+    <div class="agent" style="--c:#2dd4bf"><b>NOVA</b><div>Execution sim: pool impact + slippage + fees; stops, take-profit, trailing</div></div>
+  </div>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const money=v=>(v<0?'-':'')+'$'+Math.abs(v).toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2});
+const pct=v=>(v>0?'+':'')+v.toFixed(2)+'%';
+const cls=v=>v>0?'pos':v<0?'neg':'';
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{
+  $('upd').textContent=`Updated ${d.updated_utc} UTC · day ${d.days.toFixed(1)} of the test · ${d.candidates_seen.toLocaleString()} tokens screened`;
+  const v=$('verdict');v.textContent=d.verdict;v.className='verdict '+(d.verdict.startsWith('PASSED')?'v-yes':d.verdict.startsWith('DO NOT')?'v-no':'v-early');
+  $('rules').innerHTML='<tr><th style="width:60px">Pass</th><th>Rule</th></tr>'+d.rules.map(([k,t])=>`<tr><td>${d.checks[k]?'✅':'❌'}</td><td>${esc(t)}</td></tr>`).join('');
+  const D=d.desk,C=d.control;
+  $('cards').innerHTML=[
+    ['Desk equity',money(D.equity),'desk'],['Desk return',pct(D.return_pct),cls(D.return_pct)],
+    ['Control return',pct(C.return_pct),cls(C.return_pct)],['Edge vs control',pct(D.return_pct-C.return_pct),cls(D.return_pct-C.return_pct)],
+    ['Desk trades',D.trades,''],['Desk win rate',D.win_rate+'%',''],['Max drawdown',D.max_dd_pct+'%',D.max_dd_pct>30?'neg':''],['Rug exits',D.rug_exits,D.rug_exits?'neg':'']
+  ].map(([k,v,c])=>`<div class="card"><div class="k">${k}</div><div class="v ${c}">${v}</div></div>`).join('');
+  const rows=[['Equity',money(D.equity),money(C.equity)],['Return',pct(D.return_pct),pct(C.return_pct)],['Closed trades',D.trades,C.trades],['Win rate',D.win_rate+'%',C.win_rate+'%'],
+    ['Avg win',D.avg_win_pct+'%',C.avg_win_pct+'%'],['Avg loss',D.avg_loss_pct+'%',C.avg_loss_pct+'%'],['Profit factor',D.profit_factor,C.profit_factor],['Max drawdown',D.max_dd_pct+'%',C.max_dd_pct+'%'],
+    ['Profit without top 3 trades',money(D.realized_ex_top3_usd),money(C.realized_ex_top3_usd)],['Best trade',money(D.best_trade_usd),money(C.best_trade_usd)],['Worst trade',money(D.worst_trade_usd),money(C.worst_trade_usd)]];
+  $('cmp').innerHTML='<tr><th>Metric</th><th class="n desk">AI desk</th><th class="n ctrl">Control</th></tr>'+rows.map(r=>`<tr><td>${r[0]}</td><td class="n">${r[1]}</td><td class="n">${r[2]}</td></tr>`).join('');
+  $('open').innerHTML='<tr><th>Book</th><th>Token</th><th>Opened (UTC)</th><th class="n">Size</th><th class="n">Score</th><th class="n">Move</th></tr>'+
+    (d.open_positions.length?d.open_positions.map(p=>`<tr><td class="${p.book==='desk'?'desk':'ctrl'}">${p.book}</td><td>${p.url?`<a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.symbol)}</a>`:esc(p.symbol)}</td><td>${esc(p.opened)}</td><td class="n">${money(p.cost)}</td><td class="n">${p.score}</td><td class="n ${cls(p.chg_pct)}">${pct(p.chg_pct)}</td></tr>`).join(''):'<tr><td colspan="6" style="color:var(--mute)">No open positions</td></tr>');
+  $('trades').innerHTML='<tr><th>Book</th><th>Token</th><th>Closed (UTC)</th><th class="n">Held</th><th class="n">P&amp;L</th><th>Exit</th></tr>'+
+    (d.recent_trades.length?d.recent_trades.map(t=>`<tr><td class="${t.book==='desk'?'desk':'ctrl'}">${t.book}</td><td>${esc(t.symbol)}</td><td>${esc(t.closed_utc)}</td><td class="n">${t.hold_min}m</td><td class="n ${cls(+t.pnl_usd)}">${money(+t.pnl_usd)} (${t.pnl_pct}%)</td><td>${esc(t.exit_reason.replace(/_/g,' '))}</td></tr>`).join(''):'<tr><td colspan="6" style="color:var(--mute)">No closed trades yet</td></tr>');
+  const e=d.equity;if(e.length>1){const vals=e.flatMap(x=>[x.d,x.c]).concat([1000]);const lo=Math.min(...vals)*0.98,hi=Math.max(...vals)*1.02;
+    const X=i=>i/(e.length-1)*1000,Y=v=>300-(v-lo)/(hi-lo)*300;const line=(k,c)=>`<polyline fill="none" stroke="${c}" stroke-width="2.5" vector-effect="non-scaling-stroke" points="${e.map((x,i)=>X(i)+','+Y(x[k])).join(' ')}"/>`;
+    $('chart').innerHTML=`<line x1="0" x2="1000" y1="${Y(1000)}" y2="${Y(1000)}" stroke="#3a4670" stroke-dasharray="6 6" vector-effect="non-scaling-stroke"/>`+line('c','#5aa9ff')+line('d','#ffb020');}
+}).catch(()=>{$('upd').textContent='No data yet — the desk publishes its first numbers about 15 minutes after it starts.'});
+</script>
+</body>
+</html>
