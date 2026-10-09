@@ -55,19 +55,19 @@
   "HoLyRoDEQvK5zPsGpcz3BbCWhceTGhWAGnVifSoUShit": 1791552047.2140203
  },
  "stats": {
-  "scans": 749,
-  "candidates_seen": 59877,
+  "scans": 764,
+  "candidates_seen": 61335,
   "rejections": {
-   "dex": 22941,
-   "liq_low": 19666,
-   "odd_quote": 5696,
-   "too_old": 7906,
-   "too_new": 347,
-   "rug_danger": 333,
+   "dex": 23435,
+   "liq_low": 20098,
+   "odd_quote": 5791,
+   "too_old": 8110,
+   "too_new": 360,
+   "rug_danger": 337,
    "fdv_liq_thin": 2,
    "fdv_low": 15,
-   "titan_daily_loss_stop": 378,
-   "lp_unlocked": 208
+   "titan_daily_loss_stop": 393,
+   "lp_unlocked": 243
   }
  },
  "last_prices": {}
