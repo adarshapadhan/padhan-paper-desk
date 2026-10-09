@@ -1,1 +1,1 @@
-2026-10-09 14:11:35Z [control] EXIT BORDR trailing_stop pnl=$+20.63 (+54.7%)
+2026-10-09 14:34:22Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
