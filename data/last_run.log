@@ -1,1 +1,4 @@
-2026-10-09 12:55:33Z [desk] BUY NTRNDM $38.24 @ 0.00019 score=66.2 liq=$37,090
+2026-10-09 13:03:28Z [desk] PARTIAL NTRNDM take_profit_1 sold 50% for $25.95
+2026-10-09 13:11:35Z [desk] EXIT Frank stop_loss pnl=$-14.77 (-28.3%)
+2026-10-09 13:12:36Z [desk] BUY open/acc $38.55 @ 0.0001715 score=65.8 liq=$38,982
+2026-10-09 13:14:56Z [desk] EXIT NTRNDM trailing_stop pnl=$+19.57 (+51.2%)
