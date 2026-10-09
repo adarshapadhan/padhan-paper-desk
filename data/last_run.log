@@ -1,0 +1,16 @@
+2026-10-09 09:59:06Z [desk] BUY Frank $52.17 @ 0.0008821 score=86.3 liq=$96,722
+2026-10-09 09:59:06Z [control] BUY QI $40.00 @ 0.0009887 score=78.0 liq=$94,755
+2026-10-09 09:59:06Z [desk] BUY QI $47.33 @ 0.0009887 score=78.0 liq=$94,755
+2026-10-09 09:59:06Z [control] BUY OWLNIGHT $39.93 @ 0.0005221 score=62.9 liq=$71,092
+2026-10-09 09:59:06Z [desk] BUY PQC $46.28 @ 0.001467 score=76.3 liq=$133,663
+2026-10-09 09:59:06Z [control] BUY SENTS $39.87 @ 8.321e-05 score=56.6 liq=$29,455
+2026-10-09 09:59:06Z [desk] BUY SC $40.34 @ 0.0002459 score=66.0 liq=$43,891
+2026-10-09 09:59:06Z [control] BUY Gary $39.80 @ 0.0012 score=64.7 liq=$106,869
+2026-10-09 10:00:08Z [desk] BUY OctoBul $40.36 @ 8.323e-05 score=65.6 liq=$27,730
+2026-10-09 10:00:08Z [control] BUY ABU $39.89 @ 0.0004701 score=39.4 liq=$68,466
+2026-10-09 10:02:24Z [desk] EXIT OctoBul stop_loss pnl=$-12.83 (-31.8%)
+2026-10-09 10:05:11Z [desk] BUY Slime $42.34 @ 0.0001103 score=70.5 liq=$29,327
+2026-10-09 10:05:11Z [control] BUY vamp $39.44 @ 7.446e-05 score=29.2 liq=$25,144
+2026-10-09 10:11:59Z [desk] EXIT SC stop_loss pnl=$-21.82 (-54.1%)
+2026-10-09 10:12:15Z [desk] BUY TRUMPSI $47.52 @ 0.0002364 score=80.8 liq=$41,229
+2026-10-09 10:13:15Z [desk] BUY SI276 $38.62 @ 0.001941 score=65.2 liq=$131,193
