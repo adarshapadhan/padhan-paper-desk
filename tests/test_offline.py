@@ -30,7 +30,7 @@ class Market:
         self.tokens[mint] = {
             "kind": kind, "price": self.r.uniform(1e-5, 1e-2), "liq": self.r.uniform(10_000, 400_000),
             "created": self.t - age_min * 60, "dex": self.r.choice(["raydium", "pumpswap", "pumpfun", "meteora"]),
-            "danger": self.r.random() < 0.3, "lp": self.r.choice([100, 100, 95, 40, None]),
+            "danger": self.r.random() < 0.3, "lp": self.r.choice([100, 100, 60, 20, None]),
             "rug_at": self.t + self.r.uniform(600, 6 * 3600), "boost": self.r.random() < 0.3,
             "m5": 0.0, "h1": 0.0, "hist": [],
         }
@@ -60,7 +60,7 @@ class Market:
         s = self.r.randint(5, 70)
         return {
             "chainId": "solana", "dexId": k["dex"], "url": "https://dexscreener.com/solana/" + m,
-            "pairAddress": "P" + m, "baseToken": {"address": m, "symbol": m[:8]},
+            "pairAddress": "P" + m, "baseToken": {"address": m, "symbol": m[:8]}, "quoteToken": {"symbol": "SOL"},
             "priceUsd": str(k["price"]), "liquidity": {"usd": k["liq"]},
             "fdv": k["liq"] * self.r.uniform(2, 30), "pairCreatedAt": int(k["created"] * 1000),
             "txns": {"m5": {"buys": b, "sells": s}},
@@ -133,7 +133,7 @@ def main():
     for b in st["books"].values():
         bought |= set(b["positions"])
     bad = [m for m in bought if mk.tokens[m]["danger"] or mk.tokens[m]["dex"] == "pumpfun"
-           or (mk.tokens[m]["lp"] is not None and mk.tokens[m]["lp"] < 80)]
+           or (mk.tokens[m]["lp"] is not None and mk.tokens[m]["lp"] < desk.CFG["min_lp_locked_pct"])]
     assert not bad, f"safety gate leaked: {bad}"
     # cost model sanity: a round trip at flat price must lose money
     q, _, cost = desk.fill_buy(1.0, 40, 100_000)

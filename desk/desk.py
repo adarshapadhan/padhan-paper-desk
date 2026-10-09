@@ -39,9 +39,10 @@ CFG = {
     "tick_every_s": 15,            # open-position price checks
     # LUNA hard gates
     "min_liq": 25_000, "max_liq": 5_000_000,
-    "min_age_min": 15, "max_age_h": 72,
+    "min_age_min": 15, "max_age_h": 168,
     "min_fdv": 50_000, "max_fdv_to_liq": 40,
-    "min_lp_locked_pct": 80,
+    "min_lp_locked_pct": 40,         # PumpSwap pools typically show 45-75% locked; raw unlocked pools show ~0%
+    "quote_ok": {"SOL", "WSOL", "USDC", "USDT"},
     "allowed_dex": {"raydium", "pumpswap", "meteora", "orca", "meteoradbc", "raydium-clmm", "raydium-cp"},
     "max_rug_checks_per_scan": 6,
     # entry
@@ -201,6 +202,8 @@ def luna_pregate(p, now):
     age_min = (now - created) / 60 if created else -1
     if p.get("dexId") not in CFG["allowed_dex"]:
         return "dex:" + str(p.get("dexId"))
+    if str((p.get("quoteToken") or {}).get("symbol", "")).upper() not in CFG["quote_ok"]:
+        return "odd_quote"
     if fnum(p.get("priceUsd")) <= 0:
         return "no_price"
     if liq < CFG["min_liq"]:
