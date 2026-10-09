@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 826.1764628135307,
+   "cash": 813.3490182563893,
    "positions": {
     "HbPDWSqu8hpVMX6gMjwMDGe5rVgicWo3Qh3Jaojypump": {
      "symbol": "Frank",
@@ -17,8 +17,8 @@
      "fill_price": 0.000891871549689904,
      "peak": 0.00101,
      "entry_liq": 96722.07,
-     "last_price": 0.0008527,
-     "last_liq": 95674.91,
+     "last_price": 0.0008196,
+     "last_liq": 93667.44,
      "score": 86.3,
      "detail": {
       "atlas": 100,
@@ -43,7 +43,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791547362.6229217
+     "last_seen": 1791548275.478127
     },
     "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump": {
      "symbol": "SI276",
@@ -57,8 +57,8 @@
      "fill_price": 0.0019615520893073763,
      "peak": 0.001999,
      "entry_liq": 131193.44,
-     "last_price": 0.001725,
-     "last_liq": 124164.76,
+     "last_price": 0.001545,
+     "last_liq": 117318.05,
      "score": 65.2,
      "detail": {
       "atlas": 31,
@@ -82,7 +82,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791547362.6229217
+     "last_seen": 1791548275.478127
     },
     "64oAuE88tNP7KsSyaiJTKGP4sWmLMFGWLUs9eBTLYgCp": {
      "symbol": "TikTok",
@@ -96,8 +96,8 @@
      "fill_price": 0.0005447132545625775,
      "peak": 0.0005696,
      "entry_liq": 77269.04,
-     "last_price": 0.0005139,
-     "last_liq": 76106.66,
+     "last_price": 0.0004551,
+     "last_liq": 71444.7,
      "score": 65.2,
      "detail": {
       "atlas": 59,
@@ -120,15 +120,15 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791547362.6229217
+     "last_seen": 1791548275.478127
     }
    },
-   "realized": -45.33353718646923,
+   "realized": -58.1609817436107,
    "fees_est": 0.0,
    "day": "2026-10-09",
    "day_start_equity": 1000.0,
    "halted_day": "",
-   "trades": 8,
+   "trades": 9,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.08271721727353654
   },
@@ -148,8 +148,8 @@
      "fill_price": 0.0004753481444225143,
      "peak": 0.0006179,
      "entry_liq": 68466.25,
-     "last_price": 0.0004901,
-     "last_liq": 70627.75,
+     "last_price": 0.0004455,
+     "last_liq": 67183.08,
      "score": 39.4,
      "detail": {
       "atlas": 19,
@@ -174,7 +174,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791547362.6229217
+     "last_seen": 1791548275.478127
     },
     "6Mix12LiHrQFojaQEnfPUC65Qkwd6X4Y5Qg93oFbordr": {
      "symbol": "BORDR",
@@ -186,10 +186,10 @@
      "cost": 37.7,
      "entry_price": 0.0007787,
      "fill_price": 0.0007872040095973368,
-     "peak": 0.0008016,
+     "peak": 0.0008691,
      "entry_liq": 81811.9,
-     "last_price": 0.000793,
-     "last_liq": 83270.85,
+     "last_price": 0.0008511,
+     "last_liq": 86189.85,
      "score": 38.7,
      "detail": {
       "atlas": 24,
@@ -212,7 +212,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791547362.6229217
+     "last_seen": 1791548275.478127
     },
     "HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy": {
      "symbol": "TWEETCRAFT",
@@ -224,10 +224,10 @@
      "cost": 38.61,
      "entry_price": 0.001168,
      "fill_price": 0.0011803167471906456,
-     "peak": 0.001278,
+     "peak": 0.00142,
      "entry_liq": 141569.2,
-     "last_price": 0.001188,
-     "last_liq": 143834.33,
+     "last_price": 0.001408,
+     "last_liq": 156601.8,
      "score": 59.0,
      "detail": {
       "atlas": 100,
@@ -250,7 +250,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791547362.6229217
+     "last_seen": 1791548275.478127
     }
    },
    "realized": -37.03751863824159,
@@ -281,17 +281,19 @@
   "64oAuE88tNP7KsSyaiJTKGP4sWmLMFGWLUs9eBTLYgCp": 1791543127.0238087,
   "6Mix12LiHrQFojaQEnfPUC65Qkwd6X4Y5Qg93oFbordr": 1791543127.0238087,
   "1DKg5vh5mAkPNLULYkbMdHGbHtSNM1EqTqnWXXspump": 1791543918.3458745,
-  "HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy": 1791543918.3458745
+  "HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy": 1791543918.3458745,
+  "GsYyeRX5nqh3KqgoWikjRzheTXYZgenNngrHdYZDpump": 1791547500.6714432
  },
  "stats": {
-  "scans": 120,
-  "candidates_seen": 9521,
+  "scans": 135,
+  "candidates_seen": 10636,
   "rejections": {
-   "dex": 3461,
-   "liq_low": 3924,
-   "odd_quote": 740,
-   "too_old": 1156,
-   "too_new": 60
+   "dex": 3870,
+   "liq_low": 4381,
+   "odd_quote": 860,
+   "too_old": 1276,
+   "too_new": 64,
+   "rug_danger": 2
   }
  },
  "last_prices": {}
