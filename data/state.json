@@ -17,8 +17,8 @@
      "fill_price": 0.000891871549689904,
      "peak": 0.00101,
      "entry_liq": 96722.07,
-     "last_price": 0.0008671,
-     "last_liq": 96306.47,
+     "last_price": 0.0008527,
+     "last_liq": 95674.91,
      "score": 86.3,
      "detail": {
       "atlas": 100,
@@ -43,7 +43,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791546455.595832
+     "last_seen": 1791547362.6229217
     },
     "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump": {
      "symbol": "SI276",
@@ -57,8 +57,8 @@
      "fill_price": 0.0019615520893073763,
      "peak": 0.001999,
      "entry_liq": 131193.44,
-     "last_price": 0.001784,
-     "last_liq": 126040.19,
+     "last_price": 0.001725,
+     "last_liq": 124164.76,
      "score": 65.2,
      "detail": {
       "atlas": 31,
@@ -82,7 +82,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791546455.595832
+     "last_seen": 1791547362.6229217
     },
     "64oAuE88tNP7KsSyaiJTKGP4sWmLMFGWLUs9eBTLYgCp": {
      "symbol": "TikTok",
@@ -96,8 +96,8 @@
      "fill_price": 0.0005447132545625775,
      "peak": 0.0005696,
      "entry_liq": 77269.04,
-     "last_price": 0.0004931,
-     "last_liq": 74362.95,
+     "last_price": 0.0005139,
+     "last_liq": 76106.66,
      "score": 65.2,
      "detail": {
       "atlas": 59,
@@ -120,7 +120,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791546455.595832
+     "last_seen": 1791547362.6229217
     }
    },
    "realized": -45.33353718646923,
@@ -148,8 +148,8 @@
      "fill_price": 0.0004753481444225143,
      "peak": 0.0006179,
      "entry_liq": 68466.25,
-     "last_price": 0.0005257,
-     "last_liq": 73068.49,
+     "last_price": 0.0004901,
+     "last_liq": 70627.75,
      "score": 39.4,
      "detail": {
       "atlas": 19,
@@ -174,7 +174,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791546455.595832
+     "last_seen": 1791547362.6229217
     },
     "6Mix12LiHrQFojaQEnfPUC65Qkwd6X4Y5Qg93oFbordr": {
      "symbol": "BORDR",
@@ -188,8 +188,8 @@
      "fill_price": 0.0007872040095973368,
      "peak": 0.0008016,
      "entry_liq": 81811.9,
-     "last_price": 0.0007521,
-     "last_liq": 80922.45,
+     "last_price": 0.000793,
+     "last_liq": 83270.85,
      "score": 38.7,
      "detail": {
       "atlas": 24,
@@ -212,7 +212,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791546455.595832
+     "last_seen": 1791547362.6229217
     },
     "HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy": {
      "symbol": "TWEETCRAFT",
@@ -226,8 +226,8 @@
      "fill_price": 0.0011803167471906456,
      "peak": 0.001278,
      "entry_liq": 141569.2,
-     "last_price": 0.001153,
-     "last_liq": 141364.21,
+     "last_price": 0.001188,
+     "last_liq": 143834.33,
      "score": 59.0,
      "detail": {
       "atlas": 100,
@@ -250,7 +250,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791546455.595832
+     "last_seen": 1791547362.6229217
     }
    },
    "realized": -37.03751863824159,
@@ -284,14 +284,14 @@
   "HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy": 1791543918.3458745
  },
  "stats": {
-  "scans": 105,
-  "candidates_seen": 8356,
+  "scans": 120,
+  "candidates_seen": 9521,
   "rejections": {
-   "dex": 3053,
-   "liq_low": 3439,
-   "odd_quote": 623,
-   "too_old": 1013,
-   "too_new": 50
+   "dex": 3461,
+   "liq_low": 3924,
+   "odd_quote": 740,
+   "too_old": 1156,
+   "too_new": 60
   }
  },
  "last_prices": {}
