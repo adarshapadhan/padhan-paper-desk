@@ -17,8 +17,8 @@
      "fill_price": 0.0015096879461359244,
      "peak": 0.001716,
      "entry_liq": 159278.38,
-     "last_price": 0.00125,
-     "last_liq": 145585.2,
+     "last_price": 0.001254,
+     "last_liq": 145780.55,
      "score": 70.5,
      "detail": {
       "atlas": 52,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791556435.1190407
+     "last_seen": 1791557387.9535854
     }
    },
    "realized": -101.36991307812434,
@@ -51,7 +51,7 @@
    "halted_day": "2026-10-09",
    "trades": 16,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.11017662409306284
+   "max_dd": 0.11061523953370056
   },
   "control": {
    "name": "control",
@@ -69,8 +69,8 @@
      "fill_price": 0.0011803167471906456,
      "peak": 0.00142,
      "entry_liq": 141569.2,
-     "last_price": 0.001224,
-     "last_liq": 145685.71,
+     "last_price": 0.00126,
+     "last_liq": 147784.38,
      "score": 59.0,
      "detail": {
       "atlas": 100,
@@ -93,7 +93,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791556435.1190407
+     "last_seen": 1791557387.9535854
     }
    },
    "realized": -38.45849021218627,
@@ -133,18 +133,18 @@
   "HoLyRoDEQvK5zPsGpcz3BbCWhceTGhWAGnVifSoUShit": 1791552047.2140203
  },
  "stats": {
-  "scans": 269,
-  "candidates_seen": 20599,
+  "scans": 284,
+  "candidates_seen": 21767,
   "rejections": {
-   "dex": 8102,
-   "liq_low": 7718,
-   "odd_quote": 1945,
-   "too_old": 2437,
+   "dex": 8631,
+   "liq_low": 8045,
+   "odd_quote": 2093,
+   "too_old": 2582,
    "too_new": 94,
-   "rug_danger": 73,
+   "rug_danger": 75,
    "fdv_liq_thin": 2,
-   "fdv_low": 7,
-   "titan_daily_loss_stop": 4
+   "fdv_low": 9,
+   "titan_daily_loss_stop": 5
   }
  },
  "last_prices": {}
