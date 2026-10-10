@@ -1,5 +1,5 @@
-2026-10-10 00:13:26Z [desk] PARTIAL qOMPUTE take_profit_1 sold 50% for $27.72
-2026-10-10 00:20:32Z [desk] EXIT qOMPUTE trailing_stop pnl=$+11.35 (+27.9%)
-2026-10-10 00:22:04Z [desk] BUY QC $39.74 @ 9.419e-05 score=71.5 liq=$25,428
-2026-10-10 00:22:04Z [control] BUY TikTok $37.80 @ 0.0003322 score=51.0 liq=$61,190
-2026-10-10 00:26:22Z [desk] PARTIAL CATFLIX take_profit_1 sold 50% for $25.80
+2026-10-10 00:31:13Z [desk] EXIT CATFLIX trailing_stop pnl=$+19.34 (+53.6%)
+2026-10-10 00:34:15Z [desk] EXIT QC stop_loss pnl=$-12.00 (-30.2%)
+2026-10-10 00:35:17Z [desk] BUY Gary $38.21 @ 0.0001332 score=68.1 liq=$35,857
+2026-10-10 00:37:19Z [desk] BUY qpcsbdef $39.73 @ 9.167e-05 score=71.5 liq=$25,164
+2026-10-10 00:38:35Z [desk] EXIT qpcsbdef stop_loss pnl=$-11.47 (-28.9%)
