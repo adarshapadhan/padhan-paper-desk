@@ -1,2 +1,3 @@
-2026-10-10 02:23:59Z [desk] BUY BNKR $35.75 @ 9.15e-05 score=68.7 liq=$28,543
-2026-10-10 02:23:59Z [control] BUY HIGGS $35.75 @ 0.001213 score=41.9 liq=$143,717
+2026-10-10 02:30:05Z [desk] BUY HI $35.14 @ 0.0001184 score=67.9 liq=$29,683
+2026-10-10 02:43:15Z [desk] EXIT SW liquidity_pulled pnl=$-36.83 (-100.0%)
+2026-10-10 02:43:15Z [desk] DAILY LOSS STOP hit — no new entries until next UTC day
