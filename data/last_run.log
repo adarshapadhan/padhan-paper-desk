@@ -1,5 +1,2 @@
-2026-10-10 00:31:13Z [desk] EXIT CATFLIX trailing_stop pnl=$+19.34 (+53.6%)
-2026-10-10 00:34:15Z [desk] EXIT QC stop_loss pnl=$-12.00 (-30.2%)
-2026-10-10 00:35:17Z [desk] BUY Gary $38.21 @ 0.0001332 score=68.1 liq=$35,857
-2026-10-10 00:37:19Z [desk] BUY qpcsbdef $39.73 @ 9.167e-05 score=71.5 liq=$25,164
-2026-10-10 00:38:35Z [desk] EXIT qpcsbdef stop_loss pnl=$-11.47 (-28.9%)
+2026-10-10 00:47:59Z [desk] EXIT Q/ACC stop_loss pnl=$-14.01 (-32.1%)
+2026-10-10 00:54:19Z [desk] EXIT Gary stop_loss pnl=$-16.55 (-43.3%)
