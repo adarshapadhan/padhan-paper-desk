@@ -1,4 +1,4 @@
-2026-10-10 01:50:27Z [desk] BUY BOTS $34.86 @ 9.1e-05 score=65.3 liq=$25,282
-2026-10-10 01:50:27Z [control] BUY open/acc $34.86 @ 7.865e-05 score=51.4 liq=$26,344
-2026-10-10 01:51:43Z [desk] EXIT BOTS stop_loss pnl=$-13.99 (-40.1%)
-2026-10-10 01:56:01Z [control] EXIT MogCat trailing_stop pnl=$+9.35 (+24.5%)
+2026-10-10 02:02:39Z [desk] BUY SQI $39.24 @ 0.0005168 score=75.8 liq=$62,466
+2026-10-10 02:02:39Z [control] BUY PAWS $37.45 @ 0.0002067 score=53.4 liq=$45,623
+2026-10-10 02:05:26Z [desk] PARTIAL SQI take_profit_1 sold 50% for $27.21
+2026-10-10 02:11:00Z [desk] EXIT SQI trailing_stop pnl=$+4.55 (+11.6%)
