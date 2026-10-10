@@ -16,53 +16,14 @@
   },
   "control": {
    "name": "control",
-   "cash": 872.0734658745,
-   "positions": {
-    "DoVAVzViX8Bjy3r15nwikSaSbzE6dV4ovd28aWpJpump": {
-     "symbol": "HIGGS",
-     "pair": "BFrSZakeqNzVtM3EFhroo4eRhagmmWN8BRntiQKFH6Ru",
-     "url": "https://dexscreener.com/solana/bfrszakeqnzvtm3efhroo4erhagmmwn8brntiqkfh6ru",
-     "opened": 1791599038.6539054,
-     "qty": 28849.162070642727,
-     "qty0": 28849.162070642727,
-     "cost": 35.75,
-     "entry_price": 0.001213,
-     "fill_price": 0.0012257331742742082,
-     "peak": 0.001532,
-     "entry_liq": 143716.96,
-     "last_price": 0.001342,
-     "last_liq": 151548.8,
-     "score": 41.9,
-     "detail": {
-      "atlas": 12,
-      "vega": 65,
-      "orion": 41,
-      "luna": 59,
-      "buy_ratio": 0.46,
-      "tx_m5": 13,
-      "vol_accel": 1.38,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": 5.49,
-      "h1": -0.47,
-      "liq": 143717,
-      "fdv": 1174948,
-      "turnover_h1": 0.12
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1791613019.1718664
-    }
-   },
-   "realized": -92.17653412550027,
+   "cash": 910.8972937567918,
+   "positions": {},
+   "realized": -89.10270624320853,
    "fees_est": 0.0,
    "day": "2026-10-10",
    "day_start_equity": 960.2426777184571,
    "halted_day": "",
-   "trades": 17,
+   "trades": 18,
    "peak_equity": 1005.3866010289258,
    "max_dd": 0.09854179488319914
   }
@@ -107,19 +68,19 @@
   "48HimqX34gdcKQeMJdqgW4etPyDo3xCcdHNXMDnCpump": 1791599404.2629213
  },
  "stats": {
-  "scans": 1169,
-  "candidates_seen": 94811,
+  "scans": 1184,
+  "candidates_seen": 95932,
   "rejections": {
-   "dex": 36942,
-   "liq_low": 29988,
-   "odd_quote": 8278,
-   "too_old": 12988,
-   "too_new": 587,
+   "dex": 37355,
+   "liq_low": 30339,
+   "odd_quote": 8339,
+   "too_old": 13168,
+   "too_new": 597,
    "rug_danger": 370,
    "fdv_liq_thin": 2,
    "fdv_low": 15,
-   "titan_daily_loss_stop": 521,
-   "lp_unlocked": 801,
+   "titan_daily_loss_stop": 536,
+   "lp_unlocked": 816,
    "liq_high": 3,
    "titan_max_positions": 6
   }
