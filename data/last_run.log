@@ -1,4 +1,1 @@
-2026-10-10 04:01:12Z [desk] EXIT SI276 time_exit pnl=$-9.58 (-23.7%)
-2026-10-10 04:01:12Z [desk] EXIT PQC time_exit pnl=$-7.45 (-18.9%)
-2026-10-10 04:01:12Z [control] EXIT PQC time_exit pnl=$-7.27 (-18.9%)
-2026-10-10 04:01:12Z [control] EXIT Frank time_exit pnl=$-3.87 (-10.1%)
+2026-10-10 04:14:14Z [control] EXIT PAWS stop_loss pnl=$-13.68 (-36.5%)
