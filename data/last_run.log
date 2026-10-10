@@ -1,0 +1,4 @@
+2026-10-10 01:50:27Z [desk] BUY BOTS $34.86 @ 9.1e-05 score=65.3 liq=$25,282
+2026-10-10 01:50:27Z [control] BUY open/acc $34.86 @ 7.865e-05 score=51.4 liq=$26,344
+2026-10-10 01:51:43Z [desk] EXIT BOTS stop_loss pnl=$-13.99 (-40.1%)
+2026-10-10 01:56:01Z [control] EXIT MogCat trailing_stop pnl=$+9.35 (+24.5%)
