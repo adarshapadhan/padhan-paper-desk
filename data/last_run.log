@@ -1,0 +1,12 @@
+2026-10-10 00:00:58Z [desk] BUY qOMPUTE $40.72 @ 0.002777 score=74.5 liq=$150,049
+2026-10-10 00:00:58Z [control] BUY PQC $38.41 @ 0.001682 score=72.2 liq=$149,531
+2026-10-10 00:00:58Z [desk] BUY SI276 $40.49 @ 0.00142 score=74.2 liq=$112,192
+2026-10-10 00:00:58Z [control] BUY QCOIN $38.35 @ 0.0004203 score=56.4 liq=$57,840
+2026-10-10 00:00:58Z [desk] BUY PQC $39.40 @ 0.001682 score=72.2 liq=$149,531
+2026-10-10 00:00:58Z [control] BUY Frank $38.28 @ 0.0005072 score=40.8 liq=$74,410
+2026-10-10 00:00:58Z [desk] BUY CATFLIX $36.07 @ 0.0003468 score=65.8 liq=$50,638
+2026-10-10 00:02:00Z [desk] BUY Q/ACC $43.62 @ 0.0001116 score=80.5 liq=$28,485
+2026-10-10 00:02:00Z [control] BUY MogCat $38.14 @ 9.948e-05 score=38.4 liq=$26,485
+2026-10-10 00:02:15Z [control] EXIT QCOIN stop_loss pnl=$-14.17 (-37.0%)
+2026-10-10 00:11:07Z [desk] BUY SW $36.83 @ 0.0003212 score=66.7 liq=$49,455
+2026-10-10 00:11:07Z [control] BUY vamp $36.83 @ 7.582e-05 score=32.7 liq=$26,040
