@@ -68,19 +68,19 @@
   "48HimqX34gdcKQeMJdqgW4etPyDo3xCcdHNXMDnCpump": 1791599404.2629213
  },
  "stats": {
-  "scans": 1619,
-  "candidates_seen": 130883,
+  "scans": 1634,
+  "candidates_seen": 132137,
   "rejections": {
-   "dex": 51485,
-   "liq_low": 40428,
-   "odd_quote": 10770,
-   "too_old": 18006,
-   "too_new": 852,
+   "dex": 51902,
+   "liq_low": 40808,
+   "odd_quote": 10873,
+   "too_old": 18136,
+   "too_new": 871,
    "rug_danger": 400,
    "fdv_liq_thin": 5,
    "fdv_low": 19,
-   "titan_daily_loss_stop": 848,
-   "lp_unlocked": 1327,
+   "titan_daily_loss_stop": 863,
+   "lp_unlocked": 1333,
    "liq_high": 5,
    "titan_max_positions": 6
   }
