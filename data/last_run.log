@@ -1,4 +1,2 @@
-2026-10-10 02:02:39Z [desk] BUY SQI $39.24 @ 0.0005168 score=75.8 liq=$62,466
-2026-10-10 02:02:39Z [control] BUY PAWS $37.45 @ 0.0002067 score=53.4 liq=$45,623
-2026-10-10 02:05:26Z [desk] PARTIAL SQI take_profit_1 sold 50% for $27.21
-2026-10-10 02:11:00Z [desk] EXIT SQI trailing_stop pnl=$+4.55 (+11.6%)
+2026-10-10 02:23:59Z [desk] BUY BNKR $35.75 @ 9.15e-05 score=68.7 liq=$28,543
+2026-10-10 02:23:59Z [control] BUY HIGGS $35.75 @ 0.001213 score=41.9 liq=$143,717
