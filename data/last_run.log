@@ -1,4 +1,14 @@
-2026-10-11 00:00:38Z [desk] BUY CLAUDIA $36.02 @ 0.004981 score=74.9 liq=$265,892
-2026-10-11 00:00:38Z [control] BUY QUBIT $36.02 @ 0.0001858 score=37.3 liq=$42,728
-2026-10-11 00:00:38Z [desk] BUY WWWCAT $33.44 @ 0.0001464 score=69.3 liq=$32,318
-2026-10-11 00:00:38Z [control] BUY TM $33.44 @ 0.0004468 score=63.2 liq=$65,432
+2026-10-11 00:01:29Z [desk] BUY LAUNCHER $36.32 @ 0.0001741 score=75.6 liq=$35,221
+2026-10-11 00:01:29Z [control] BUY SI276 $36.32 @ 0.0006943 score=56.4 liq=$79,991
+2026-10-11 00:01:29Z [desk] BUY Frank $33.46 @ 0.0003187 score=69.4 liq=$60,735
+2026-10-11 00:01:29Z [control] BUY Altai $33.46 @ 0.0007748 score=50.8 liq=$106,881
+2026-10-11 00:03:36Z [desk] BUY GOMOCAT $34.95 @ 0.0001454 score=72.5 liq=$32,135
+2026-10-11 00:03:36Z [control] BUY SQI $34.95 @ 0.0001246 score=65.5 liq=$29,849
+2026-10-11 00:03:36Z [desk] BUY SQI $31.73 @ 0.0001246 score=65.5 liq=$29,849
+2026-10-11 00:03:36Z [control] BUY QT $31.73 @ 0.001221 score=62.1 liq=$98,398
+2026-10-11 00:05:55Z [desk] PARTIAL WWWCAT take_profit_1 sold 50% for $26.14
+2026-10-11 00:06:57Z [desk] EXIT SQI liquidity_pulled pnl=$-31.44 (-99.1%)
+2026-10-11 00:06:57Z [control] EXIT SQI liquidity_pulled pnl=$-34.60 (-99.0%)
+2026-10-11 00:13:52Z [desk] BUY PQC $32.47 @ 0.0006001 score=67.9 liq=$91,249
+2026-10-11 00:13:52Z [control] BUY EVERYTHING $32.47 @ 0.006402 score=31.9 liq=$241,995
+2026-10-11 00:14:37Z [desk] EXIT WWWCAT trailing_stop pnl=$+18.99 (+56.8%)
