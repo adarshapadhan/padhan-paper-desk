@@ -1,0 +1,3 @@
+2026-10-11 05:05:14Z [desk] BUY QUBE $33.42 @ 0.0001066 score=75.4 liq=$27,893
+2026-10-11 05:09:48Z [desk] PARTIAL QUBE take_profit_1 sold 50% for $22.54
+2026-10-11 05:12:19Z [desk] EXIT QUBE trailing_stop pnl=$+8.59 (+25.7%)
