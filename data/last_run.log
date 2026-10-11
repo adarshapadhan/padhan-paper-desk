@@ -1,2 +1,2 @@
-2026-10-11 02:21:39Z [desk] EXIT SORACAT stop_loss pnl=$-13.41 (-40.4%)
-2026-10-11 02:31:19Z [desk] BUY NALA $37.24 @ 0.0001471 score=79.3 liq=$32,294
+2026-10-11 02:34:07Z [desk] EXIT NALA stop_loss pnl=$-16.10 (-43.2%)
+2026-10-11 02:37:10Z [desk] EXIT Frank trailing_stop pnl=$+13.20 (+39.5%)
