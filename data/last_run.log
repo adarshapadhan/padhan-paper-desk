@@ -1,1 +1,5 @@
-2026-10-11 02:57:31Z [desk] EXIT LAUNCHER stop_loss pnl=$-10.63 (-29.3%)
+2026-10-11 03:11:35Z [desk] BUY STRKT $31.85 @ 0.000132 score=70.7 liq=$33,528
+2026-10-11 03:13:37Z [desk] BUY FLCN $33.49 @ 0.0001026 score=74.8 liq=$26,630
+2026-10-11 03:13:37Z [control] BUY CYBERTIGER $33.44 @ 0.0001515 score=60.5 liq=$32,946
+2026-10-11 03:15:08Z [desk] PARTIAL STRKT take_profit_1 sold 50% for $21.27
+2026-10-11 03:17:40Z [control] PARTIAL CYBERTIGER take_profit_1 sold 50% for $22.49
