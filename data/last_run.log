@@ -1,3 +1,4 @@
-2026-10-11 05:05:14Z [desk] BUY QUBE $33.42 @ 0.0001066 score=75.4 liq=$27,893
-2026-10-11 05:09:48Z [desk] PARTIAL QUBE take_profit_1 sold 50% for $22.54
-2026-10-11 05:12:19Z [desk] EXIT QUBE trailing_stop pnl=$+8.59 (+25.7%)
+2026-10-11 05:23:31Z [control] EXIT SEED time_exit pnl=$-3.34 (-9.9%)
+2026-10-11 05:24:33Z [desk] BUY Memeology $29.34 @ 8.802e-05 score=65.2 liq=$25,361
+2026-10-11 05:25:49Z [desk] EXIT Memeology stop_loss pnl=$-9.90 (-33.7%)
+2026-10-11 05:31:54Z [control] EXIT Altai  time_exit pnl=$-7.48 (-22.9%)
