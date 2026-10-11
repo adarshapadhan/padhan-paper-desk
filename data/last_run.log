@@ -1,1 +1,6 @@
-2026-10-11 01:02:38Z [desk] EXIT PQC stop_loss pnl=$-9.49 (-29.2%)
+2026-10-11 01:23:30Z [desk] BUY CHROME $37.28 @ 0.0001421 score=78.7 liq=$31,811
+2026-10-11 01:23:30Z [control] BUY SEED $33.71 @ 0.0001387 score=21.9 liq=$31,101
+2026-10-11 01:24:15Z [control] PARTIAL SI276 take_profit_1 sold 50% for $24.44
+2026-10-11 01:28:55Z [desk] PARTIAL CHROME take_profit_1 sold 50% for $24.96
+2026-10-11 01:31:45Z [desk] BUY Ollie $32.65 @ 0.0002212 score=67.1 liq=$41,629
+2026-10-11 01:31:45Z [control] BUY Altai  $32.65 @ 0.0001088 score=35.3 liq=$34,877
