@@ -1,3 +1,2 @@
-2026-10-11 02:03:57Z [desk] PARTIAL Frank take_profit_1 sold 50% for $25.39
-2026-10-11 02:05:28Z [desk] EXIT Nasduck stop_loss pnl=$-10.45 (-29.2%)
-2026-10-11 02:12:05Z [desk] BUY SORACAT $33.17 @ 8.984e-05 score=68.6 liq=$25,096
+2026-10-11 02:21:39Z [desk] EXIT SORACAT stop_loss pnl=$-13.41 (-40.4%)
+2026-10-11 02:31:19Z [desk] BUY NALA $37.24 @ 0.0001471 score=79.3 liq=$32,294
