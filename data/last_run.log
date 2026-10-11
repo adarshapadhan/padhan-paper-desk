@@ -1,1 +1,2 @@
-2026-10-11 07:40:13Z [desk] BUY INTENTS $33.01 @ 0.0001042 score=75.4 liq=$27,537
+2026-10-11 07:57:06Z [desk] PARTIAL INTENTS take_profit_1 sold 50% for $24.18
+2026-10-11 08:06:40Z [desk] EXIT INTENTS trailing_stop pnl=$+19.69 (+59.6%)

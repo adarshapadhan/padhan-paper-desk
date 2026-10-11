@@ -3,53 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 685.385466919162,
-   "positions": {
-    "HJ6iNrnZtJJu7BH7r78ojtEZGdyKjZENNXXhAEqgpump": {
-     "symbol": "INTENTS",
-     "pair": "4Gk5ZEmZHcJDZsvm6rfDjjoW35xnpYbjgGDDQ1p9d4Aj",
-     "url": "https://dexscreener.com/solana/4gk5zemzhcjdzsvm6rfdjjow35xnpybjggddq1p9d4aj",
-     "opened": 1791704413.045086,
-     "qty": 309298.007354787,
-     "qty0": 309298.007354787,
-     "cost": 33.01,
-     "entry_price": 0.0001042,
-     "fill_price": 0.00010549122278234753,
-     "peak": 0.0001199,
-     "entry_liq": 27536.93,
-     "last_price": 0.0001165,
-     "last_liq": 29252.45,
-     "score": 75.4,
-     "detail": {
-      "atlas": 100,
-      "vega": 40,
-      "orion": 100,
-      "luna": 52,
-      "buy_ratio": 0.57,
-      "tx_m5": 821,
-      "vol_accel": 2.64,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": false,
-      "m5": 8.0,
-      "h1": 119.0,
-      "liq": 27537,
-      "fdv": 104221,
-      "turnover_h1": 5.08
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1791705122.7066858
-    }
-   },
-   "realized": -281.6045330808379,
+   "cash": 738.0813500471312,
+   "positions": {},
+   "realized": -261.91864995286863,
    "fees_est": 0.0,
    "day": "2026-10-11",
    "day_start_equity": 789.0044798144422,
    "halted_day": "2026-10-10",
-   "trades": 50,
+   "trades": 51,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.2897251435276901
   },
@@ -135,19 +96,19 @@
   "HJ6iNrnZtJJu7BH7r78ojtEZGdyKjZENNXXhAEqgpump": 1791704413.045086
  },
  "stats": {
-  "scans": 2684,
-  "candidates_seen": 219008,
+  "scans": 2699,
+  "candidates_seen": 220133,
   "rejections": {
-   "dex": 86279,
-   "liq_low": 66205,
-   "odd_quote": 18605,
-   "too_old": 27373,
-   "too_new": 1425,
+   "dex": 86739,
+   "liq_low": 66582,
+   "odd_quote": 18719,
+   "too_old": 27523,
+   "too_new": 1434,
    "rug_danger": 423,
    "fdv_liq_thin": 5,
    "fdv_low": 26,
    "titan_daily_loss_stop": 1424,
-   "lp_unlocked": 2492,
+   "lp_unlocked": 2507,
    "liq_high": 8,
    "titan_max_positions": 6,
    "no_price": 1
