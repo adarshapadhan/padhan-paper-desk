@@ -1,5 +1,5 @@
-2026-10-11 03:11:35Z [desk] BUY STRKT $31.85 @ 0.000132 score=70.7 liq=$33,528
-2026-10-11 03:13:37Z [desk] BUY FLCN $33.49 @ 0.0001026 score=74.8 liq=$26,630
-2026-10-11 03:13:37Z [control] BUY CYBERTIGER $33.44 @ 0.0001515 score=60.5 liq=$32,946
-2026-10-11 03:15:08Z [desk] PARTIAL STRKT take_profit_1 sold 50% for $21.27
-2026-10-11 03:17:40Z [control] PARTIAL CYBERTIGER take_profit_1 sold 50% for $22.49
+2026-10-11 03:18:59Z [desk] PARTIAL FLCN take_profit_1 sold 50% for $22.56
+2026-10-11 03:21:01Z [control] EXIT CYBERTIGER trailing_stop pnl=$+4.92 (+14.7%)
+2026-10-11 03:21:32Z [desk] BUY BUNDLED $31.77 @ 0.000122 score=68.2 liq=$30,263
+2026-10-11 03:22:48Z [desk] EXIT STRKT trailing_stop pnl=$+5.20 (+16.3%)
+2026-10-11 03:26:36Z [desk] EXIT FLCN trailing_stop pnl=$+11.87 (+35.4%)
