@@ -1,0 +1,3 @@
+2026-10-11 03:50:01Z [desk] BUY SGI $34.63 @ 9.201e-05 score=75.2 liq=$25,801
+2026-10-11 03:53:19Z [desk] EXIT SGI stop_loss pnl=$-14.47 (-41.8%)
+2026-10-11 04:01:26Z [control] EXIT SI276 time_exit pnl=$+11.43 (+31.5%)
