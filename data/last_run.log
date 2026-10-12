@@ -1,2 +1,2 @@
-2026-10-12 04:05:19Z [desk] EXIT eHOME stop_loss pnl=$-9.75 (-32.9%)
-2026-10-12 04:12:14Z [control] EXIT SI276 time_exit pnl=$+5.72 (+18.1%)
+2026-10-12 04:25:19Z [desk] EXIT TM time_exit pnl=$-5.56 (-19.5%)
+2026-10-12 04:33:46Z [desk] BUY DOGEFATHER $32.71 @ 0.0002044 score=79.5 liq=$38,870
