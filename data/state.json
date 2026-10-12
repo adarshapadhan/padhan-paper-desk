@@ -28,10 +28,10 @@
      "cost": 33.85,
      "entry_price": 0.009163,
      "fill_price": 0.00925694590899885,
-     "peak": 0.009724,
+     "peak": 0.009744,
      "entry_liq": 267790.45,
-     "last_price": 0.009721,
-     "last_liq": 277923.43,
+     "last_price": 0.009734,
+     "last_liq": 278251.93,
      "score": 59.0,
      "detail": {
       "atlas": 100,
@@ -52,7 +52,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791781473.8060997
+     "last_seen": 1791782378.3538268
     },
     "2MZWTeUkCTniqyUKRMaJ6WShXJAsb1qzCjwLxgDCpump": {
      "symbol": "NSAP",
@@ -88,7 +88,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791781473.8060997
+     "last_seen": 1791782378.3538268
     },
     "CNXcCGfENqGwQV6hV64M9mBSGfWxC8p3jBjtJ5sPpump": {
      "symbol": "HW2",
@@ -100,10 +100,10 @@
      "cost": 27.71,
      "entry_price": 0.0001066,
      "fill_price": 0.00010788058118731757,
-     "peak": 0.000111,
+     "peak": 0.0001395,
      "entry_liq": 27476.22,
-     "last_price": 0.0001104,
-     "last_liq": 27996.92,
+     "last_price": 0.0001395,
+     "last_liq": 31811.01,
      "score": 34.4,
      "detail": {
       "atlas": 13,
@@ -126,7 +126,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791781473.8060997
+     "last_seen": 1791782378.3538268
     }
    },
    "realized": -153.65637084421806,
@@ -202,19 +202,19 @@
   "CNXcCGfENqGwQV6hV64M9mBSGfWxC8p3jBjtJ5sPpump": 1791781197.1779027
  },
  "stats": {
-  "scans": 3944,
-  "candidates_seen": 322777,
+  "scans": 3959,
+  "candidates_seen": 323966,
   "rejections": {
-   "dex": 130270,
-   "liq_low": 91773,
-   "odd_quote": 27539,
-   "too_old": 42094,
-   "too_new": 2105,
+   "dex": 130901,
+   "liq_low": 92064,
+   "odd_quote": 27629,
+   "too_old": 42214,
+   "too_new": 2117,
    "rug_danger": 492,
    "fdv_liq_thin": 5,
-   "fdv_low": 759,
+   "fdv_low": 774,
    "titan_daily_loss_stop": 1828,
-   "lp_unlocked": 5273,
+   "lp_unlocked": 5303,
    "liq_high": 56,
    "titan_max_positions": 6,
    "no_price": 3
