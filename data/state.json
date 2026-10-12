@@ -102,19 +102,19 @@
   "5v44XTW2jCQ2oM4bnxx5mo1cZPCESNQWK4BMsVBwdpad": 1791806108.24224
  },
  "stats": {
-  "scans": 4619,
-  "candidates_seen": 375642,
+  "scans": 4634,
+  "candidates_seen": 376960,
   "rejections": {
-   "dex": 155364,
-   "liq_low": 104497,
-   "odd_quote": 32732,
-   "too_old": 48561,
-   "too_new": 2535,
+   "dex": 155889,
+   "liq_low": 104884,
+   "odd_quote": 32821,
+   "too_old": 48712,
+   "too_new": 2536,
    "rug_danger": 552,
    "fdv_liq_thin": 5,
    "fdv_low": 1204,
-   "titan_daily_loss_stop": 1954,
-   "lp_unlocked": 6436,
+   "titan_daily_loss_stop": 1968,
+   "lp_unlocked": 6488,
    "liq_high": 66,
    "titan_max_positions": 6,
    "no_price": 3
