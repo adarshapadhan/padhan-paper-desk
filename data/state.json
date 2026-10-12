@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 558.8776860200494,
+   "cash": 574.4813095670338,
    "positions": {
     "6KDpQM4BVDdtAkjtyFDiBCkbii8q8BieEyXXm6kNpump": {
      "symbol": "TM",
@@ -17,8 +17,8 @@
      "fill_price": 0.0006697706326531908,
      "peak": 0.00077,
      "entry_liq": 85000.23,
-     "last_price": 0.0005667,
-     "last_liq": 78999.31,
+     "last_price": 0.0005671,
+     "last_liq": 79080.0,
      "score": 68.6,
      "detail": {
       "atlas": 53,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791772387.20055
+     "last_seen": 1791773298.4905846
     },
     "Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump": {
      "symbol": "Altai",
@@ -55,8 +55,8 @@
      "fill_price": 0.00027181701073021304,
      "peak": 0.0002914,
      "entry_liq": 65680.14,
-     "last_price": 0.0002494,
-     "last_liq": 63529.21,
+     "last_price": 0.0002444,
+     "last_liq": 62935.21,
      "score": 67.0,
      "detail": {
       "atlas": 57,
@@ -79,7 +79,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791772387.20055
+     "last_seen": 1791773298.4905846
     },
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": {
      "symbol": "GOMODOGE",
@@ -93,8 +93,8 @@
      "fill_price": 0.00024585774869724866,
      "peak": 0.0003388,
      "entry_liq": 42395.4,
-     "last_price": 0.0003213,
-     "last_liq": 49487.86,
+     "last_price": 0.0002695,
+     "last_liq": 45220.97,
      "score": 65.8,
      "detail": {
       "atlas": 100,
@@ -117,7 +117,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791772387.20055
+     "last_seen": 1791773298.4905846
     },
     "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": {
      "symbol": "FIGHT",
@@ -129,10 +129,10 @@
      "cost": 31.03,
      "entry_price": 0.0001565,
      "fill_price": 0.00015835321790440288,
-     "peak": 0.0001706,
+     "peak": 0.0001747,
      "entry_liq": 33636.02,
-     "last_price": 0.0001706,
-     "last_liq": 35156.14,
+     "last_price": 0.0001703,
+     "last_liq": 35197.67,
      "score": 74.3,
      "detail": {
       "atlas": 100,
@@ -155,53 +155,15 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791772387.20055
-    },
-    "8ZP5CzbPL1fmP8dn1GEmLd8xw1JdudUF5Dk7EpLxpump": {
-     "symbol": "Solamians",
-     "pair": "89DxSaK1YZx8TbPapMSSEgkEdhYuhYBo26BytgELrJBd",
-     "url": "https://dexscreener.com/solana/89dxsak1yzx8tbpapmssegkedhyuhybo26bytgelrjbd",
-     "opened": 1791772232.739494,
-     "qty": 186158.30291339138,
-     "qty0": 186158.30291339138,
-     "cost": 28.64,
-     "entry_price": 0.0001501,
-     "fill_price": 0.00015185543463592914,
-     "peak": 0.000189,
-     "entry_liq": 33734.22,
-     "last_price": 0.0001539,
-     "last_liq": 34487.43,
-     "score": 66.9,
-     "detail": {
-      "atlas": 100,
-      "vega": 25,
-      "orion": 80,
-      "luna": 53,
-      "buy_ratio": 0.46,
-      "tx_m5": 1068,
-      "vol_accel": 3.68,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": false,
-      "m5": 13.15,
-      "h1": 228.0,
-      "liq": 33734,
-      "fdv": 150171,
-      "turnover_h1": 4.88
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1791772387.20055
+     "last_seen": 1791773298.4905846
     }
    },
-   "realized": -296.5823139799507,
+   "realized": -309.6186904329663,
    "fees_est": 0.0,
    "day": "2026-10-12",
    "day_start_equity": 708.5660375804404,
    "halted_day": "2026-10-11",
-   "trades": 64,
+   "trades": 65,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.327355144181832
   },
@@ -221,8 +183,8 @@
      "fill_price": 0.00029390520455861333,
      "peak": 0.0004272,
      "entry_liq": 64253.58,
-     "last_price": 0.0003921,
-     "last_liq": 75259.6,
+     "last_price": 0.0003689,
+     "last_liq": 72989.94,
      "score": 39.1,
      "detail": {
       "atlas": 50,
@@ -245,7 +207,7 @@
      },
      "tp1_done": true,
      "proceeds": 22.42092554074463,
-     "last_seen": 1791772387.20055
+     "last_seen": 1791773298.4905846
     },
     "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump": {
      "symbol": "SI276",
@@ -257,10 +219,10 @@
      "cost": 31.56,
      "entry_price": 0.001234,
      "fill_price": 0.001247055611739916,
-     "peak": 0.001421,
+     "peak": 0.001426,
      "entry_liq": 108780.93,
-     "last_price": 0.001391,
-     "last_liq": 116086.39,
+     "last_price": 0.001426,
+     "last_liq": 117639.33,
      "score": 40.2,
      "detail": {
       "atlas": 41,
@@ -284,7 +246,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791772387.20055
+     "last_seen": 1791773298.4905846
     },
     "9Twd5vXAPYSWwuPTVPgDmdxvVHsUQwijC4a1QvYZpump": {
      "symbol": "GOIF",
@@ -296,10 +258,10 @@
      "cost": 33.85,
      "entry_price": 0.009163,
      "fill_price": 0.00925694590899885,
-     "peak": 0.009235,
+     "peak": 0.009264,
      "entry_liq": 267790.45,
-     "last_price": 0.009235,
-     "last_liq": 269617.95,
+     "last_price": 0.009208,
+     "last_liq": 269402.18,
      "score": 59.0,
      "detail": {
       "atlas": 100,
@@ -320,7 +282,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791772387.20055
+     "last_seen": 1791773298.4905846
     }
    },
    "realized": -166.71530625505963,
@@ -390,22 +352,22 @@
   "8ZP5CzbPL1fmP8dn1GEmLd8xw1JdudUF5Dk7EpLxpump": 1791772232.739494
  },
  "stats": {
-  "scans": 3794,
-  "candidates_seen": 311468,
+  "scans": 3809,
+  "candidates_seen": 312574,
   "rejections": {
-   "dex": 124540,
-   "liq_low": 88899,
-   "odd_quote": 26704,
-   "too_old": 40833,
-   "too_new": 2014,
+   "dex": 125085,
+   "liq_low": 89180,
+   "odd_quote": 26770,
+   "too_old": 40981,
+   "too_new": 2019,
    "rug_danger": 492,
    "fdv_liq_thin": 5,
-   "fdv_low": 609,
+   "fdv_low": 624,
    "titan_daily_loss_stop": 1828,
-   "lp_unlocked": 4946,
+   "lp_unlocked": 4991,
    "liq_high": 53,
    "titan_max_positions": 6,
-   "no_price": 2
+   "no_price": 3
   }
  },
  "last_prices": {}
