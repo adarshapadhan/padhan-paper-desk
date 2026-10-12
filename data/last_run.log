@@ -1,1 +1,5 @@
-2026-10-12 02:43:41Z [desk] EXIT Solamians stop_loss pnl=$-13.04 (-45.5%)
+2026-10-12 02:53:43Z [desk] PARTIAL FIGHT take_profit_1 sold 50% for $23.37
+2026-10-12 02:54:44Z [desk] EXIT FIGHT trailing_stop pnl=$+6.39 (+20.6%)
+2026-10-12 03:00:55Z [desk] BUY TOPCAT $31.91 @ 0.000108 score=75.4 liq=$28,074
+2026-10-12 03:00:55Z [control] BUY NSAP $31.91 @ 0.000477 score=28.7 liq=$59,427
+2026-10-12 03:02:12Z [control] EXIT PQC trailing_stop pnl=$+7.34 (+22.2%)
