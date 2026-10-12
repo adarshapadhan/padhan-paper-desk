@@ -1,1 +1,2 @@
-2026-10-12 01:27:25Z [desk] EXIT SEAN trailing_stop pnl=$+40.38 (+136.1%)
+2026-10-12 01:44:04Z [desk] BUY oracle $30.83 @ 0.0001351 score=70.5 liq=$31,421
+2026-10-12 01:47:23Z [control] EXIT WEDNESDAY stop_loss pnl=$-9.25 (-32.5%)
