@@ -1,1 +1,5 @@
-2026-10-12 04:38:39Z [desk] EXIT Altai time_exit pnl=$-3.74 (-13.4%)
+2026-10-12 04:55:21Z [desk] PARTIAL DOGEFATHER take_profit_1 sold 50% for $22.27
+2026-10-12 04:59:57Z [desk] EXIT DOGEFATHER trailing_stop pnl=$+7.95 (+24.3%)
+2026-10-12 04:59:58Z [desk] BUY Wassie $27.71 @ 0.0002069 score=65.8 liq=$39,353
+2026-10-12 04:59:58Z [control] BUY HW2 $27.71 @ 0.0001066 score=34.4 liq=$27,476
+2026-10-12 05:02:00Z [desk] EXIT Wassie stop_loss pnl=$-11.35 (-40.9%)
