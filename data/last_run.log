@@ -1,4 +1,4 @@
-2026-10-12 00:51:30Z [control] EXIT trenchcat trailing_stop pnl=$+5.40 (+17.8%)
-2026-10-12 00:55:38Z [desk] BUY SEAN $29.68 @ 0.0005825 score=71.7 liq=$67,433
-2026-10-12 00:55:38Z [control] BUY apelink $29.68 @ 0.0002939 score=51.2 liq=$48,215
-2026-10-12 00:59:58Z [desk] PARTIAL SEAN take_profit_1 sold 50% for $20.88
+2026-10-12 01:06:38Z [control] EXIT ALOIS stop_loss pnl=$-9.34 (-33.2%)
+2026-10-12 01:10:45Z [desk] BUY GOMODOGE $28.53 @ 0.0002431 score=65.8 liq=$42,395
+2026-10-12 01:15:06Z [control] PARTIAL apelink take_profit_1 sold 50% for $21.08
+2026-10-12 01:16:37Z [control] EXIT apelink trailing_stop pnl=$+7.66 (+25.8%)
