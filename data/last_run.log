@@ -1,2 +1,3 @@
-2026-10-12 01:44:04Z [desk] BUY oracle $30.83 @ 0.0001351 score=70.5 liq=$31,421
-2026-10-12 01:47:23Z [control] EXIT WEDNESDAY stop_loss pnl=$-9.25 (-32.5%)
+2026-10-12 01:47:55Z [desk] EXIT oracle stop_loss pnl=$-12.16 (-39.4%)
+2026-10-12 01:48:27Z [control] EXIT DOPE trailing_stop pnl=$+13.01 (+39.4%)
+2026-10-12 02:02:18Z [desk] BUY XDOGE $28.44 @ 0.0001515 score=66.0 liq=$32,971
