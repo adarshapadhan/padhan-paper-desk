@@ -93,19 +93,19 @@
   "EaqXJVr1aFPhMyTJbDCpwvTeiKc8x4gueFjFKKBvtcWY": 1791787937.9202075
  },
  "stats": {
-  "scans": 4079,
-  "candidates_seen": 333517,
+  "scans": 4094,
+  "candidates_seen": 334727,
   "rejections": {
-   "dex": 136056,
-   "liq_low": 94433,
-   "odd_quote": 28261,
-   "too_old": 43242,
-   "too_new": 2181,
+   "dex": 136707,
+   "liq_low": 94738,
+   "odd_quote": 28338,
+   "too_old": 43376,
+   "too_new": 2193,
    "rug_danger": 492,
    "fdv_liq_thin": 5,
-   "fdv_low": 894,
+   "fdv_low": 909,
    "titan_daily_loss_stop": 1828,
-   "lp_unlocked": 5478,
+   "lp_unlocked": 5494,
    "liq_high": 58,
    "titan_max_positions": 6,
    "no_price": 3
