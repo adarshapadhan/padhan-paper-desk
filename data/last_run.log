@@ -1,1 +1,3 @@
-2026-10-12 05:28:07Z [desk] BUY DOGCOIN $29.53 @ 0.0001113 score=71.7 liq=$28,811
+2026-10-12 05:35:43Z [desk] PARTIAL DOGCOIN take_profit_1 sold 50% for $19.82
+2026-10-12 05:41:18Z [desk] EXIT DOGCOIN trailing_stop pnl=$+10.02 (+33.9%)
+2026-10-12 05:45:21Z [control] PARTIAL HW2 take_profit_1 sold 50% for $18.51
