@@ -1,2 +1,5 @@
-2026-10-12 08:41:03Z [desk] PARTIAL DOPEBAT take_profit_1 sold 50% for $19.17
-2026-10-12 08:41:03Z [control] PARTIAL DOPEBAT take_profit_1 sold 50% for $19.36
+2026-10-12 08:55:48Z [desk] BUY Ploy $27.98 @ 0.0001296 score=66.9 liq=$32,528
+2026-10-12 08:58:51Z [desk] BUY Gem $29.76 @ 0.0001103 score=71.7 liq=$29,286
+2026-10-12 09:00:37Z [desk] EXIT Ploy stop_loss pnl=$-8.69 (-31.1%)
+2026-10-12 09:01:22Z [desk] PARTIAL Gem take_profit_1 sold 50% for $20.46
+2026-10-12 09:03:24Z [desk] EXIT Gem trailing_stop pnl=$+6.68 (+22.5%)
