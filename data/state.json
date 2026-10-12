@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 620.5391738175063,
+   "cash": 610.1175494768297,
    "positions": {
     "6KDpQM4BVDdtAkjtyFDiBCkbii8q8BieEyXXm6kNpump": {
      "symbol": "TM",
@@ -17,8 +17,8 @@
      "fill_price": 0.0006697706326531908,
      "peak": 0.00077,
      "entry_liq": 85000.23,
-     "last_price": 0.0005601,
-     "last_liq": 78435.27,
+     "last_price": 0.000536,
+     "last_liq": 76713.47,
      "score": 68.6,
      "detail": {
       "atlas": 53,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791776932.2947655
+     "last_seen": 1791777841.0508401
     },
     "Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump": {
      "symbol": "Altai",
@@ -55,8 +55,8 @@
      "fill_price": 0.00027181701073021304,
      "peak": 0.0002914,
      "entry_liq": 65680.14,
-     "last_price": 0.0002561,
-     "last_liq": 64328.08,
+     "last_price": 0.0002649,
+     "last_liq": 65454.8,
      "score": 67.0,
      "detail": {
       "atlas": 57,
@@ -79,53 +79,53 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791776932.2947655
+     "last_seen": 1791777841.0508401
     },
-    "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": {
-     "symbol": "GOMODOGE",
-     "pair": "2JU6tUmem5LrSA3SNpTrSYjqGysjqTgs4RwX858sVN3A",
-     "url": "https://dexscreener.com/solana/2ju6tumem5lrsa3snptrsyjqgysjqtgs4rwx858svn3a",
-     "opened": 1791767444.4845114,
-     "qty": 57267.719136800035,
-     "qty0": 114535.43827360007,
-     "cost": 28.53,
-     "entry_price": 0.0002431,
-     "fill_price": 0.00024585774869724866,
-     "peak": 0.0004318,
-     "entry_liq": 42395.4,
-     "last_price": 0.0003528,
-     "last_liq": 52065.93,
-     "score": 65.8,
+    "DTkkyUtNrPZK3WXd1ZvASyCbgz2pLpZApm6wspfSpump": {
+     "symbol": "eHOME",
+     "pair": "BTtufMBGPwiGyBErK8RVYqezP654pF9paZLe1MtbcMdf",
+     "url": "https://dexscreener.com/solana/bttufmbgpwigyberk8rvyqezp654pf9pazle1mtbcmdf",
+     "opened": 1791777441.5020378,
+     "qty": 248220.18563589972,
+     "qty0": 248220.18563589972,
+     "cost": 29.64,
+     "entry_price": 0.0001165,
+     "fill_price": 0.00011790600319238183,
+     "peak": 0.0001165,
+     "entry_liq": 28596.44,
+     "last_price": 9.078e-05,
+     "last_liq": 25108.6,
+     "score": 70.4,
      "detail": {
       "atlas": 100,
-      "vega": 60,
-      "orion": 40,
-      "luna": 54,
-      "buy_ratio": 0.75,
-      "tx_m5": 204,
-      "vol_accel": 0.79,
+      "vega": 40,
+      "orion": 80,
+      "luna": 52,
+      "buy_ratio": 0.59,
+      "tx_m5": 212,
+      "vol_accel": 2.63,
       "socials": [
        "twitter"
       ],
-      "boosted": true,
+      "boosted": false,
       "trending": false,
-      "m5": -4.73,
-      "h1": 12.38,
-      "liq": 42395,
-      "fdv": 243124,
-      "turnover_h1": 6.81
+      "m5": 16.1,
+      "h1": 152.0,
+      "liq": 28596,
+      "fdv": 116530,
+      "turnover_h1": 4.9
      },
-     "tp1_done": true,
-     "proceeds": 18.958492503418583,
-     "last_seen": 1791776932.2947655
+     "tp1_done": false,
+     "proceeds": 0.0,
+     "last_seen": 1791777841.0508401
     }
    },
-   "realized": -313.5493186859124,
+   "realized": -303.90245052317033,
    "fees_est": 0.0,
    "day": "2026-10-12",
    "day_start_equity": 708.5660375804404,
    "halted_day": "2026-10-11",
-   "trades": 67,
+   "trades": 68,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.327355144181832
   },
@@ -145,8 +145,8 @@
      "fill_price": 0.001247055611739916,
      "peak": 0.001585,
      "entry_liq": 108780.93,
-     "last_price": 0.001558,
-     "last_liq": 122791.52,
+     "last_price": 0.001505,
+     "last_liq": 120708.06,
      "score": 40.2,
      "detail": {
       "atlas": 41,
@@ -170,7 +170,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791776932.2947655
+     "last_seen": 1791777841.0508401
     },
     "9Twd5vXAPYSWwuPTVPgDmdxvVHsUQwijC4a1QvYZpump": {
      "symbol": "GOIF",
@@ -182,10 +182,10 @@
      "cost": 33.85,
      "entry_price": 0.009163,
      "fill_price": 0.00925694590899885,
-     "peak": 0.009457,
+     "peak": 0.009589,
      "entry_liq": 267790.45,
-     "last_price": 0.009445,
-     "last_liq": 272233.62,
+     "last_price": 0.009532,
+     "last_liq": 273527.56,
      "score": 59.0,
      "detail": {
       "atlas": 100,
@@ -206,7 +206,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791776932.2947655
+     "last_seen": 1791777841.0508401
     },
     "2MZWTeUkCTniqyUKRMaJ6WShXJAsb1qzCjwLxgDCpump": {
      "symbol": "NSAP",
@@ -220,8 +220,8 @@
      "fill_price": 0.0004822817126730249,
      "peak": 0.000477,
      "entry_liq": 59426.87,
-     "last_price": 0.0004678,
-     "last_liq": 58711.83,
+     "last_price": 0.0004721,
+     "last_liq": 58967.31,
      "score": 28.7,
      "detail": {
       "atlas": 53,
@@ -242,7 +242,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791776932.2947655
+     "last_seen": 1791777841.0508401
     }
    },
    "realized": -159.37915254564567,
@@ -311,22 +311,23 @@
   "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": 1791771801.6683447,
   "8ZP5CzbPL1fmP8dn1GEmLd8xw1JdudUF5Dk7EpLxpump": 1791772232.739494,
   "EUDhQF4VPg9R1hDR8Kebj11dRTcvUkpNs9pUxyhApump": 1791774054.0735002,
-  "2MZWTeUkCTniqyUKRMaJ6WShXJAsb1qzCjwLxgDCpump": 1791774054.0735002
+  "2MZWTeUkCTniqyUKRMaJ6WShXJAsb1qzCjwLxgDCpump": 1791774054.0735002,
+  "DTkkyUtNrPZK3WXd1ZvASyCbgz2pLpZApm6wspfSpump": 1791777441.5020378
  },
  "stats": {
-  "scans": 3869,
-  "candidates_seen": 317080,
+  "scans": 3884,
+  "candidates_seen": 318202,
   "rejections": {
-   "dex": 127347,
-   "liq_low": 90349,
-   "odd_quote": 27098,
-   "too_old": 41490,
-   "too_new": 2057,
+   "dex": 127922,
+   "liq_low": 90644,
+   "odd_quote": 27181,
+   "too_old": 41610,
+   "too_new": 2060,
    "rug_danger": 492,
    "fdv_liq_thin": 5,
-   "fdv_low": 684,
+   "fdv_low": 699,
    "titan_daily_loss_stop": 1828,
-   "lp_unlocked": 5112,
+   "lp_unlocked": 5142,
    "liq_high": 55,
    "titan_max_positions": 6,
    "no_price": 3
