@@ -1,7 +1,4 @@
-2026-10-12 00:36:24Z [desk] BUY REGGIE $27.38 @ 0.0001524 score=65.2 liq=$33,966
-2026-10-12 00:36:39Z [desk] PARTIAL CLAUD take_profit_1 sold 50% for $23.88
-2026-10-12 00:38:26Z [desk] BUY Altai $27.87 @ 0.0002689 score=67.0 liq=$65,680
-2026-10-12 00:40:44Z [desk] EXIT REGGIE stop_loss pnl=$-9.38 (-34.3%)
-2026-10-12 00:40:44Z [control] PARTIAL trenchcat take_profit_1 sold 50% for $20.24
-2026-10-12 00:41:00Z [control] PARTIAL DOPE take_profit_1 sold 50% for $22.11
-2026-10-12 00:46:06Z [desk] EXIT CLAUD trailing_stop pnl=$+13.41 (+38.6%)
+2026-10-12 00:51:30Z [control] EXIT trenchcat trailing_stop pnl=$+5.40 (+17.8%)
+2026-10-12 00:55:38Z [desk] BUY SEAN $29.68 @ 0.0005825 score=71.7 liq=$67,433
+2026-10-12 00:55:38Z [control] BUY apelink $29.68 @ 0.0002939 score=51.2 liq=$48,215
+2026-10-12 00:59:58Z [desk] PARTIAL SEAN take_profit_1 sold 50% for $20.88
