@@ -1,0 +1,6 @@
+2026-10-12 11:55:09Z [desk] BUY Tika $29.94 @ 0.0002343 score=71.6 liq=$41,222
+2026-10-12 11:55:09Z [control] BUY Multipad $29.94 @ 9.98e-05 score=67.9 liq=$26,183
+2026-10-12 11:55:09Z [desk] BUY Multipad $28.44 @ 9.98e-05 score=67.9 liq=$26,183
+2026-10-12 11:57:41Z [desk] EXIT Tika liquidity_pulled pnl=$-29.94 (-100.0%)
+2026-10-12 12:04:32Z [desk] EXIT Multipad stop_loss pnl=$-10.60 (-37.3%)
+2026-10-12 12:04:32Z [control] EXIT Multipad stop_loss pnl=$-11.14 (-37.2%)
