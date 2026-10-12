@@ -1,10 +1,3 @@
-2026-10-12 00:01:56Z [desk] BUY CLAUD $34.75 @ 0.0005143 score=80.5 liq=$64,087
-2026-10-12 00:01:56Z [control] BUY PQC $32.99 @ 0.0002907 score=39.1 liq=$64,254
-2026-10-12 00:05:01Z [desk] EXIT DOGEPAY stop_loss pnl=$-12.50 (-34.4%)
-2026-10-12 00:05:02Z [desk] BUY Glorp $28.08 @ 0.0001426 score=65.1 liq=$34,707
-2026-10-12 00:05:02Z [control] BUY ALOIS $28.08 @ 0.0001326 score=47.0 liq=$34,688
-2026-10-12 00:11:10Z [desk] BUY coal $30.34 @ 9.307e-05 score=71.0 liq=$25,950
-2026-10-12 00:11:10Z [control] BUY trenchcat $30.34 @ 9.025e-05 score=51.7 liq=$27,070
-2026-10-12 00:12:12Z [desk] BUY BATONCAT $31.56 @ 0.0001551 score=74.2 liq=$33,497
-2026-10-12 00:12:12Z [control] BUY SI276 $31.56 @ 0.001234 score=40.2 liq=$108,781
-2026-10-12 00:14:14Z [desk] EXIT coal stop_loss pnl=$-8.96 (-29.5%)
+2026-10-12 00:19:09Z [desk] EXIT BATONCAT stop_loss pnl=$-9.10 (-28.8%)
+2026-10-12 00:25:19Z [desk] BUY TM $28.47 @ 0.0006627 score=68.6 liq=$85,000
+2026-10-12 00:25:19Z [control] BUY WEDNESDAY $28.47 @ 9.064e-05 score=64.7 liq=$25,203
