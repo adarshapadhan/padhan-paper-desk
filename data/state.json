@@ -99,19 +99,19 @@
   "7MKsF76rx5UMAdtUS1WLNeu4NYdpAfiCccV62upNworm": 1791798446.1162987
  },
  "stats": {
-  "scans": 4259,
-  "candidates_seen": 347096,
+  "scans": 4274,
+  "candidates_seen": 348184,
   "rejections": {
-   "dex": 142938,
-   "liq_low": 97803,
-   "odd_quote": 29365,
-   "too_old": 44903,
-   "too_new": 2309,
+   "dex": 143428,
+   "liq_low": 98088,
+   "odd_quote": 29479,
+   "too_old": 45053,
+   "too_new": 2313,
    "rug_danger": 492,
    "fdv_liq_thin": 5,
-   "fdv_low": 1074,
+   "fdv_low": 1089,
    "titan_daily_loss_stop": 1828,
-   "lp_unlocked": 5686,
+   "lp_unlocked": 5701,
    "liq_high": 62,
    "titan_max_positions": 6,
    "no_price": 3
