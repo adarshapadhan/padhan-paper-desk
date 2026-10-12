@@ -3,46 +3,8 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 620.2047868812176,
+   "cash": 644.3340640366276,
    "positions": {
-    "Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump": {
-     "symbol": "Altai",
-     "pair": "DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt",
-     "url": "https://dexscreener.com/solana/dmeut8uv5jx8g7jb7tp9xyfburp5z7p6vplse2wbbrht",
-     "opened": 1791765505.808338,
-     "qty": 101174.95930854631,
-     "qty0": 101174.95930854631,
-     "cost": 27.87,
-     "entry_price": 0.0002689,
-     "fill_price": 0.00027181701073021304,
-     "peak": 0.0002914,
-     "entry_liq": 65680.14,
-     "last_price": 0.0002479,
-     "last_liq": 63345.3,
-     "score": 67.0,
-     "detail": {
-      "atlas": 57,
-      "vega": 65,
-      "orion": 100,
-      "luna": 44,
-      "buy_ratio": 0.34,
-      "tx_m5": 41,
-      "vol_accel": 3.77,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": 13.15,
-      "h1": 10.88,
-      "liq": 65680,
-      "fdv": 264660,
-      "turnover_h1": 0.24
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1791779656.5907114
-    },
     "EJe4FMVNLjWLXjbe1juyJG2gghGpSD5Z8fjQi7Xrpump": {
      "symbol": "DOGEFATHER",
      "pair": "CM657S2Rc1Um8iJ2zd14ZfJfkBVXTXwkoKWrLYznDEph",
@@ -53,10 +15,10 @@
      "cost": 32.71,
      "entry_price": 0.0002044,
      "fill_price": 0.0002067874410036029,
-     "peak": 0.0002044,
+     "peak": 0.0002477,
      "entry_liq": 38869.5,
-     "last_price": 0.0001885,
-     "last_liq": 37260.29,
+     "last_price": 0.0002104,
+     "last_liq": 39833.4,
      "score": 79.5,
      "detail": {
       "atlas": 100,
@@ -80,17 +42,17 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791779656.5907114
+     "last_seen": 1791780565.1727223
     }
    },
-   "realized": -319.21521311878246,
+   "realized": -322.95593596337244,
    "fees_est": 0.0,
    "day": "2026-10-12",
    "day_start_equity": 708.5660375804404,
    "halted_day": "2026-10-11",
-   "trades": 70,
+   "trades": 71,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.327355144181832
+   "max_dd": 0.3279986615867374
   },
   "control": {
    "name": "control",
@@ -106,10 +68,10 @@
      "cost": 33.85,
      "entry_price": 0.009163,
      "fill_price": 0.00925694590899885,
-     "peak": 0.009611,
+     "peak": 0.0097,
      "entry_liq": 267790.45,
-     "last_price": 0.009609,
-     "last_liq": 274991.92,
+     "last_price": 0.009699,
+     "last_liq": 277340.9,
      "score": 59.0,
      "detail": {
       "atlas": 100,
@@ -130,7 +92,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791779656.5907114
+     "last_seen": 1791780565.1727223
     },
     "2MZWTeUkCTniqyUKRMaJ6WShXJAsb1qzCjwLxgDCpump": {
      "symbol": "NSAP",
@@ -144,8 +106,8 @@
      "fill_price": 0.0004822817126730249,
      "peak": 0.000477,
      "entry_liq": 59426.87,
-     "last_price": 0.0004721,
-     "last_liq": 58967.31,
+     "last_price": 0.0004707,
+     "last_liq": 59107.24,
      "score": 28.7,
      "detail": {
       "atlas": 53,
@@ -166,7 +128,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791779656.5907114
+     "last_seen": 1791780565.1727223
     }
    },
    "realized": -153.65637084421806,
@@ -240,20 +202,20 @@
   "EJe4FMVNLjWLXjbe1juyJG2gghGpSD5Z8fjQi7Xrpump": 1791779624.7888818
  },
  "stats": {
-  "scans": 3914,
-  "candidates_seen": 320483,
+  "scans": 3929,
+  "candidates_seen": 321618,
   "rejections": {
-   "dex": 129098,
-   "liq_low": 91217,
-   "odd_quote": 27354,
-   "too_old": 41854,
-   "too_new": 2083,
+   "dex": 129675,
+   "liq_low": 91498,
+   "odd_quote": 27444,
+   "too_old": 41974,
+   "too_new": 2093,
    "rug_danger": 492,
    "fdv_liq_thin": 5,
-   "fdv_low": 729,
+   "fdv_low": 744,
    "titan_daily_loss_stop": 1828,
-   "lp_unlocked": 5202,
-   "liq_high": 55,
+   "lp_unlocked": 5243,
+   "liq_high": 56,
    "titan_max_positions": 6,
    "no_price": 3
   }
