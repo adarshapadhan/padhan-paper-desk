@@ -3,14 +3,54 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 629.4134422155192,
-   "positions": {},
-   "realized": -370.58655778448065,
+   "cash": 628.7043861050536,
+   "positions": {
+    "291HZmFgynd2MY2YTzbZ7sjoZbKnuZgdJAi9oq7Kpump": {
+     "symbol": "AMD",
+     "pair": "A3o4b8yDsJvkVuJctFC7gyF8wJRpC77b9a2FvND1EbKz",
+     "url": "https://dexscreener.com/solana/a3o4b8ydsjvkvujctfc7gyf8wjrpc77b9a2fvnd1ebkz",
+     "opened": 1791866970.3248715,
+     "qty": 92775.76864512703,
+     "qty0": 185551.53729025405,
+     "cost": 30.32,
+     "entry_price": 0.0001595,
+     "fill_price": 0.00016138346487077495,
+     "peak": 0.0002398,
+     "entry_liq": 33468.85,
+     "last_price": 0.0002102,
+     "last_liq": 38930.26,
+     "score": 79.3,
+     "detail": {
+      "atlas": 100,
+      "vega": 55,
+      "orion": 100,
+      "luna": 53,
+      "buy_ratio": 0.74,
+      "tx_m5": 1443,
+      "vol_accel": 1.91,
+      "socials": [
+       "telegram",
+       "twitter"
+      ],
+      "boosted": false,
+      "trending": false,
+      "m5": 8.29,
+      "h1": 11.91,
+      "liq": 33469,
+      "fdv": 159598,
+      "turnover_h1": 7.05
+     },
+     "tp1_done": true,
+     "proceeds": 20.44808627840607,
+     "last_seen": 1791867864.5702896
+    }
+   },
+   "realized": -361.4237001733523,
    "fees_est": 0.0,
    "day": "2026-10-13",
    "day_start_equity": 632.294783343336,
    "halted_day": "2026-10-12",
-   "trades": 101,
+   "trades": 102,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.3945701945746608
   },
@@ -54,7 +94,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791866954.0963469
+     "last_seen": 1791867864.5702896
     }
    },
    "realized": -159.0886453749205,
@@ -134,22 +174,24 @@
   "2qxMU9Esp7xKKPfZZoJRu8mee78EvaKRb7X9Kadkpump": 1791860376.355941,
   "8aypoBa471aqUqnri3g8mZNgGERUYeuBqf624xcepump": 1791860376.355941,
   "GbMfpnmsavwc5uHCqhbuFrSLdtggJiAxub7UKQ2hpump": 1791861037.3531454,
-  "F9QL6w3RyEoY4LKtKPCUZ62wmTjPaD7wdb1VR3Nppump": 1791862126.7928824
+  "F9QL6w3RyEoY4LKtKPCUZ62wmTjPaD7wdb1VR3Nppump": 1791862126.7928824,
+  "291HZmFgynd2MY2YTzbZ7sjoZbKnuZgdJAi9oq7Kpump": 1791866970.3248715,
+  "G3eJ4GGukKkqy8ftkC5EuzAkbersziWAyxuLCoS9pump": 1791867213.9717658
  },
  "stats": {
-  "scans": 5354,
-  "candidates_seen": 441603,
+  "scans": 5369,
+  "candidates_seen": 442919,
   "rejections": {
-   "dex": 180650,
-   "liq_low": 125913,
-   "odd_quote": 37448,
-   "too_old": 56234,
-   "too_new": 3004,
-   "rug_danger": 1192,
-   "fdv_liq_thin": 250,
+   "dex": 181111,
+   "liq_low": 126416,
+   "odd_quote": 37553,
+   "too_old": 56414,
+   "too_new": 3009,
+   "rug_danger": 1221,
+   "fdv_liq_thin": 265,
    "fdv_low": 1204,
    "titan_daily_loss_stop": 2379,
-   "lp_unlocked": 7558,
+   "lp_unlocked": 7573,
    "liq_high": 68,
    "titan_max_positions": 6,
    "no_price": 3
