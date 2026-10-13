@@ -17,8 +17,8 @@
      "fill_price": 0.003148342727140302,
      "peak": 0.004334,
      "entry_liq": 159068.78,
-     "last_price": 0.0031,
-     "last_liq": 162050.02,
+     "last_price": 0.003119,
+     "last_liq": 162957.61,
      "score": 79.8,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791865134.8365448
+     "last_seen": 1791866044.5180821
     }
    },
    "realized": -375.06076745303784,
@@ -93,7 +93,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791865134.8365448
+     "last_seen": 1791866044.5180821
     },
     "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": {
      "symbol": "CBUCKS",
@@ -131,7 +131,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791865134.8365448
+     "last_seen": 1791866044.5180821
     }
    },
    "realized": -159.45975319666678,
@@ -149,7 +149,6 @@
   "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump": 1791850597.746908,
   "6KDpQM4BVDdtAkjtyFDiBCkbii8q8BieEyXXm6kNpump": 1791851323.0968974,
   "Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump": 1791765505.808338,
-  "7W5KAUYmPc5PvdS1tvDHy8Lvt4ERXmzGue7yEoSNpump": 1791692551.9008844,
   "BhbX78F3JprMLisoUau5zngwV6P2nFxZxwPFJoiipump": 1791695113.479209,
   "9iryaLJ91zjNXNrhuVhPTV39r8XG3FhSGyWPUmFipump": 1791696272.1819015,
   "HJ6iNrnZtJJu7BH7r78ojtEZGdyKjZENNXXhAEqgpump": 1791704413.045086,
@@ -215,19 +214,19 @@
   "F9QL6w3RyEoY4LKtKPCUZ62wmTjPaD7wdb1VR3Nppump": 1791862126.7928824
  },
  "stats": {
-  "scans": 5324,
-  "candidates_seen": 438951,
+  "scans": 5339,
+  "candidates_seen": 440274,
   "rejections": {
-   "dex": 179628,
-   "liq_low": 124945,
-   "odd_quote": 37257,
-   "too_old": 55901,
-   "too_new": 2986,
-   "rug_danger": 1132,
-   "fdv_liq_thin": 220,
+   "dex": 180157,
+   "liq_low": 125413,
+   "odd_quote": 37352,
+   "too_old": 56066,
+   "too_new": 2992,
+   "rug_danger": 1162,
+   "fdv_liq_thin": 235,
    "fdv_low": 1204,
    "titan_daily_loss_stop": 2379,
-   "lp_unlocked": 7528,
+   "lp_unlocked": 7543,
    "liq_high": 68,
    "titan_max_positions": 6,
    "no_price": 3
