@@ -1,0 +1,5 @@
+2026-10-13 07:45:15Z [desk] BUY nonce $27.05 @ 9.219e-05 score=68.9 liq=$25,014
+2026-10-13 07:45:15Z [control] BUY AIRFROG $27.05 @ 0.0002902 score=56.6 liq=$121,203
+2026-10-13 07:47:31Z [control] EXIT AIRFROG liquidity_pulled pnl=$-26.62 (-98.4%)
+2026-10-13 07:48:31Z [desk] PARTIAL nonce take_profit_1 sold 50% for $18.16
+2026-10-13 07:50:02Z [desk] EXIT nonce trailing_stop pnl=$+4.82 (+17.8%)
