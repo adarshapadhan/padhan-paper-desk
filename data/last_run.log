@@ -1,3 +1,4 @@
-2026-10-13 01:41:08Z [desk] BUY MARVIN $27.08 @ 0.0002042 score=72.4 liq=$37,455
-2026-10-13 01:43:55Z [desk] PARTIAL MARVIN take_profit_1 sold 50% for $20.15
-2026-10-13 01:46:28Z [desk] EXIT MARVIN trailing_stop pnl=$+9.86 (+36.4%)
+2026-10-13 01:53:38Z [desk] EXIT VRAX trailing_stop pnl=$+5.96 (+20.8%)
+2026-10-13 01:56:12Z [desk] BUY WAIFU $28.30 @ 0.0002134 score=75.7 liq=$38,388
+2026-10-13 01:57:28Z [desk] PARTIAL WAIFU take_profit_1 sold 50% for $21.40
+2026-10-13 01:58:29Z [desk] EXIT WAIFU trailing_stop pnl=$+6.36 (+22.5%)
