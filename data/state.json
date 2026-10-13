@@ -3,98 +3,21 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 594.7392325469621,
-   "positions": {
-    "7jNwX4Me9zGEjmWY7zARDG2LYjVs1WXD6DZ1JvSfpump": {
-     "symbol": "HUMPH",
-     "pair": "9pQRnaHbKjD61KyS2K4FEnLCpvAi5hu5jbMbEsunHLJz",
-     "url": "https://dexscreener.com/solana/9pqrnahbkjd61kys2k4fenlcpvai5hu5jbmbesunhljz",
-     "opened": 1791852047.5184336,
-     "qty": 9473.317419635196,
-     "qty0": 9473.317419635196,
-     "cost": 30.2,
-     "entry_price": 0.003116,
-     "fill_price": 0.003148342727140302,
-     "peak": 0.004334,
-     "entry_liq": 159068.78,
-     "last_price": 0.003119,
-     "last_liq": 162957.61,
-     "score": 79.8,
-     "detail": {
-      "atlas": 100,
-      "vega": 40,
-      "orion": 100,
-      "luna": 74,
-      "buy_ratio": 0.71,
-      "tx_m5": 158,
-      "vol_accel": 1.33,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": false,
-      "m5": 17.54,
-      "h1": 12.59,
-      "liq": 159069,
-      "fdv": 3103061,
-      "turnover_h1": 1.32
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1791866044.5180821
-    }
-   },
-   "realized": -375.06076745303784,
+   "cash": 629.4134422155192,
+   "positions": {},
+   "realized": -370.58655778448065,
    "fees_est": 0.0,
    "day": "2026-10-13",
    "day_start_equity": 632.294783343336,
    "halted_day": "2026-10-12",
-   "trades": 100,
+   "trades": 101,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.3945701945746608
   },
   "control": {
    "name": "control",
-   "cash": 786.110246803333,
+   "cash": 815.1613546250793,
    "positions": {
-    "hKyXZVKmrBDPhKKhdSaaGf1qrFwUkwjqrdzRc63farm": {
-     "symbol": "FARM",
-     "pair": "FZjPqFbQAoze9pSUpTLwPoCkGVAPGworfoPjkFpHoyLK",
-     "url": "https://dexscreener.com/solana/fzjpqfbqaoze9psuptlwpockgvapgworfopjkfphoylk",
-     "opened": 1791852525.4350657,
-     "qty": 939220.7606548457,
-     "qty0": 939220.7606548457,
-     "cost": 28.68,
-     "entry_price": 2.981e-05,
-     "fill_price": 3.014099686240144e-05,
-     "peak": 2.984e-05,
-     "entry_liq": 51920.29,
-     "last_price": 2.765e-05,
-     "last_liq": 51014.57,
-     "score": 30.0,
-     "detail": {
-      "atlas": 19,
-      "vega": 65,
-      "orion": 0,
-      "luna": 41,
-      "buy_ratio": 0.5,
-      "tx_m5": 16,
-      "vol_accel": 1.21,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": -4.78,
-      "h1": -25.33,
-      "liq": 51920,
-      "fdv": 198739,
-      "turnover_h1": 0.28
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1791866044.5180821
-    },
     "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": {
      "symbol": "CBUCKS",
      "pair": "B4Cp45PGifVM5FAXfh6AeV8QZ3eUNQnqGBw7KuC7MHnB",
@@ -131,15 +54,15 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791866044.5180821
+     "last_seen": 1791866954.0963469
     }
    },
-   "realized": -159.45975319666678,
+   "realized": -159.0886453749205,
    "fees_est": 0.0,
    "day": "2026-10-13",
    "day_start_equity": 858.547268192593,
    "halted_day": "",
-   "trades": 50,
+   "trades": 51,
    "peak_equity": 1005.3866010289258,
    "max_dd": 0.18793750077184423
   }
@@ -214,19 +137,19 @@
   "F9QL6w3RyEoY4LKtKPCUZ62wmTjPaD7wdb1VR3Nppump": 1791862126.7928824
  },
  "stats": {
-  "scans": 5339,
-  "candidates_seen": 440274,
+  "scans": 5354,
+  "candidates_seen": 441603,
   "rejections": {
-   "dex": 180157,
-   "liq_low": 125413,
-   "odd_quote": 37352,
-   "too_old": 56066,
-   "too_new": 2992,
-   "rug_danger": 1162,
-   "fdv_liq_thin": 235,
+   "dex": 180650,
+   "liq_low": 125913,
+   "odd_quote": 37448,
+   "too_old": 56234,
+   "too_new": 3004,
+   "rug_danger": 1192,
+   "fdv_liq_thin": 250,
    "fdv_low": 1204,
    "titan_daily_loss_stop": 2379,
-   "lp_unlocked": 7543,
+   "lp_unlocked": 7558,
    "liq_high": 68,
    "titan_max_positions": 6,
    "no_price": 3
