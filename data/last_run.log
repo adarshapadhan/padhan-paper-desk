@@ -1,7 +1,5 @@
-2026-10-13 00:05:24Z [desk] BUY FIGHT $25.99 @ 0.000217 score=67.3 liq=$41,183
-2026-10-13 00:05:24Z [control] BUY VSWAP $25.99 @ 0.0001603 score=24.0 liq=$33,473
-2026-10-13 00:05:24Z [desk] BUY Solamians $25.22 @ 0.0002026 score=65.3 liq=$43,864
-2026-10-13 00:05:24Z [control] BUY MarsX $25.22 @ 0.0002803 score=47.1 liq=$52,323
-2026-10-13 00:13:19Z [control] EXIT VSWAP stop_loss pnl=$-7.74 (-29.8%)
-2026-10-13 00:16:39Z [desk] BUY C@T $30.34 @ 0.0001651 score=79.3 liq=$33,569
-2026-10-13 00:16:39Z [control] BUY SI276 $30.34 @ 0.0008163 score=59.8 liq=$86,447
+2026-10-13 00:19:31Z [desk] EXIT C@T stop_loss pnl=$-9.61 (-31.7%)
+2026-10-13 00:22:04Z [desk] PARTIAL FEED take_profit_1 sold 50% for $19.61
+2026-10-13 00:26:09Z [desk] EXIT FEED trailing_stop pnl=$+9.34 (+33.4%)
+2026-10-13 00:28:43Z [desk] BUY VRAX $28.73 @ 0.0001494 score=75.4 liq=$31,644
+2026-10-13 00:28:43Z [control] BUY TM $28.73 @ 0.0003665 score=53.5 liq=$61,980
