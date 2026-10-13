@@ -1,8 +1,0 @@
-2026-10-13 17:46:20Z [desk] PARTIAL ALOKA take_profit_1 sold 50% for $20.12
-2026-10-13 17:46:20Z [desk] EXIT KACY stop_loss pnl=$-9.21 (-37.1%)
-2026-10-13 17:48:53Z [desk] EXIT ALOKA trailing_stop pnl=$+5.82 (+20.4%)
-2026-10-13 17:50:40Z [control] EXIT Pepper trailing_stop pnl=$+7.22 (+25.3%)
-2026-10-13 17:56:30Z [desk] BUY DOPEUS $25.11 @ 0.0001247 score=69.1 liq=$29,185
-2026-10-13 17:56:30Z [control] BUY wizardcat $25.11 @ 0.0001056 score=54.2 liq=$27,819
-2026-10-13 17:57:15Z [desk] EXIT DOPEUS stop_loss pnl=$-9.66 (-38.5%)
-2026-10-13 17:57:15Z [control] EXIT wizardcat stop_loss pnl=$-8.18 (-32.6%)
