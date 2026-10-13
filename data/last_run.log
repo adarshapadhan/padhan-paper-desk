@@ -1,2 +1,4 @@
-2026-10-13 16:57:07Z [control] EXIT BATONA stop_loss pnl=$-8.66 (-29.3%)
-2026-10-13 17:08:20Z [desk] BUY PINCHA $24.84 @ 0.0001492 score=66.8 liq=$33,495
+2026-10-13 17:24:24Z [desk] BUY ALOKA $28.55 @ 0.0001057 score=76.9 liq=$26,878
+2026-10-13 17:24:24Z [control] BUY Pepper $28.55 @ 0.0003837 score=33.2 liq=$61,177
+2026-10-13 17:25:24Z [control] EXIT SI276 time_exit pnl=$-5.46 (-19.2%)
+2026-10-13 17:26:56Z [control] PARTIAL Pepper take_profit_1 sold 50% for $19.27
