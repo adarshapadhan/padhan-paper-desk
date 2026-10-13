@@ -1,3 +1,2 @@
-2026-10-13 12:24:24Z [control] PARTIAL DOPE take_profit_1 sold 50% for $17.45
-2026-10-13 12:27:58Z [control] PARTIAL DADDY take_profit_1 sold 50% for $20.98
-2026-10-13 12:31:00Z [control] EXIT DADDY trailing_stop pnl=$+7.63 (+25.7%)
+2026-10-13 12:47:46Z [desk] BUY SEALS $25.75 @ 0.000558 score=65.4 liq=$65,103
+2026-10-13 12:47:46Z [control] BUY MarsX $25.75 @ 0.0004013 score=33.8 liq=$65,328
