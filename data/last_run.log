@@ -1,3 +1,5 @@
-2026-10-13 13:25:20Z [desk] BUY PUTBACK $28.42 @ 0.0001603 score=70.3 liq=$33,725
-2026-10-13 13:25:20Z [control] BUY SI276 $28.42 @ 0.001167 score=44.7 liq=$105,029
-2026-10-13 13:28:21Z [desk] EXIT Bumo time_exit pnl=$+9.42 (+31.7%)
+2026-10-13 13:42:37Z [desk] BUY SAMM $28.19 @ 0.0001373 score=70.6 liq=$31,585
+2026-10-13 13:51:27Z [desk] EXIT SAMM stop_loss pnl=$-9.08 (-32.2%)
+2026-10-13 13:51:42Z [control] EXIT DOPE trailing_stop pnl=$+19.88 (+76.6%)
+2026-10-13 13:53:14Z [desk] EXIT SEALS trailing_stop pnl=$+18.45 (+71.7%)
+2026-10-13 13:55:31Z [desk] EXIT PUTBACK stop_loss pnl=$-8.71 (-30.7%)
