@@ -1,5 +1,1 @@
-2026-10-13 01:02:48Z [desk] EXIT Solamians stop_loss pnl=$-7.42 (-29.4%)
-2026-10-13 01:04:22Z [control] EXIT hi trailing_stop pnl=$+17.00 (+56.3%)
-2026-10-13 01:16:50Z [desk] PARTIAL VRAX take_profit_1 sold 50% for $19.12
-2026-10-13 01:17:06Z [desk] BUY discat $25.75 @ 0.000118 score=67.7 liq=$27,943
-2026-10-13 01:17:06Z [control] BUY CBUCKS $25.75 @ 0.0001879 score=21.2 liq=$41,300
+2026-10-13 01:21:28Z [desk] EXIT discat stop_loss pnl=$-10.13 (-39.3%)
