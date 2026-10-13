@@ -1,4 +1,2 @@
-2026-10-13 17:24:24Z [desk] BUY ALOKA $28.55 @ 0.0001057 score=76.9 liq=$26,878
-2026-10-13 17:24:24Z [control] BUY Pepper $28.55 @ 0.0003837 score=33.2 liq=$61,177
-2026-10-13 17:25:24Z [control] EXIT SI276 time_exit pnl=$-5.46 (-19.2%)
-2026-10-13 17:26:56Z [control] PARTIAL Pepper take_profit_1 sold 50% for $19.27
+2026-10-13 17:32:04Z [desk] EXIT PINCHA stop_loss pnl=$-9.00 (-36.2%)
+2026-10-13 17:38:26Z [desk] BUY KACY $24.80 @ 0.001231 score=67.7 liq=$101,428
