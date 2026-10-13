@@ -1,0 +1,4 @@
+2026-10-13 02:33:17Z [desk] BUY CATBOT $27.56 @ 0.0001394 score=73.1 liq=$30,881
+2026-10-13 02:36:21Z [desk] BUY Bear $25.65 @ 0.0004517 score=67.8 liq=$59,958
+2026-10-13 02:40:42Z [desk] EXIT Bear stop_loss pnl=$-7.74 (-30.2%)
+2026-10-13 02:45:32Z [control] EXIT MarsX stop_loss pnl=$-7.65 (-30.3%)
