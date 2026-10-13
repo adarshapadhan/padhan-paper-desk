@@ -15,10 +15,10 @@
      "cost": 29.76,
      "entry_price": 9.65e-05,
      "fill_price": 9.768705666703909e-05,
-     "peak": 0.000108,
+     "peak": 0.0001167,
      "entry_liq": 25806.31,
-     "last_price": 0.000108,
-     "last_liq": 27425.46,
+     "last_price": 0.0001143,
+     "last_liq": 28244.65,
      "score": 75.7,
      "detail": {
       "atlas": 100,
@@ -42,7 +42,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791884225.090975
+     "last_seen": 1791885134.4530532
     }
    },
    "realized": -365.24707628531934,
@@ -68,10 +68,10 @@
      "cost": 29.76,
      "entry_price": 0.0001742,
      "fill_price": 0.00017623293823263253,
-     "peak": 0.0001763,
+     "peak": 0.0001773,
      "entry_liq": 35578.23,
-     "last_price": 0.0001752,
-     "last_liq": 35647.37,
+     "last_price": 0.0001725,
+     "last_liq": 35332.16,
      "score": 15.0,
      "detail": {
       "atlas": 0,
@@ -94,7 +94,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791884225.090975
+     "last_seen": 1791885134.4530532
     }
    },
    "realized": -220.20122575767502,
@@ -104,7 +104,7 @@
    "halted_day": "",
    "trades": 55,
    "peak_equity": 1005.3866010289258,
-   "max_dd": 0.2263656649725514
+   "max_dd": 0.22662717496380647
   }
  },
  "cooldown": {
@@ -185,19 +185,19 @@
   "G3hU17QnrqRciQL5R8nNAkmwRKG9dt7ea6cxwrx2XuTj": 1791883816.4335773
  },
  "stats": {
-  "scans": 5639,
-  "candidates_seen": 464651,
+  "scans": 5654,
+  "candidates_seen": 465743,
   "rejections": {
-   "dex": 189778,
-   "liq_low": 133626,
-   "odd_quote": 39055,
-   "too_old": 59371,
-   "too_new": 3145,
-   "rug_danger": 1557,
-   "fdv_liq_thin": 733,
+   "dex": 190223,
+   "liq_low": 133952,
+   "odd_quote": 39130,
+   "too_old": 59529,
+   "too_new": 3158,
+   "rug_danger": 1578,
+   "fdv_liq_thin": 772,
    "fdv_low": 1208,
    "titan_daily_loss_stop": 2379,
-   "lp_unlocked": 7844,
+   "lp_unlocked": 7859,
    "liq_high": 71,
    "titan_max_positions": 6,
    "no_price": 3
