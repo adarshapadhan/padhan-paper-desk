@@ -1,4 +1,7 @@
-2026-10-13 02:33:17Z [desk] BUY CATBOT $27.56 @ 0.0001394 score=73.1 liq=$30,881
-2026-10-13 02:36:21Z [desk] BUY Bear $25.65 @ 0.0004517 score=67.8 liq=$59,958
-2026-10-13 02:40:42Z [desk] EXIT Bear stop_loss pnl=$-7.74 (-30.2%)
-2026-10-13 02:45:32Z [control] EXIT MarsX stop_loss pnl=$-7.65 (-30.3%)
+2026-10-13 02:51:57Z [desk] PARTIAL CATBOT take_profit_1 sold 50% for $18.59
+2026-10-13 02:52:27Z [desk] EXIT CATBOT trailing_stop pnl=$+5.77 (+20.9%)
+2026-10-13 02:57:33Z [control] EXIT TM stop_loss pnl=$-8.42 (-29.3%)
+2026-10-13 02:59:37Z [desk] BUY Luffy $25.20 @ 0.0001718 score=66.6 liq=$34,387
+2026-10-13 02:59:37Z [control] BUY Inu $25.20 @ 0.0001814 score=53.6 liq=$36,208
+2026-10-13 03:00:23Z [desk] EXIT Luffy stop_loss pnl=$-9.34 (-37.1%)
+2026-10-13 03:00:38Z [control] EXIT Inu stop_loss pnl=$-7.49 (-29.7%)
