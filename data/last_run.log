@@ -1,7 +1,2 @@
-2026-10-13 02:51:57Z [desk] PARTIAL CATBOT take_profit_1 sold 50% for $18.59
-2026-10-13 02:52:27Z [desk] EXIT CATBOT trailing_stop pnl=$+5.77 (+20.9%)
-2026-10-13 02:57:33Z [control] EXIT TM stop_loss pnl=$-8.42 (-29.3%)
-2026-10-13 02:59:37Z [desk] BUY Luffy $25.20 @ 0.0001718 score=66.6 liq=$34,387
-2026-10-13 02:59:37Z [control] BUY Inu $25.20 @ 0.0001814 score=53.6 liq=$36,208
-2026-10-13 03:00:23Z [desk] EXIT Luffy stop_loss pnl=$-9.34 (-37.1%)
-2026-10-13 03:00:38Z [control] EXIT Inu stop_loss pnl=$-7.49 (-29.7%)
+2026-10-13 03:10:38Z [desk] BUY WALTJR $25.44 @ 9.801e-05 score=68.3 liq=$25,568
+2026-10-13 03:16:29Z [desk] PARTIAL WALTJR take_profit_1 sold 50% for $18.35
