@@ -1,6 +1,4 @@
-2026-10-13 15:29:52Z [desk] BUY DOGCART $28.30 @ 0.0002204 score=75.1 liq=$51,297
-2026-10-13 15:29:52Z [control] BUY NAAP $28.30 @ 0.0004224 score=13.5 liq=$54,766
-2026-10-13 15:33:41Z [desk] PARTIAL DOGCART take_profit_1 sold 50% for $20.76
-2026-10-13 15:37:00Z [desk] BUY SIM $25.89 @ 0.000107 score=66.8 liq=$27,309
-2026-10-13 15:41:06Z [desk] BUY OSPREY $28.72 @ 0.0001067 score=75.4 liq=$27,471
-2026-10-13 15:41:06Z [control] BUY ROSE $28.72 @ 0.0004787 score=35.9 liq=$67,250
+2026-10-13 15:42:24Z [desk] EXIT SIM stop_loss pnl=$-8.29 (-32.0%)
+2026-10-13 15:43:40Z [desk] PARTIAL OSPREY take_profit_1 sold 50% for $19.60
+2026-10-13 15:44:41Z [desk] EXIT OSPREY trailing_stop pnl=$+6.01 (+20.9%)
+2026-10-13 15:44:56Z [desk] EXIT DOGCART liquidity_pulled pnl=$-7.14 (-25.2%)
