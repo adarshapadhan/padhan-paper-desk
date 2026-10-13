@@ -1,5 +1,5 @@
-2026-10-13 00:48:46Z [desk] BUY ANI $28.68 @ 0.000172 score=75.5 liq=$33,957
-2026-10-13 00:48:46Z [control] BUY FARM $28.68 @ 2.981e-05 score=30.0 liq=$51,920
-2026-10-13 00:49:31Z [desk] EXIT ANI stop_loss pnl=$-11.62 (-40.5%)
-2026-10-13 00:49:47Z [desk] BUY wAGENTS $24.92 @ 0.0001205 score=66.0 liq=$28,994
-2026-10-13 00:53:06Z [desk] EXIT wAGENTS stop_loss pnl=$-7.54 (-30.2%)
+2026-10-13 01:02:48Z [desk] EXIT Solamians stop_loss pnl=$-7.42 (-29.4%)
+2026-10-13 01:04:22Z [control] EXIT hi trailing_stop pnl=$+17.00 (+56.3%)
+2026-10-13 01:16:50Z [desk] PARTIAL VRAX take_profit_1 sold 50% for $19.12
+2026-10-13 01:17:06Z [desk] BUY discat $25.75 @ 0.000118 score=67.7 liq=$27,943
+2026-10-13 01:17:06Z [control] BUY CBUCKS $25.75 @ 0.0001879 score=21.2 liq=$41,300
