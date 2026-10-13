@@ -1,2 +1,7 @@
-2026-10-13 00:00:11Z [desk] BUY FEED $28.00 @ 9.46e-05 score=72.5 liq=$26,530
-2026-10-13 00:00:11Z [control] BUY DOPE $28.00 @ 0.0006944 score=41.9 liq=$93,192
+2026-10-13 00:05:24Z [desk] BUY FIGHT $25.99 @ 0.000217 score=67.3 liq=$41,183
+2026-10-13 00:05:24Z [control] BUY VSWAP $25.99 @ 0.0001603 score=24.0 liq=$33,473
+2026-10-13 00:05:24Z [desk] BUY Solamians $25.22 @ 0.0002026 score=65.3 liq=$43,864
+2026-10-13 00:05:24Z [control] BUY MarsX $25.22 @ 0.0002803 score=47.1 liq=$52,323
+2026-10-13 00:13:19Z [control] EXIT VSWAP stop_loss pnl=$-7.74 (-29.8%)
+2026-10-13 00:16:39Z [desk] BUY C@T $30.34 @ 0.0001651 score=79.3 liq=$33,569
+2026-10-13 00:16:39Z [control] BUY SI276 $30.34 @ 0.0008163 score=59.8 liq=$86,447
