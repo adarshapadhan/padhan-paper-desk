@@ -1,4 +1,1 @@
-2026-10-14 02:17:35Z [desk] PARTIAL DOPE take_profit_1 sold 50% for $16.99
-2026-10-14 02:20:41Z [desk] BUY Hydra $22.81 @ 0.0001383 score=65.7 liq=$30,765
-2026-10-14 02:21:26Z [desk] EXIT CRAWLER stop_loss pnl=$-10.53 (-45.6%)
-2026-10-14 02:24:45Z [desk] PARTIAL Hydra take_profit_1 sold 50% for $15.07
+2026-10-14 02:46:31Z [desk] EXIT Hydra trailing_stop pnl=$+8.87 (+38.9%)
