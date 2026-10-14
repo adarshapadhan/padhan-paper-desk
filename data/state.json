@@ -3,55 +3,16 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 506.2203876348765,
-   "positions": {
-    "7jNwX4Me9zGEjmWY7zARDG2LYjVs1WXD6DZ1JvSfpump": {
-     "symbol": "HUMPH",
-     "pair": "9pQRnaHbKjD61KyS2K4FEnLCpvAi5hu5jbMbEsunHLJz",
-     "url": "https://dexscreener.com/solana/9pqrnahbkjd61kys2k4fenlcpvai5hu5jbmbesunhljz",
-     "opened": 1791976017.1173398,
-     "qty": 16961.20781858873,
-     "qty0": 33922.41563717746,
-     "cost": 24.98,
-     "entry_price": 0.0007181,
-     "fill_price": 0.0007257236708408066,
-     "peak": 0.00103,
-     "entry_liq": 80995.08,
-     "last_price": 0.0008737,
-     "last_liq": 90578.5,
-     "score": 78.2,
-     "detail": {
-      "atlas": 100,
-      "vega": 60,
-      "orion": 91,
-      "luna": 52,
-      "buy_ratio": 0.66,
-      "tx_m5": 500,
-      "vol_accel": 6.68,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": true,
-      "trending": false,
-      "m5": 27.95,
-      "h1": 27.88,
-      "liq": 80995,
-      "fdv": 715017,
-      "turnover_h1": 0.6
-     },
-     "tp1_done": true,
-     "proceeds": 16.745012111554896,
-     "last_seen": 1791978729.2970028
-    }
-   },
-   "realized": -485.5446244766785,
+   "cash": 519.6222127347385,
+   "positions": {},
+   "realized": -480.37778726526165,
    "fees_est": 0.0,
    "day": "2026-10-14",
    "day_start_equity": 566.3860530182433,
    "halted_day": "2026-10-13",
-   "trades": 150,
+   "trades": 151,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.4801568795426594
+   "max_dd": 0.4806122424599679
   },
   "control": {
    "name": "control",
@@ -75,8 +36,6 @@
   "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": 1791936519.757559,
   "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": 1791849922.5999439,
   "8ZP5CzbPL1fmP8dn1GEmLd8xw1JdudUF5Dk7EpLxpump": 1791893290.5083823,
-  "6UoquTK84RqH5e3mf3BYYufV9iGwvEavF7QMFTtCpump": 1791806108.24224,
-  "5v44XTW2jCQ2oM4bnxx5mo1cZPCESNQWK4BMsVBwdpad": 1791806108.24224,
   "8Tq4hpxkc4Syv9p2dWb7yqn4idciSJhpZQMFNnE6pump": 1791849610.9142668,
   "4VScHuqZ13uma3S34iNkiSAQvZDEeGebjbM5bPcapump": 1791849922.5999439,
   "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump": 1791940054.1792812,
@@ -159,19 +118,19 @@
   "DPdH8mWRCntu8dDyWrrnDo1byHSYkeRz2BN6Vk21pump": 1791975955.3020277
  },
  "stats": {
-  "scans": 7199,
-  "candidates_seen": 584326,
+  "scans": 7214,
+  "candidates_seen": 585311,
   "rejections": {
-   "dex": 240428,
-   "liq_low": 166870,
-   "odd_quote": 47434,
-   "too_old": 76825,
-   "too_new": 3985,
+   "dex": 241007,
+   "liq_low": 167035,
+   "odd_quote": 47460,
+   "too_old": 77020,
+   "too_new": 3990,
    "rug_danger": 2950,
    "fdv_liq_thin": 3156,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 2594,
-   "lp_unlocked": 10746,
+   "lp_unlocked": 10761,
    "liq_high": 764,
    "titan_max_positions": 14,
    "no_price": 5
