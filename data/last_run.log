@@ -1,1 +1,5 @@
-2026-10-14 04:00:33Z [desk] EXIT texcat time_exit pnl=$-1.49 (-6.6%)
+2026-10-14 04:08:47Z [desk] EXIT DOPE time_exit pnl=$+10.03 (+41.3%)
+2026-10-14 04:08:47Z [control] EXIT TM time_exit pnl=$-1.42 (-5.8%)
+2026-10-14 04:15:42Z [desk] BUY swordtiger $25.18 @ 0.0001386 score=74.2 liq=$30,860
+2026-10-14 04:15:42Z [control] BUY Kairo $25.18 @ 9.098e-05 score=27.6 liq=$28,391
+2026-10-14 04:17:29Z [desk] EXIT swordtiger stop_loss pnl=$-7.38 (-29.3%)
