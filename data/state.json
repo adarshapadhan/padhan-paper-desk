@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 477.4722127347385,
+   "cash": 456.50221273473846,
    "positions": {
     "HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump": {
      "symbol": "VEIL",
@@ -17,8 +17,8 @@
      "fill_price": 0.011626619072742568,
      "peak": 0.01219,
      "entry_liq": 324858.48,
-     "last_price": 0.01146,
-     "last_liq": 321359.46,
+     "last_price": 0.01114,
+     "last_liq": 315569.43,
      "score": 67.2,
      "detail": {
       "atlas": 77,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791983283.2688336
+     "last_seen": 1791984206.1816125
     },
     "XtogpWjiAgvkemc5gr1auxkh77w3vKgSQN1nxJeJfHt": {
      "symbol": "XTO",
@@ -55,8 +55,8 @@
      "fill_price": 0.006893654771845643,
      "peak": 0.006826,
      "entry_liq": 199743.5,
-     "last_price": 0.006656,
-     "last_liq": 197271.94,
+     "last_price": 0.006503,
+     "last_liq": 194987.49,
      "score": 65.0,
      "detail": {
       "atlas": 100,
@@ -79,7 +79,45 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791983283.2688336
+     "last_seen": 1791984206.1816125
+    },
+    "3sKaoPryg4KrXubLWtoqF7MznLT7QNqKRxMMkkxTpump": {
+     "symbol": "SEALS",
+     "pair": "HvYfFr8nm6bn9V93TDDMgqWwS2D2LsMn1Y3rDCToqeAB",
+     "url": "https://dexscreener.com/solana/hvyffr8nm6bn9v93tddmgqwws2d2lsmn1y3rdctoqeab",
+     "opened": 1791983308.6536453,
+     "qty": 24466.96154987549,
+     "qty0": 24466.96154987549,
+     "cost": 20.97,
+     "entry_price": 0.000834,
+     "fill_price": 0.0008427006744572631,
+     "peak": 0.0008896,
+     "entry_liq": 96937.37,
+     "last_price": 0.0008379,
+     "last_liq": 96772.24,
+     "score": 66.0,
+     "detail": {
+      "atlas": 88,
+      "vega": 65,
+      "orion": 40,
+      "luna": 68,
+      "buy_ratio": 0.63,
+      "tx_m5": 133,
+      "vol_accel": 0.55,
+      "socials": [
+       "twitter"
+      ],
+      "boosted": false,
+      "trending": true,
+      "m5": -6.28,
+      "h1": 11.75,
+      "liq": 96937,
+      "fdv": 773222,
+      "turnover_h1": 2.15
+     },
+     "tp1_done": false,
+     "proceeds": 0.0,
+     "last_seen": 1791984206.1816125
     }
    },
    "realized": -480.37778726526165,
@@ -89,11 +127,11 @@
    "halted_day": "2026-10-13",
    "trades": 151,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.48362057880704745
+   "max_dd": 0.4855645963052375
   },
   "control": {
    "name": "control",
-   "cash": 721.2295544188785,
+   "cash": 700.2595544188785,
    "positions": {
     "Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump": {
      "symbol": "Altai",
@@ -105,10 +143,10 @@
      "cost": 21.44,
      "entry_price": 0.001707,
      "fill_price": 0.001724469655186497,
-     "peak": 0.001828,
+     "peak": 0.001847,
      "entry_liq": 183105.4,
-     "last_price": 0.00168,
-     "last_liq": 180053.91,
+     "last_price": 0.001841,
+     "last_liq": 187868.06,
      "score": 48.6,
      "detail": {
       "atlas": 58,
@@ -131,7 +169,45 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791983283.2688336
+     "last_seen": 1791984206.1816125
+    },
+    "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump": {
+     "symbol": "MarsX",
+     "pair": "9dsiuydk5EFRCLk6VEywY95Nn3jjGbdWNijuACf1PXuA",
+     "url": "https://dexscreener.com/solana/9dsiuydk5efrclk6veywy95nn3jjgbdwnijuacf1pxua",
+     "opened": 1791983308.6536453,
+     "qty": 106783.0808879111,
+     "qty0": 106783.0808879111,
+     "cost": 20.97,
+     "entry_price": 0.000191,
+     "fill_price": 0.00019308606596247962,
+     "peak": 0.0001912,
+     "entry_liq": 45455.44,
+     "last_price": 0.0001773,
+     "last_liq": 43557.36,
+     "score": 42.6,
+     "detail": {
+      "atlas": 11,
+      "vega": 65,
+      "orion": 59,
+      "luna": 42,
+      "buy_ratio": 0.5,
+      "tx_m5": 12,
+      "vol_accel": 0.49,
+      "socials": [
+       "twitter"
+      ],
+      "boosted": false,
+      "trending": true,
+      "m5": 2.54,
+      "h1": 23.77,
+      "liq": 45455,
+      "fdv": 187539,
+      "turnover_h1": 0.41
+     },
+     "tp1_done": false,
+     "proceeds": 0.0,
+     "last_seen": 1791984206.1816125
     }
    },
    "realized": -257.33044558112124,
@@ -153,7 +229,7 @@
   "8ZP5CzbPL1fmP8dn1GEmLd8xw1JdudUF5Dk7EpLxpump": 1791893290.5083823,
   "8Tq4hpxkc4Syv9p2dWb7yqn4idciSJhpZQMFNnE6pump": 1791849610.9142668,
   "4VScHuqZ13uma3S34iNkiSAQvZDEeGebjbM5bPcapump": 1791849922.5999439,
-  "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump": 1791940054.1792812,
+  "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump": 1791983308.6536453,
   "HRnkXZJJ64XbEe6Bt2mFGHZgpEeyDCJpP8BjHrdfpump": 1791850597.746908,
   "9LEmajzfB3GJaJpKgXSu8MW5riEnY7F8AMWuwcQRpump": 1791851323.0968974,
   "7jNwX4Me9zGEjmWY7zARDG2LYjVs1WXD6DZ1JvSfpump": 1791976017.1173398,
@@ -183,7 +259,7 @@
   "7yg2UT3Ksh7wwmAPAasaKU6SBbakRtzf2eYqjZZzpump": 1791936024.1608207,
   "hnMDBVtBoFuoE4fq3FU3d1d4MTgXdLayE3wQhRUpump": 1791883695.3438215,
   "G3hU17QnrqRciQL5R8nNAkmwRKG9dt7ea6cxwrx2XuTj": 1791883816.4335773,
-  "3sKaoPryg4KrXubLWtoqF7MznLT7QNqKRxMMkkxTpump": 1791939632.6620505,
+  "3sKaoPryg4KrXubLWtoqF7MznLT7QNqKRxMMkkxTpump": 1791983308.6536453,
   "CENZ5FtB1qVKz9cSvYFeSiUCfmF3jrqCi6U9Je5Qpump": 1791897917.8043294,
   "4mX2CMvaBXXy4ZANRvnp4gwuNcKjUtcVNycrBeV1pump": 1791898956.8203354,
   "JEANoF17YFK3CtoUypFKLoXeLi8kqtX5K9RSk6KGPdzu": 1791901627.2188382,
@@ -233,20 +309,20 @@
   "DPdH8mWRCntu8dDyWrrnDo1byHSYkeRz2BN6Vk21pump": 1791975955.3020277
  },
  "stats": {
-  "scans": 7274,
-  "candidates_seen": 589210,
+  "scans": 7289,
+  "candidates_seen": 590186,
   "rejections": {
-   "dex": 242942,
-   "liq_low": 167881,
-   "odd_quote": 47635,
-   "too_old": 77796,
-   "too_new": 4023,
+   "dex": 243384,
+   "liq_low": 168132,
+   "odd_quote": 47684,
+   "too_old": 77985,
+   "too_new": 4031,
    "rug_danger": 2950,
    "fdv_liq_thin": 3156,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 2594,
-   "lp_unlocked": 10886,
-   "liq_high": 764,
+   "lp_unlocked": 10920,
+   "liq_high": 765,
    "titan_max_positions": 14,
    "no_price": 5
   }
