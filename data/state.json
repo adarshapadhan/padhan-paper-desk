@@ -3,22 +3,22 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 513.3660786275949,
+   "cash": 529.7165945083779,
    "positions": {
     "A4Ppe8FtJC8YetpnJTXmURbZpFKhbjnYv4QtXtp9pump": {
      "symbol": "UNTXED",
      "pair": "8z3gPLeLz2Ktoz6Jhi7eqWnSJGNLtvs9cjQNxY1thZUv",
      "url": "https://dexscreener.com/solana/8z3gplelz2ktoz6jhi7eqwnsjgnltvs9cjqnxy1thzuv",
      "opened": 1791956909.2750902,
-     "qty": 250993.83827098846,
+     "qty": 125496.91913549423,
      "qty0": 250993.83827098846,
      "cost": 24.69,
      "entry_price": 9.579e-05,
      "fill_price": 9.69307659805293e-05,
-     "peak": 0.0001067,
+     "peak": 0.0002695,
      "entry_liq": 25817.16,
-     "last_price": 0.0001067,
-     "last_liq": 27356.73,
+     "last_price": 0.0002386,
+     "last_liq": 42623.86,
      "score": 75.3,
      "detail": {
       "atlas": 100,
@@ -39,9 +39,9 @@
       "fdv": 95669,
       "turnover_h1": 12.11
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1791956940.2195396
+     "tp1_done": true,
+     "proceeds": 16.350515880782947,
+     "last_seen": 1791957844.8544967
     }
    },
    "realized": -461.9439213724051,
@@ -51,7 +51,7 @@
    "halted_day": "2026-10-13",
    "trades": 140,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.4621866939860192
+   "max_dd": 0.46302554132719165
   },
   "control": {
    "name": "control",
@@ -69,8 +69,8 @@
      "fill_price": 9.205089426245649e-05,
      "peak": 0.0001026,
      "entry_liq": 28391.08,
-     "last_price": 9.669e-05,
-     "last_liq": 29352.36,
+     "last_price": 0.0001001,
+     "last_liq": 29919.29,
      "score": 27.6,
      "detail": {
       "atlas": 10,
@@ -94,7 +94,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791956940.2195396
+     "last_seen": 1791957844.8544967
     }
    },
    "realized": -235.5181016882062,
@@ -195,20 +195,20 @@
   "A4Ppe8FtJC8YetpnJTXmURbZpFKhbjnYv4QtXtp9pump": 1791956909.2750902
  },
  "stats": {
-  "scans": 6839,
-  "candidates_seen": 559288,
+  "scans": 6854,
+  "candidates_seen": 560463,
   "rejections": {
-   "dex": 228222,
-   "liq_low": 160163,
-   "odd_quote": 46282,
-   "too_old": 72810,
-   "too_new": 3774,
-   "rug_danger": 2868,
-   "fdv_liq_thin": 2930,
+   "dex": 228713,
+   "liq_low": 160500,
+   "odd_quote": 46409,
+   "too_old": 72958,
+   "too_new": 3786,
+   "rug_danger": 2883,
+   "fdv_liq_thin": 2945,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 2594,
-   "lp_unlocked": 10377,
-   "liq_high": 720,
+   "lp_unlocked": 10392,
+   "liq_high": 735,
    "titan_max_positions": 14,
    "no_price": 5
   }
