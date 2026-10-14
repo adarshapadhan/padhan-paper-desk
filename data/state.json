@@ -118,19 +118,19 @@
   "DPdH8mWRCntu8dDyWrrnDo1byHSYkeRz2BN6Vk21pump": 1791975955.3020277
  },
  "stats": {
-  "scans": 7214,
-  "candidates_seen": 585311,
+  "scans": 7229,
+  "candidates_seen": 586306,
   "rejections": {
-   "dex": 241007,
-   "liq_low": 167035,
-   "odd_quote": 47460,
-   "too_old": 77020,
-   "too_new": 3990,
+   "dex": 241551,
+   "liq_low": 167219,
+   "odd_quote": 47496,
+   "too_old": 77215,
+   "too_new": 3997,
    "rug_danger": 2950,
    "fdv_liq_thin": 3156,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 2594,
-   "lp_unlocked": 10761,
+   "lp_unlocked": 10789,
    "liq_high": 764,
    "titan_max_positions": 14,
    "no_price": 5
