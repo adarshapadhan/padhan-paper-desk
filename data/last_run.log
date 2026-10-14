@@ -1,4 +1,4 @@
-2026-10-14 02:09:39Z [desk] BUY Catnip $23.01 @ 0.0002952 score=66.1 liq=$47,937
-2026-10-14 02:09:39Z [control] BUY FLOYD $23.01 @ 0.0001209 score=59.6 liq=$32,498
-2026-10-14 02:15:01Z [desk] EXIT Catnip stop_loss pnl=$-7.94 (-34.5%)
-2026-10-14 02:16:47Z [control] EXIT FLOYD stop_loss pnl=$-6.83 (-29.7%)
+2026-10-14 02:17:35Z [desk] PARTIAL DOPE take_profit_1 sold 50% for $16.99
+2026-10-14 02:20:41Z [desk] BUY Hydra $22.81 @ 0.0001383 score=65.7 liq=$30,765
+2026-10-14 02:21:26Z [desk] EXIT CRAWLER stop_loss pnl=$-10.53 (-45.6%)
+2026-10-14 02:24:45Z [desk] PARTIAL Hydra take_profit_1 sold 50% for $15.07
