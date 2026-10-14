@@ -1,1 +1,3 @@
-2026-10-14 11:06:58Z [desk] BUY HUMPH $24.98 @ 0.0007181 score=78.2 liq=$80,995
+2026-10-14 11:22:37Z [desk] EXIT TRENCH stop_loss pnl=$-12.01 (-52.5%)
+2026-10-14 11:35:59Z [desk] EXIT SDR stop_loss pnl=$-6.98 (-32.1%)
+2026-10-14 11:36:44Z [desk] PARTIAL HUMPH take_profit_1 sold 50% for $16.75
