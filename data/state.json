@@ -3,53 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 547.2100864524633,
-   "positions": {
-    "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": {
-     "symbol": "SAINDRA",
-     "pair": "9hjKmterUjufRaYUrSTEHEYJZg83LQ52behux54LSeF6",
-     "url": "https://dexscreener.com/solana/9hjkmterujufrayursteheyjzg83lq52behux54lsef6",
-     "opened": 1791960939.6164145,
-     "qty": 124682.70175696792,
-     "qty0": 249365.40351393583,
-     "cost": 25.34,
-     "entry_price": 9.899e-05,
-     "fill_price": 0.00010016385452043725,
-     "peak": 0.0001394,
-     "entry_liq": 27221.35,
-     "last_price": 0.0001315,
-     "last_liq": 31928.22,
-     "score": 74.8,
-     "detail": {
-      "atlas": 100,
-      "vega": 40,
-      "orion": 98,
-      "luna": 52,
-      "buy_ratio": 0.52,
-      "tx_m5": 487,
-      "vol_accel": 0.38,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": false,
-      "m5": 25.77,
-      "h1": 118.0,
-      "liq": 27221,
-      "fdv": 97457,
-      "turnover_h1": 29.06
-     },
-     "tp1_done": true,
-     "proceeds": 16.820920444366116,
-     "last_seen": 1791961460.4452026
-    }
-   },
-   "realized": -444.27083399190275,
+   "cash": 560.1461263076885,
+   "positions": {},
+   "realized": -439.8538736923115,
    "fees_est": 0.0,
    "day": "2026-10-14",
    "day_start_equity": 566.3860530182433,
    "halted_day": "2026-10-13",
-   "trades": 141,
+   "trades": 142,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.46302554132719165
   },
@@ -69,8 +30,8 @@
      "fill_price": 9.205089426245649e-05,
      "peak": 0.0001031,
      "entry_liq": 28391.08,
-     "last_price": 9.006e-05,
-     "last_liq": 28252.85,
+     "last_price": 9.44e-05,
+     "last_liq": 28976.61,
      "score": 27.6,
      "detail": {
       "atlas": 10,
@@ -94,7 +55,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791961460.4452026
+     "last_seen": 1791962363.8984122
     }
    },
    "realized": -235.5181016882062,
@@ -195,19 +156,19 @@
   "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": 1791960939.6164145
  },
  "stats": {
-  "scans": 6914,
-  "candidates_seen": 565221,
+  "scans": 6929,
+  "candidates_seen": 566391,
   "rejections": {
-   "dex": 230851,
-   "liq_low": 161894,
-   "odd_quote": 46848,
-   "too_old": 73504,
-   "too_new": 3819,
+   "dex": 231401,
+   "liq_low": 162248,
+   "odd_quote": 46921,
+   "too_old": 73669,
+   "too_new": 3829,
    "rug_danger": 2941,
-   "fdv_liq_thin": 3003,
+   "fdv_liq_thin": 3006,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 2594,
-   "lp_unlocked": 10453,
+   "lp_unlocked": 10468,
    "liq_high": 764,
    "titan_max_positions": 14,
    "no_price": 5
