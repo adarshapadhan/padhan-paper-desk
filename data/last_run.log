@@ -1,2 +1,4 @@
-2026-10-14 01:56:54Z [desk] EXIT MarsX stop_loss pnl=$-7.10 (-30.3%)
-2026-10-14 01:57:40Z [desk] EXIT JEANGUY trailing_stop pnl=$+5.69 (+23.3%)
+2026-10-14 02:09:39Z [desk] BUY Catnip $23.01 @ 0.0002952 score=66.1 liq=$47,937
+2026-10-14 02:09:39Z [control] BUY FLOYD $23.01 @ 0.0001209 score=59.6 liq=$32,498
+2026-10-14 02:15:01Z [desk] EXIT Catnip stop_loss pnl=$-7.94 (-34.5%)
+2026-10-14 02:16:47Z [control] EXIT FLOYD stop_loss pnl=$-6.83 (-29.7%)
