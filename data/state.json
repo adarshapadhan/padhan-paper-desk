@@ -118,23 +118,23 @@
   "5ZxkhR5QzsBYRCEg7WS15559qxCyLSBmD5LBBHAypump": 1791984223.1205533
  },
  "stats": {
-  "scans": 7619,
-  "candidates_seen": 614717,
+  "scans": 7634,
+  "candidates_seen": 616035,
   "rejections": {
-   "dex": 254079,
-   "liq_low": 174338,
-   "odd_quote": 48911,
-   "too_old": 82730,
-   "too_new": 4184,
+   "dex": 254605,
+   "liq_low": 174714,
+   "odd_quote": 48993,
+   "too_old": 82931,
+   "too_new": 4196,
    "rug_danger": 2950,
    "fdv_liq_thin": 3156,
    "fdv_low": 1211,
-   "titan_daily_loss_stop": 2823,
-   "lp_unlocked": 11477,
+   "titan_daily_loss_stop": 2832,
+   "lp_unlocked": 11492,
    "liq_high": 766,
    "titan_max_positions": 14,
    "no_price": 5,
-   "rugcheck_unavailable": 50
+   "rugcheck_unavailable": 60
   }
  },
  "last_prices": {}
