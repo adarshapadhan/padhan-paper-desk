@@ -1,5 +1,3 @@
-2026-10-14 00:47:08Z [desk] EXIT FPAD stop_loss pnl=$-8.16 (-34.6%)
-2026-10-14 00:53:19Z [control] EXIT Bumo stop_loss pnl=$-10.47 (-46.2%)
-2026-10-14 00:55:55Z [control] EXIT XTO stop_loss pnl=$-10.10 (-42.8%)
-2026-10-14 01:00:33Z [desk] BUY MERGE $24.30 @ 0.0001146 score=70.4 liq=$28,337
-2026-10-14 01:00:33Z [control] BUY SEALS $24.30 @ 0.000708 score=58.4 liq=$88,655
+2026-10-14 01:03:27Z [desk] PARTIAL MERGE take_profit_1 sold 50% for $18.85
+2026-10-14 01:05:00Z [desk] EXIT MERGE stop_loss pnl=$+2.85 (+11.7%)
+2026-10-14 01:07:35Z [desk] BUY MarsX $23.45 @ 0.0002322 score=67.7 liq=$50,200
