@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 516.5723627201411,
+   "cash": 523.770297847012,
    "positions": {
     "jq4yKhqGNzWCQhgQYB89CDEYQYjLHGcvDy9WNJHpump": {
      "symbol": "ARCADES",
@@ -17,8 +17,8 @@
      "fill_price": 0.00010553191173127101,
      "peak": 0.0001061,
      "entry_liq": 28282.95,
-     "last_price": 9.889e-05,
-     "last_liq": 27559.78,
+     "last_price": 0.0001049,
+     "last_liq": 28380.75,
      "score": 76.7,
      "detail": {
       "atlas": 94,
@@ -41,15 +41,15 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791966006.0257013
+     "last_seen": 1791966914.5580761
     }
    },
-   "realized": -457.767637279859,
+   "realized": -450.5697021529881,
    "fees_est": 0.0,
    "day": "2026-10-14",
    "day_start_equity": 566.3860530182433,
    "halted_day": "2026-10-13",
-   "trades": 144,
+   "trades": 145,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.46302554132719165
   },
@@ -153,22 +153,23 @@
   "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": 1791960939.6164145,
   "7ZomrJK9vwftgX8H6QdMkEwVBCz5J7RaU9PSi8RSpump": 1791962624.8870423,
   "jq4yKhqGNzWCQhgQYB89CDEYQYjLHGcvDy9WNJHpump": 1791963595.9636943,
-  "FZHk2fo51sWy3d5DPuCbFC4maD8SEPPjxup1dzBtpump": 1791965779.445496
+  "FZHk2fo51sWy3d5DPuCbFC4maD8SEPPjxup1dzBtpump": 1791965779.445496,
+  "ng6pDHNYmSW7Sf2rr6Z2yrAGexVQ4SMRXc1v9Khpump": 1791966445.9255009
  },
  "stats": {
-  "scans": 6989,
-  "candidates_seen": 570809,
+  "scans": 7004,
+  "candidates_seen": 571854,
   "rejections": {
-   "dex": 233449,
-   "liq_low": 163621,
-   "odd_quote": 47135,
-   "too_old": 74280,
-   "too_new": 3859,
+   "dex": 233968,
+   "liq_low": 163906,
+   "odd_quote": 47180,
+   "too_old": 74430,
+   "too_new": 3874,
    "rug_danger": 2950,
-   "fdv_liq_thin": 3066,
+   "fdv_liq_thin": 3081,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 2594,
-   "lp_unlocked": 10535,
+   "lp_unlocked": 10550,
    "liq_high": 764,
    "titan_max_positions": 14,
    "no_price": 5
