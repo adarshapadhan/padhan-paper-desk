@@ -17,8 +17,8 @@
      "fill_price": 0.011626619072742568,
      "peak": 0.01219,
      "entry_liq": 324858.48,
-     "last_price": 0.01099,
-     "last_liq": 313073.83,
+     "last_price": 0.01132,
+     "last_liq": 317278.63,
      "score": 67.2,
      "detail": {
       "atlas": 77,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791987854.6110277
+     "last_seen": 1791988758.1300576
     },
     "XtogpWjiAgvkemc5gr1auxkh77w3vKgSQN1nxJeJfHt": {
      "symbol": "XTO",
@@ -55,8 +55,8 @@
      "fill_price": 0.006893654771845643,
      "peak": 0.006826,
      "entry_liq": 199743.5,
-     "last_price": 0.006225,
-     "last_liq": 190777.26,
+     "last_price": 0.005571,
+     "last_liq": 180480.1,
      "score": 65.0,
      "detail": {
       "atlas": 100,
@@ -79,7 +79,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791987854.6110277
+     "last_seen": 1791988758.1300576
     },
     "3sKaoPryg4KrXubLWtoqF7MznLT7QNqKRxMMkkxTpump": {
      "symbol": "SEALS",
@@ -93,8 +93,8 @@
      "fill_price": 0.0008427006744572631,
      "peak": 0.00101,
      "entry_liq": 96937.37,
-     "last_price": 0.0009082,
-     "last_liq": 100889.86,
+     "last_price": 0.0007796,
+     "last_liq": 93278.83,
      "score": 66.0,
      "detail": {
       "atlas": 88,
@@ -117,7 +117,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791987854.6110277
+     "last_seen": 1791988758.1300576
     }
    },
    "realized": -486.61196150733605,
@@ -127,7 +127,7 @@
    "halted_day": "2026-10-14",
    "trades": 152,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.4923629956536789
+   "max_dd": 0.49586337576134365
   },
   "control": {
    "name": "control",
@@ -145,8 +145,8 @@
      "fill_price": 0.001724469655186497,
      "peak": 0.00192,
      "entry_liq": 183105.4,
-     "last_price": 0.00165,
-     "last_liq": 177544.24,
+     "last_price": 0.00149,
+     "last_liq": 168543.3,
      "score": 48.6,
      "detail": {
       "atlas": 58,
@@ -169,7 +169,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791987854.6110277
+     "last_seen": 1791988758.1300576
     }
    },
    "realized": -263.64872981854904,
@@ -179,7 +179,7 @@
    "halted_day": "",
    "trades": 75,
    "peak_equity": 1005.3866010289258,
-   "max_dd": 0.2696920735246683
+   "max_dd": 0.27175727412653927
   }
  },
  "cooldown": {
@@ -272,19 +272,19 @@
   "5ZxkhR5QzsBYRCEg7WS15559qxCyLSBmD5LBBHAypump": 1791984223.1205533
  },
  "stats": {
-  "scans": 7349,
-  "candidates_seen": 594183,
+  "scans": 7364,
+  "candidates_seen": 595258,
   "rejections": {
-   "dex": 245176,
-   "liq_low": 169061,
-   "odd_quote": 47914,
-   "too_old": 78777,
-   "too_new": 4058,
+   "dex": 245676,
+   "liq_low": 169312,
+   "odd_quote": 47957,
+   "too_old": 78986,
+   "too_new": 4062,
    "rug_danger": 2950,
    "fdv_liq_thin": 3156,
    "fdv_low": 1211,
-   "titan_daily_loss_stop": 2641,
-   "lp_unlocked": 11028,
+   "titan_daily_loss_stop": 2656,
+   "lp_unlocked": 11044,
    "liq_high": 765,
    "titan_max_positions": 14,
    "no_price": 5
