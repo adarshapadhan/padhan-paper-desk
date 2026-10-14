@@ -3,14 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 560.1461263076885,
+   "cash": 549.5410108568004,
    "positions": {},
-   "realized": -439.8538736923115,
+   "realized": -450.45898914319963,
    "fees_est": 0.0,
    "day": "2026-10-14",
    "day_start_equity": 566.3860530182433,
    "halted_day": "2026-10-13",
-   "trades": 142,
+   "trades": 143,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.46302554132719165
   },
@@ -30,8 +30,8 @@
      "fill_price": 9.205089426245649e-05,
      "peak": 0.0001031,
      "entry_liq": 28391.08,
-     "last_price": 9.44e-05,
-     "last_liq": 28976.61,
+     "last_price": 9.22e-05,
+     "last_liq": 28608.68,
      "score": 27.6,
      "detail": {
       "atlas": 10,
@@ -55,7 +55,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1791962363.8984122
+     "last_seen": 1791963267.7464838
     }
    },
    "realized": -235.5181016882062,
@@ -153,22 +153,23 @@
   "WJJkGmNB6zZB71rHboMzZV9mWsgNBCDrmkPDpbbpump": 1791951340.629138,
   "63A9mFGpX4Mws6TznZm4287P4vTsTxQ5NvcJPsbXpump": 1791951511.6960251,
   "A4Ppe8FtJC8YetpnJTXmURbZpFKhbjnYv4QtXtp9pump": 1791956909.2750902,
-  "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": 1791960939.6164145
+  "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": 1791960939.6164145,
+  "7ZomrJK9vwftgX8H6QdMkEwVBCz5J7RaU9PSi8RSpump": 1791962624.8870423
  },
  "stats": {
-  "scans": 6929,
-  "candidates_seen": 566391,
+  "scans": 6944,
+  "candidates_seen": 567539,
   "rejections": {
-   "dex": 231401,
-   "liq_low": 162248,
-   "odd_quote": 46921,
-   "too_old": 73669,
-   "too_new": 3829,
+   "dex": 231924,
+   "liq_low": 162611,
+   "odd_quote": 46981,
+   "too_old": 73834,
+   "too_new": 3835,
    "rug_danger": 2941,
-   "fdv_liq_thin": 3006,
+   "fdv_liq_thin": 3021,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 2594,
-   "lp_unlocked": 10468,
+   "lp_unlocked": 10483,
    "liq_high": 764,
    "titan_max_positions": 14,
    "no_price": 5

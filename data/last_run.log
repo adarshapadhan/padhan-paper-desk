@@ -1,1 +1,2 @@
-2026-10-14 07:07:10Z [desk] EXIT SAINDRA trailing_stop pnl=$+4.42 (+17.4%)
+2026-10-14 07:23:46Z [desk] BUY RFC $24.04 @ 9.774e-05 score=70.1 liq=$25,727
+2026-10-14 07:34:12Z [desk] EXIT RFC stop_loss pnl=$-10.61 (-44.1%)
