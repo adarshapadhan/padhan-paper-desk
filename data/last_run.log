@@ -1,2 +1,3 @@
-2026-10-14 03:07:03Z [desk] BUY VCAT $23.85 @ 0.0001876 score=70.2 liq=$36,541
-2026-10-14 03:17:31Z [desk] PARTIAL VCAT take_profit_1 sold 50% for $15.96
+2026-10-14 03:19:05Z [control] PARTIAL Altai take_profit_1 sold 50% for $17.89
+2026-10-14 03:19:36Z [desk] EXIT VCAT trailing_stop pnl=$+5.11 (+21.4%)
+2026-10-14 03:20:52Z [control] EXIT Altai trailing_stop pnl=$+23.16 (+97.2%)
