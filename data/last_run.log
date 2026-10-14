@@ -1,4 +1,3 @@
-2026-10-14 00:20:49Z [desk] BUY Stryker $23.83 @ 0.0001775 score=68.8 liq=$35,286
-2026-10-14 00:20:49Z [control] BUY Altai $23.83 @ 0.0008435 score=43.6 liq=$122,958
-2026-10-14 00:21:51Z [desk] BUY VEIL $26.40 @ 0.01493 score=76.4 liq=$365,168
-2026-10-14 00:29:48Z [desk] PARTIAL Stryker take_profit_1 sold 50% for $16.38
+2026-10-14 00:34:30Z [desk] EXIT Stryker trailing_stop pnl=$+7.26 (+30.5%)
+2026-10-14 00:45:18Z [desk] BUY FPAD $23.59 @ 0.0008209 score=67.1 liq=$80,651
+2026-10-14 00:45:18Z [control] BUY XTO $23.59 @ 0.005817 score=49.5 liq=$184,520
