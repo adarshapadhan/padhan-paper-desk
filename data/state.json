@@ -3,92 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 443.0657874923364,
-   "positions": {
-    "HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump": {
-     "symbol": "VEIL",
-     "pair": "4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E",
-     "url": "https://dexscreener.com/solana/4mwjp1abqqe9y6ic5cd3nrvvwwchsn2lgpjwymdk7u7e",
-     "opened": 1792023789.0191827,
-     "qty": 3765.5718179870896,
-     "qty0": 3765.5718179870896,
-     "cost": 25.58,
-     "entry_price": 0.006629,
-     "fill_price": 0.006696672170623956,
-     "peak": 0.007416,
-     "entry_liq": 245316.26,
-     "last_price": 0.005695,
-     "last_liq": 225740.61,
-     "score": 85.8,
-     "detail": {
-      "atlas": 100,
-      "vega": 65,
-      "orion": 100,
-      "luna": 73,
-      "buy_ratio": 0.33,
-      "tx_m5": 162,
-      "vol_accel": 5.68,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": 23.8,
-      "h1": 26.68,
-      "liq": 245316,
-      "fdv": 6469550,
-      "turnover_h1": 0.25
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792037869.1854813
-    },
-    "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ": {
-     "symbol": "QI",
-     "pair": "cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn",
-     "url": "https://dexscreener.com/solana/cb4gfrgeitfu5qtxfrmiqzsavpwgbd3heor4cs2jfpn",
-     "opened": 1792026140.7249851,
-     "qty": 33711.472414291355,
-     "qty0": 33711.472414291355,
-     "cost": 20.51,
-     "entry_price": 0.0005918,
-     "fill_price": 0.0005980004300095111,
-     "peak": 0.0005986,
-     "entry_liq": 85911.73,
-     "last_price": 0.0004726,
-     "last_liq": 76096.4,
-     "score": 69.2,
-     "detail": {
-      "atlas": 100,
-      "vega": 80,
-      "orion": 40,
-      "luna": 46,
-      "buy_ratio": 0.8,
-      "tx_m5": 40,
-      "vol_accel": 2.02,
-      "socials": [
-       "telegram",
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": -2.57,
-      "h1": 2.73,
-      "liq": 85912,
-      "fdv": 563851,
-      "turnover_h1": 0.2
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792037869.1854813
-    }
-   },
-   "realized": -510.84421250766366,
+   "cash": 478.16555854771343,
+   "positions": {},
+   "realized": -521.8344414522866,
    "fees_est": 0.0,
    "day": "2026-10-15",
    "day_start_equity": 496.36841206982115,
    "halted_day": "2026-10-14",
-   "trades": 163,
+   "trades": 165,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.5442890996091091
   },
@@ -108,8 +30,8 @@
      "fill_price": 0.0002827874295021444,
      "peak": 0.0003143,
      "entry_liq": 56474.31,
-     "last_price": 0.0002661,
-     "last_liq": 54635.29,
+     "last_price": 0.0002933,
+     "last_liq": 57829.07,
      "score": 26.7,
      "detail": {
       "atlas": 4,
@@ -132,7 +54,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792037869.1854813
+     "last_seen": 1792038783.9063993
     },
     "5q5pEZZwhkuazS4rGa66LcNotdsnUE9KcJ7xQmXSpump": {
      "symbol": "MEMEOS",
@@ -146,8 +68,8 @@
      "fill_price": 0.00021786731085936002,
      "peak": 0.0002248,
      "entry_liq": 39425.14,
-     "last_price": 0.0002054,
-     "last_liq": 38522.19,
+     "last_price": 0.0002153,
+     "last_liq": 39735.67,
      "score": 26.5,
      "detail": {
       "atlas": 2,
@@ -170,7 +92,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792037869.1854813
+     "last_seen": 1792038783.9063993
     }
    },
    "realized": -293.95601201118365,
@@ -264,23 +186,23 @@
   "5q5pEZZwhkuazS4rGa66LcNotdsnUE9KcJ7xQmXSpump": 1792034069.9780407
  },
  "stats": {
-  "scans": 8174,
-  "candidates_seen": 662693,
+  "scans": 8189,
+  "candidates_seen": 663934,
   "rejections": {
-   "dex": 274528,
-   "liq_low": 188479,
-   "odd_quote": 52076,
-   "too_old": 89148,
-   "too_new": 4458,
-   "rug_danger": 3056,
+   "dex": 275048,
+   "liq_low": 188895,
+   "odd_quote": 52167,
+   "too_old": 89298,
+   "too_new": 4473,
+   "rug_danger": 3071,
    "fdv_liq_thin": 3216,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 3057,
-   "lp_unlocked": 12233,
+   "lp_unlocked": 12248,
    "liq_high": 770,
    "titan_max_positions": 14,
    "no_price": 5,
-   "rugcheck_unavailable": 252
+   "rugcheck_unavailable": 271
   }
  },
  "last_prices": {}
