@@ -1,3 +1,4 @@
-2026-10-15 05:06:53Z [desk] BUY DOCA $19.47 @ 0.0002319 score=66.5 liq=$40,752
-2026-10-15 05:06:53Z [control] BUY BABYDOPE $19.47 @ 0.0002886 score=60.9 liq=$45,518
-2026-10-15 05:17:47Z [control] PARTIAL BABYDOPE take_profit_1 sold 50% for $13.00
+2026-10-15 05:24:39Z [desk] EXIT DOCA stop_loss pnl=$-7.33 (-37.6%)
+2026-10-15 05:28:14Z http 400 https://api.rugcheck.xyz/v1/tokens/CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo/report/sum
+2026-10-15 05:28:15Z http 400 https://api.rugcheck.xyz/v1/tokens/CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo/report/sum
+2026-10-15 05:28:18Z http 400 https://api.rugcheck.xyz/v1/tokens/CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo/report/sum
