@@ -1,1 +1,4 @@
-2026-10-15 03:26:28Z [desk] PARTIAL PONK take_profit_1 sold 50% for $13.02
+2026-10-15 03:37:40Z [desk] EXIT PONK trailing_stop pnl=$+7.69 (+39.5%)
+2026-10-15 03:37:41Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
+2026-10-15 03:37:42Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
+2026-10-15 03:37:44Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
