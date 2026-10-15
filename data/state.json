@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 449.47530312528255,
+   "cash": 457.83645500269563,
    "positions": {
     "EnAtbbo1AZWmuXA5PH1Gn4UgGpiTzzmaGbJpLWgjpump": {
      "symbol": "CAPE",
@@ -17,8 +17,8 @@
      "fill_price": 9.807353408660503e-05,
      "peak": 0.0001006,
      "entry_liq": 25173.95,
-     "last_price": 8.58e-05,
-     "last_liq": 23347.13,
+     "last_price": 8.911e-05,
+     "last_liq": 23895.69,
      "score": 69.8,
      "detail": {
       "atlas": 71,
@@ -42,15 +42,15 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792044268.9313633
+     "last_seen": 1792045185.3763134
     }
    },
-   "realized": -530.4946968747174,
+   "realized": -522.1335449973043,
    "fees_est": 0.0,
    "day": "2026-10-15",
    "day_start_equity": 496.36841206982115,
    "halted_day": "2026-10-14",
-   "trades": 168,
+   "trades": 169,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.5442890996091091
   },
@@ -70,8 +70,8 @@
      "fill_price": 0.00021786731085936002,
      "peak": 0.0002814,
      "entry_liq": 39425.14,
-     "last_price": 0.0002549,
-     "last_liq": 42933.98,
+     "last_price": 0.0002535,
+     "last_liq": 42892.67,
      "score": 26.5,
      "detail": {
       "atlas": 2,
@@ -94,7 +94,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792044268.9313633
+     "last_seen": 1792045185.3763134
     }
    },
    "realized": -275.306886175257,
@@ -185,22 +185,23 @@
   "EnAtbbo1AZWmuXA5PH1Gn4UgGpiTzzmaGbJpLWgjpump": 1792039300.030513,
   "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump": 1792039300.030513,
   "5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump": 1792040812.5283172,
-  "DoTNYbDHqs2xRcN7vkH2Tr7K6H7B6eSezNCPqjyapump": 1792040812.5283172
+  "DoTNYbDHqs2xRcN7vkH2Tr7K6H7B6eSezNCPqjyapump": 1792040812.5283172,
+  "CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo": 1792044529.8866107
  },
  "stats": {
-  "scans": 8279,
-  "candidates_seen": 670881,
+  "scans": 8294,
+  "candidates_seen": 672012,
   "rejections": {
-   "dex": 278092,
-   "liq_low": 190881,
-   "odd_quote": 52840,
-   "too_old": 90245,
-   "too_new": 4524,
-   "rug_danger": 3099,
+   "dex": 278605,
+   "liq_low": 191178,
+   "odd_quote": 52960,
+   "too_old": 90404,
+   "too_new": 4533,
+   "rug_danger": 3112,
    "fdv_liq_thin": 3216,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 3057,
-   "lp_unlocked": 12338,
+   "lp_unlocked": 12353,
    "liq_high": 772,
    "titan_max_positions": 14,
    "no_price": 5,
