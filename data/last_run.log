@@ -1,7 +1,7 @@
-2026-10-15 03:47:43Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
-2026-10-15 03:47:45Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
-2026-10-15 03:47:47Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
-2026-10-15 03:56:59Z http 400 https://api.rugcheck.xyz/v1/tokens/BYrzLeE15hwtnazNYVDL7BwMbShwgjRws5jV6M6wpump/report/sum
-2026-10-15 03:57:00Z http 400 https://api.rugcheck.xyz/v1/tokens/BYrzLeE15hwtnazNYVDL7BwMbShwgjRws5jV6M6wpump/report/sum
-2026-10-15 03:57:03Z http 400 https://api.rugcheck.xyz/v1/tokens/BYrzLeE15hwtnazNYVDL7BwMbShwgjRws5jV6M6wpump/report/sum
-2026-10-15 04:00:54Z [control] EXIT ROSE time_exit pnl=$-0.66 (-3.1%)
+2026-10-15 04:02:58Z [control] EXIT DIKSHIT time_exit pnl=$-5.52 (-24.4%)
+2026-10-15 04:05:00Z [control] EXIT SAINDRA time_exit pnl=$-3.01 (-14.4%)
+2026-10-15 04:10:05Z [desk] PARTIAL STREAM take_profit_1 sold 50% for $15.61
+2026-10-15 04:15:10Z http 400 https://api.rugcheck.xyz/v1/tokens/F4dfnxRpH4ZDqXqfPcHm4Dqyk8s8TfqNuT8V95xpump/report/summ
+2026-10-15 04:15:11Z http 400 https://api.rugcheck.xyz/v1/tokens/F4dfnxRpH4ZDqXqfPcHm4Dqyk8s8TfqNuT8V95xpump/report/summ
+2026-10-15 04:15:14Z http 400 https://api.rugcheck.xyz/v1/tokens/F4dfnxRpH4ZDqXqfPcHm4Dqyk8s8TfqNuT8V95xpump/report/summ
+2026-10-15 04:16:02Z [desk] EXIT STREAM time_exit pnl=$+10.42 (+44.6%)
