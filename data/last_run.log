@@ -1,4 +1,0 @@
-2026-10-15 01:47:28Z [desk] BUY QPF $19.13 @ 0.0002301 score=65.2 liq=$40,645
-2026-10-15 01:47:28Z [control] BUY SEALS $19.13 @ 0.0002798 score=26.7 liq=$56,474
-2026-10-15 01:54:19Z [desk] EXIT HUMPH trailing_stop pnl=$+6.92 (+32.0%)
-2026-10-15 01:56:05Z [desk] EXIT QPF stop_loss pnl=$-5.78 (-30.2%)
