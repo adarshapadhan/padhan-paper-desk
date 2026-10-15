@@ -1,8 +1,3 @@
-2026-10-15 04:48:35Z http 400 https://api.rugcheck.xyz/v1/tokens/ABRTMgNqADDX1ZJWrCxXrVw6kUsgcAu62pUN8Tompump/report/sum
-2026-10-15 04:48:37Z http 400 https://api.rugcheck.xyz/v1/tokens/ABRTMgNqADDX1ZJWrCxXrVw6kUsgcAu62pUN8Tompump/report/sum
-2026-10-15 04:48:39Z http 400 https://api.rugcheck.xyz/v1/tokens/ABRTMgNqADDX1ZJWrCxXrVw6kUsgcAu62pUN8Tompump/report/sum
-2026-10-15 04:48:42Z http 400 https://api.rugcheck.xyz/v1/tokens/5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump/report/sum
-2026-10-15 04:48:44Z http 400 https://api.rugcheck.xyz/v1/tokens/5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump/report/sum
-2026-10-15 04:48:46Z http 400 https://api.rugcheck.xyz/v1/tokens/5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump/report/sum
-2026-10-15 04:53:08Z [desk] PARTIAL FTR take_profit_1 sold 50% for $14.15
-2026-10-15 04:53:08Z [control] PARTIAL FTR take_profit_1 sold 50% for $15.06
+2026-10-15 05:06:53Z [desk] BUY DOCA $19.47 @ 0.0002319 score=66.5 liq=$40,752
+2026-10-15 05:06:53Z [control] BUY BABYDOPE $19.47 @ 0.0002886 score=60.9 liq=$45,518
+2026-10-15 05:17:47Z [control] PARTIAL BABYDOPE take_profit_1 sold 50% for $13.00
