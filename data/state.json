@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 437.36189208699386,
+   "cash": 431.1232516937226,
    "positions": {
     "9pTGUwAhG3CLAcu8rZKgu8cQaeAdQRmkbbG8hfzzpump": {
      "symbol": "H20",
@@ -15,10 +15,10 @@
      "cost": 21.01,
      "entry_price": 9.712e-05,
      "fill_price": 9.825229594664904e-05,
-     "peak": 9.712e-05,
+     "peak": 0.0001344,
      "entry_liq": 25290.6,
-     "last_price": 9.031e-05,
-     "last_liq": 24379.53,
+     "last_price": 0.0001255,
+     "last_liq": 29172.05,
      "score": 75.2,
      "detail": {
       "atlas": 100,
@@ -41,17 +41,17 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792060666.247987
+     "last_seen": 1792061578.0474353
     }
    },
-   "realized": -541.6281079130061,
+   "realized": -547.8667483062775,
    "fees_est": 0.0,
    "day": "2026-10-15",
    "day_start_equity": 496.36841206982115,
    "halted_day": "2026-10-14",
-   "trades": 172,
+   "trades": 173,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.5444217945023089
+   "max_dd": 0.5471615954759248
   },
   "control": {
    "name": "control",
@@ -144,23 +144,24 @@
   "3EC7gRDGKgqPHc9ipJxxChoeyseE2xAbQHZUSSTfpump": 1792053585.0949953,
   "HUDmsj3BJ6EkbRBWpi2j8tzRLbv4xhho1x9AGw2Ypump": 1792057951.7425196,
   "hornSiTqcyFr81fnNywbnRPbXhVJVjK2nugZZM4avLQ": 1792057951.7425196,
-  "9pTGUwAhG3CLAcu8rZKgu8cQaeAdQRmkbbG8hfzzpump": 1792060560.1424017
+  "9pTGUwAhG3CLAcu8rZKgu8cQaeAdQRmkbbG8hfzzpump": 1792060560.1424017,
+  "AkqNPJ9tfNcTDywoi6SUNNL3tUGLBnPpGfGNUrgopump": 1792061290.1445055
  },
  "stats": {
-  "scans": 8549,
-  "candidates_seen": 690574,
+  "scans": 8564,
+  "candidates_seen": 691662,
   "rejections": {
-   "dex": 287990,
-   "liq_low": 195360,
-   "odd_quote": 54490,
-   "too_old": 92992,
-   "too_new": 4658,
-   "rug_danger": 3308,
+   "dex": 288505,
+   "liq_low": 195633,
+   "odd_quote": 54565,
+   "too_old": 93157,
+   "too_new": 4669,
+   "rug_danger": 3323,
    "fdv_liq_thin": 3216,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 3057,
-   "lp_unlocked": 12619,
-   "liq_high": 1027,
+   "lp_unlocked": 12634,
+   "liq_high": 1042,
    "titan_max_positions": 14,
    "no_price": 5,
    "rugcheck_unavailable": 384
