@@ -1,11 +1,7 @@
-2026-10-15 00:00:48Z [desk] BUY HUMPH $21.61 @ 0.000218 score=71.2 liq=$45,757
-2026-10-15 00:00:48Z [control] BUY ROSE $21.61 @ 0.0003553 score=30.6 liq=$58,726
-2026-10-15 00:02:51Z [desk] BUY PEGE $22.62 @ 0.0002548 score=74.6 liq=$43,089
-2026-10-15 00:02:51Z [control] BUY DIKSHIT $22.62 @ 0.0001794 score=44.0 liq=$37,523
-2026-10-15 00:04:54Z [desk] BUY VEILTRUMP $20.94 @ 0.001203 score=69.0 liq=$95,717
-2026-10-15 00:04:54Z [control] BUY SAINDRA $20.94 @ 0.0005722 score=43.8 liq=$73,118
-2026-10-15 00:09:44Z [desk] EXIT PEGE stop_loss pnl=$-10.32 (-45.6%)
-2026-10-15 00:10:00Z http 400 https://api.rugcheck.xyz/v1/tokens/EKwB8a5baVzxNJPJwVGuVQPvGEWoYn7ktjpcAMqypump/report/sum
-2026-10-15 00:10:02Z http 400 https://api.rugcheck.xyz/v1/tokens/EKwB8a5baVzxNJPJwVGuVQPvGEWoYn7ktjpcAMqypump/report/sum
-2026-10-15 00:10:04Z http 400 https://api.rugcheck.xyz/v1/tokens/EKwB8a5baVzxNJPJwVGuVQPvGEWoYn7ktjpcAMqypump/report/sum
-2026-10-15 00:11:08Z [desk] BUY CRAWLER $20.30 @ 0.0001484 score=67.4 liq=$36,967
+2026-10-15 00:15:55Z http 400 https://api.rugcheck.xyz/v1/tokens/EKwB8a5baVzxNJPJwVGuVQPvGEWoYn7ktjpcAMqypump/report/sum
+2026-10-15 00:15:57Z http 400 https://api.rugcheck.xyz/v1/tokens/EKwB8a5baVzxNJPJwVGuVQPvGEWoYn7ktjpcAMqypump/report/sum
+2026-10-15 00:15:59Z http 400 https://api.rugcheck.xyz/v1/tokens/EKwB8a5baVzxNJPJwVGuVQPvGEWoYn7ktjpcAMqypump/report/sum
+2026-10-15 00:16:02Z [desk] BUY STREAM $23.39 @ 0.001707 score=78.4 liq=$117,003
+2026-10-15 00:16:17Z [desk] PARTIAL HUMPH take_profit_1 sold 50% for $14.34
+2026-10-15 00:23:10Z [desk] BUY VEIL $25.58 @ 0.006629 score=85.8 liq=$245,316
+2026-10-15 00:23:10Z [control] BUY CyberAxe $25.58 @ 0.0002101 score=55.9 liq=$40,749
