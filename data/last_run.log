@@ -1,8 +1,0 @@
-2026-10-15 15:11:37Z [desk] EXIT STREAM trailing_stop pnl=$+5.25 (+22.8%)
-2026-10-15 15:15:42Z [control] EXIT Pepper stop_loss pnl=$-7.31 (-31.8%)
-2026-10-15 15:19:01Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1
-2026-10-15 15:19:17Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1
-2026-10-15 15:24:18Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1
-2026-10-15 15:24:36Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
-2026-10-15 15:24:52Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
-2026-10-15 15:25:09Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
