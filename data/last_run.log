@@ -1,4 +1,6 @@
-2026-10-15 05:24:39Z [desk] EXIT DOCA stop_loss pnl=$-7.33 (-37.6%)
-2026-10-15 05:28:14Z http 400 https://api.rugcheck.xyz/v1/tokens/CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo/report/sum
-2026-10-15 05:28:15Z http 400 https://api.rugcheck.xyz/v1/tokens/CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo/report/sum
-2026-10-15 05:28:18Z http 400 https://api.rugcheck.xyz/v1/tokens/CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo/report/sum
+2026-10-15 05:34:13Z http 400 https://api.rugcheck.xyz/v1/tokens/CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo/report/sum
+2026-10-15 05:34:14Z http 400 https://api.rugcheck.xyz/v1/tokens/CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo/report/sum
+2026-10-15 05:34:17Z http 400 https://api.rugcheck.xyz/v1/tokens/CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo/report/sum
+2026-10-15 05:44:28Z [desk] EXIT FTR trailing_stop pnl=$+8.24 (+43.7%)
+2026-10-15 05:44:28Z [control] EXIT FTR trailing_stop pnl=$+8.81 (+44.0%)
+2026-10-15 05:47:30Z [control] EXIT SEALS time_exit pnl=$-1.08 (-5.6%)
