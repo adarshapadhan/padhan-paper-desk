@@ -17,8 +17,8 @@
      "fill_price": 0.0067581984227206,
      "peak": 0.007591,
      "entry_liq": 236964.64,
-     "last_price": 0.006764,
-     "last_liq": 238755.88,
+     "last_price": 0.007011,
+     "last_liq": 243169.79,
      "score": 83.9,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792068878.2890084
+     "last_seen": 1792069782.178125
     }
    },
    "realized": -553.3385113448913,
@@ -51,7 +51,7 @@
    "halted_day": "2026-10-15",
    "trades": 178,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.5552706786039556
+   "max_dd": 0.5572941235265588
   },
   "control": {
    "name": "control",
@@ -69,8 +69,8 @@
      "fill_price": 0.0007646109465384218,
      "peak": 0.0007567,
      "entry_liq": 85015.32,
-     "last_price": 0.0006721,
-     "last_liq": 80209.25,
+     "last_price": 0.00063,
+     "last_liq": 77568.46,
      "score": 53.7,
      "detail": {
       "atlas": 53,
@@ -93,7 +93,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792068878.2890084
+     "last_seen": 1792069782.178125
     },
     "9g4Pib6AM3oVdP9YA7ZcssAXAuhoUzkjR8w27doYpump": {
      "symbol": "Pepper",
@@ -107,8 +107,8 @@
      "fill_price": 0.001150875833052912,
      "peak": 0.001408,
      "entry_liq": 107797.63,
-     "last_price": 0.001294,
-     "last_liq": 115209.82,
+     "last_price": 0.001229,
+     "last_liq": 112193.8,
      "score": 30.3,
      "detail": {
       "atlas": 8,
@@ -131,7 +131,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792068878.2890084
+     "last_seen": 1792069782.178125
     }
    },
    "realized": -265.58283392635394,
@@ -227,20 +227,20 @@
   "2ay4jNY3JxfuXJzhZ8DrAKkGzpirgD7Dv2ccL9zmpump": 1792063427.442413
  },
  "stats": {
-  "scans": 8684,
-  "candidates_seen": 700060,
+  "scans": 8699,
+  "candidates_seen": 701163,
   "rejections": {
-   "dex": 292399,
-   "liq_low": 197511,
-   "odd_quote": 55392,
-   "too_old": 94473,
-   "too_new": 4723,
-   "rug_danger": 3428,
+   "dex": 292954,
+   "liq_low": 197715,
+   "odd_quote": 55505,
+   "too_old": 94639,
+   "too_new": 4725,
+   "rug_danger": 3443,
    "fdv_liq_thin": 3216,
    "fdv_low": 1211,
    "titan_daily_loss_stop": 3057,
-   "lp_unlocked": 12754,
-   "liq_high": 1162,
+   "lp_unlocked": 12769,
+   "liq_high": 1173,
    "titan_max_positions": 14,
    "no_price": 5,
    "rugcheck_unavailable": 384
