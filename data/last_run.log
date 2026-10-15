@@ -1,3 +1,2 @@
-2026-10-15 11:11:14Z [desk] PARTIAL HELLCAT take_profit_1 sold 50% for $13.42
-2026-10-15 11:18:03Z [desk] EXIT HELLCAT trailing_stop pnl=$+10.02 (+49.3%)
-2026-10-15 11:20:35Z [desk] BUY RAM $19.22 @ 0.0001185 score=66.9 liq=$28,072
+2026-10-15 11:23:49Z [desk] BUY Nihilism $20.91 @ 0.0005623 score=73.5 liq=$73,048
+2026-10-15 11:25:50Z [desk] EXIT RAM stop_loss pnl=$-8.53 (-44.4%)
