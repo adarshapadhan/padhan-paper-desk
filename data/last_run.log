@@ -1,7 +1,2 @@
-2026-10-15 00:15:55Z http 400 https://api.rugcheck.xyz/v1/tokens/EKwB8a5baVzxNJPJwVGuVQPvGEWoYn7ktjpcAMqypump/report/sum
-2026-10-15 00:15:57Z http 400 https://api.rugcheck.xyz/v1/tokens/EKwB8a5baVzxNJPJwVGuVQPvGEWoYn7ktjpcAMqypump/report/sum
-2026-10-15 00:15:59Z http 400 https://api.rugcheck.xyz/v1/tokens/EKwB8a5baVzxNJPJwVGuVQPvGEWoYn7ktjpcAMqypump/report/sum
-2026-10-15 00:16:02Z [desk] BUY STREAM $23.39 @ 0.001707 score=78.4 liq=$117,003
-2026-10-15 00:16:17Z [desk] PARTIAL HUMPH take_profit_1 sold 50% for $14.34
-2026-10-15 00:23:10Z [desk] BUY VEIL $25.58 @ 0.006629 score=85.8 liq=$245,316
-2026-10-15 00:23:10Z [control] BUY CyberAxe $25.58 @ 0.0002101 score=55.9 liq=$40,749
+2026-10-15 00:44:21Z [desk] BUY XPOSE $22.66 @ 9.583e-05 score=75.2 liq=$25,000
+2026-10-15 00:44:21Z [control] BUY Altai $22.66 @ 0.0006894 score=55.7 liq=$115,402
