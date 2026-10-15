@@ -1,4 +1,7 @@
-2026-10-15 03:37:40Z [desk] EXIT PONK trailing_stop pnl=$+7.69 (+39.5%)
-2026-10-15 03:37:41Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
-2026-10-15 03:37:42Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
-2026-10-15 03:37:44Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
+2026-10-15 03:47:43Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
+2026-10-15 03:47:45Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
+2026-10-15 03:47:47Z http 400 https://api.rugcheck.xyz/v1/tokens/FbKydFGVNWEfngPkLZwz7TXCvQz7oDEhANkDRBW3pump/report/sum
+2026-10-15 03:56:59Z http 400 https://api.rugcheck.xyz/v1/tokens/BYrzLeE15hwtnazNYVDL7BwMbShwgjRws5jV6M6wpump/report/sum
+2026-10-15 03:57:00Z http 400 https://api.rugcheck.xyz/v1/tokens/BYrzLeE15hwtnazNYVDL7BwMbShwgjRws5jV6M6wpump/report/sum
+2026-10-15 03:57:03Z http 400 https://api.rugcheck.xyz/v1/tokens/BYrzLeE15hwtnazNYVDL7BwMbShwgjRws5jV6M6wpump/report/sum
+2026-10-15 04:00:54Z [control] EXIT ROSE time_exit pnl=$-0.66 (-3.1%)
