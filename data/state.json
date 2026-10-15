@@ -3,22 +3,22 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 423.66148865510854,
+   "cash": 438.86757812049467,
    "positions": {
     "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump": {
      "symbol": "STREAM",
      "pair": "D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ",
      "url": "https://dexscreener.com/solana/d9nckn3unptvlta56y68j2cxisje9yyye61gmm2hchwj",
      "opened": 1792066600.7761376,
-     "qty": 3350.4861182937375,
+     "qty": 1675.2430591468687,
      "qty0": 3350.4861182937375,
      "cost": 23.0,
      "entry_price": 0.00669,
      "fill_price": 0.0067581984227206,
-     "peak": 0.009043,
+     "peak": 0.01016,
      "entry_liq": 236964.64,
-     "last_price": 0.008043,
-     "last_liq": 261965.35,
+     "last_price": 0.009444,
+     "last_liq": 285798.0,
      "score": 83.9,
      "detail": {
       "atlas": 100,
@@ -39,9 +39,9 @@
       "fdv": 6658329,
       "turnover_h1": 0.81
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792072491.908336
+     "tp1_done": true,
+     "proceeds": 15.206089465386148,
+     "last_seen": 1792073398.2606986
     }
    },
    "realized": -553.3385113448913,
@@ -69,8 +69,8 @@
      "fill_price": 0.001150875833052912,
      "peak": 0.001408,
      "entry_liq": 107797.63,
-     "last_price": 0.001326,
-     "last_liq": 116384.0,
+     "last_price": 0.001206,
+     "last_liq": 111308.72,
      "score": 30.3,
      "detail": {
       "atlas": 8,
@@ -93,7 +93,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792072491.908336
+     "last_seen": 1792073398.2606986
     }
    },
    "realized": -271.37369067652077,
@@ -186,19 +186,19 @@
   "2ay4jNY3JxfuXJzhZ8DrAKkGzpirgD7Dv2ccL9zmpump": 1792063427.442413
  },
  "stats": {
-  "scans": 8744,
-  "candidates_seen": 704484,
+  "scans": 8759,
+  "candidates_seen": 705688,
   "rejections": {
-   "dex": 294508,
-   "liq_low": 198335,
-   "odd_quote": 55936,
-   "too_old": 95136,
-   "too_new": 4751,
-   "rug_danger": 3476,
+   "dex": 295003,
+   "liq_low": 198552,
+   "odd_quote": 56183,
+   "too_old": 95301,
+   "too_new": 4754,
+   "rug_danger": 3491,
    "fdv_liq_thin": 3216,
    "fdv_low": 1211,
-   "titan_daily_loss_stop": 3072,
-   "lp_unlocked": 12814,
+   "titan_daily_loss_stop": 3074,
+   "lp_unlocked": 12829,
    "liq_high": 1175,
    "titan_max_positions": 14,
    "no_price": 5,
