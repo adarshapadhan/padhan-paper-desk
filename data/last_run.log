@@ -1,14 +1,8 @@
-2026-10-15 04:33:21Z http 400 https://api.rugcheck.xyz/v1/tokens/DoTNYbDHqs2xRcN7vkH2Tr7K6H7B6eSezNCPqjyapump/report/sum
-2026-10-15 04:33:23Z http 400 https://api.rugcheck.xyz/v1/tokens/DoTNYbDHqs2xRcN7vkH2Tr7K6H7B6eSezNCPqjyapump/report/sum
-2026-10-15 04:33:25Z http 400 https://api.rugcheck.xyz/v1/tokens/DoTNYbDHqs2xRcN7vkH2Tr7K6H7B6eSezNCPqjyapump/report/sum
-2026-10-15 04:33:28Z http 400 https://api.rugcheck.xyz/v1/tokens/5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump/report/sum
-2026-10-15 04:33:30Z http 400 https://api.rugcheck.xyz/v1/tokens/5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump/report/sum
-2026-10-15 04:33:32Z http 400 https://api.rugcheck.xyz/v1/tokens/5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump/report/sum
-2026-10-15 04:33:36Z [desk] BUY PLUS1 $19.21 @ 0.0004068 score=65.3 liq=$54,272
-2026-10-15 04:35:23Z http 400 https://api.rugcheck.xyz/v1/tokens/ABRTMgNqADDX1ZJWrCxXrVw6kUsgcAu62pUN8Tompump/report/sum
-2026-10-15 04:35:24Z http 400 https://api.rugcheck.xyz/v1/tokens/ABRTMgNqADDX1ZJWrCxXrVw6kUsgcAu62pUN8Tompump/report/sum
-2026-10-15 04:35:26Z http 400 https://api.rugcheck.xyz/v1/tokens/ABRTMgNqADDX1ZJWrCxXrVw6kUsgcAu62pUN8Tompump/report/sum
-2026-10-15 04:36:46Z [desk] EXIT PLUS1 stop_loss pnl=$-9.57 (-49.8%)
-2026-10-15 04:41:41Z [desk] BUY CAPE $20.03 @ 9.695e-05 score=69.8 liq=$25,174
-2026-10-15 04:41:41Z [control] BUY FTR $20.03 @ 0.0001763 score=65.6 liq=$36,739
-2026-10-15 04:41:41Z [desk] BUY FTR $18.86 @ 0.0001763 score=65.6 liq=$36,739
+2026-10-15 04:48:35Z http 400 https://api.rugcheck.xyz/v1/tokens/ABRTMgNqADDX1ZJWrCxXrVw6kUsgcAu62pUN8Tompump/report/sum
+2026-10-15 04:48:37Z http 400 https://api.rugcheck.xyz/v1/tokens/ABRTMgNqADDX1ZJWrCxXrVw6kUsgcAu62pUN8Tompump/report/sum
+2026-10-15 04:48:39Z http 400 https://api.rugcheck.xyz/v1/tokens/ABRTMgNqADDX1ZJWrCxXrVw6kUsgcAu62pUN8Tompump/report/sum
+2026-10-15 04:48:42Z http 400 https://api.rugcheck.xyz/v1/tokens/5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump/report/sum
+2026-10-15 04:48:44Z http 400 https://api.rugcheck.xyz/v1/tokens/5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump/report/sum
+2026-10-15 04:48:46Z http 400 https://api.rugcheck.xyz/v1/tokens/5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump/report/sum
+2026-10-15 04:53:08Z [desk] PARTIAL FTR take_profit_1 sold 50% for $14.15
+2026-10-15 04:53:08Z [control] PARTIAL FTR take_profit_1 sold 50% for $15.06
