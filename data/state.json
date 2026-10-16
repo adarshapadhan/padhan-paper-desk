@@ -16,22 +16,22 @@
   },
   "control": {
    "name": "control",
-   "cash": 679.4335486924409,
+   "cash": 691.1653221850337,
    "positions": {
     "pFibPnQk8ekCCtuBoQFJqeJjHVo92dAME3uH8A4pump": {
      "symbol": "ElonThrust",
      "pair": "Hn6zRP1bcYyPGQrmAi5WcU3YjsxexRSogHSj6CQDBnCy",
      "url": "https://dexscreener.com/solana/hn6zrp1bcyypgqrmai5wcu3yjsxexrsoghsj6cqdbncy",
      "opened": 1792143939.5286481,
-     "qty": 29000.93443613743,
+     "qty": 14500.467218068716,
      "qty0": 29000.93443613743,
      "cost": 17.89,
      "entry_price": 0.0005987,
      "fill_price": 0.0006050158500457241,
-     "peak": 0.0008218,
+     "peak": 0.000896,
      "entry_liq": 65104.81,
-     "last_price": 0.0008218,
-     "last_liq": 76483.7,
+     "last_price": 0.000896,
+     "last_liq": 79962.69,
      "score": 59.9,
      "detail": {
       "atlas": 100,
@@ -52,9 +52,9 @@
       "fdv": 598739,
       "turnover_h1": 0.43
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792145256.7486897
+     "tp1_done": true,
+     "proceeds": 11.731773492592755,
+     "last_seen": 1792146165.4471803
     }
    },
    "realized": -302.67645130755864,
@@ -131,19 +131,19 @@
   "pFibPnQk8ekCCtuBoQFJqeJjHVo92dAME3uH8A4pump": 1792143939.5286481
  },
  "stats": {
-  "scans": 9944,
-  "candidates_seen": 801788,
+  "scans": 9959,
+  "candidates_seen": 802905,
   "rejections": {
-   "dex": 337545,
-   "liq_low": 220128,
-   "odd_quote": 66382,
-   "too_old": 109370,
-   "too_new": 5354,
+   "dex": 338094,
+   "liq_low": 220339,
+   "odd_quote": 66505,
+   "too_old": 109565,
+   "too_new": 5363,
    "rug_danger": 3654,
-   "fdv_liq_thin": 3869,
+   "fdv_liq_thin": 3884,
    "fdv_low": 1222,
    "titan_daily_loss_stop": 3545,
-   "lp_unlocked": 14061,
+   "lp_unlocked": 14076,
    "liq_high": 1200,
    "titan_max_positions": 15,
    "no_price": 5,
