@@ -1,4 +1,5 @@
-2026-10-16 12:07:03Z [desk] BUY OPTIMA $18.36 @ 9.271e-05 score=69.7 liq=$25,002
-2026-10-16 12:07:03Z [control] BUY STREAM $18.36 @ 0.0001628 score=51.9 liq=$36,726
-2026-10-16 12:08:04Z [desk] BUY OWLDACITY $19.14 @ 0.0005295 score=73.1 liq=$66,929
-2026-10-16 12:08:04Z [control] BUY DTR $19.14 @ 0.0001501 score=60.5 liq=$32,106
+2026-10-16 12:14:10Z [desk] PARTIAL OPTIMA take_profit_1 sold 50% for $12.46
+2026-10-16 12:17:14Z [desk] BUY SOLSTER $18.68 @ 0.000132 score=69.9 liq=$29,982
+2026-10-16 12:17:14Z [control] BUY 1EDGE $18.68 @ 0.000358 score=24.6 liq=$46,930
+2026-10-16 12:17:59Z [desk] EXIT SOLSTER stop_loss pnl=$-12.87 (-68.9%)
+2026-10-16 12:21:47Z [control] PARTIAL STREAM take_profit_1 sold 50% for $12.48
