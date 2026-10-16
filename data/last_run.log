@@ -1,2 +1,1 @@
-2026-10-16 08:57:03Z [control] EXIT WAITIE stop_loss pnl=$-7.03 (-37.1%)
-2026-10-16 09:06:39Z [desk] PARTIAL GOAT11 take_profit_1 sold 50% for $13.51
+2026-10-16 09:07:41Z [desk] EXIT GOAT11 trailing_stop pnl=$+5.26 (+27.8%)
