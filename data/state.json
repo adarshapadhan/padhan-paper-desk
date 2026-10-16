@@ -3,22 +3,22 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 398.2226226742919,
+   "cash": 411.7342596350512,
    "positions": {
     "GjkMsvYmuFR37SyKnJoD8DwccLb3HKMQBnNe5Nqbpump": {
      "symbol": "GOAT11",
      "pair": "CagcwzhHeMNKRC1YGp4yywEGDssdCAebPQhEFXeMuSg9",
      "url": "https://dexscreener.com/solana/cagcwzhhemnkrc1ygp4yywegdssdcaebpqhefxemusg9",
      "opened": 1792140657.438705,
-     "qty": 153703.62021558394,
+     "qty": 76851.81010779197,
      "qty0": 153703.62021558394,
      "cost": 18.95,
      "entry_price": 0.0001197,
      "fill_price": 0.00012103407176686533,
-     "peak": 0.0001197,
+     "peak": 0.0001821,
      "entry_liq": 33058.85,
-     "last_price": 0.0001108,
-     "last_liq": 31897.78,
+     "last_price": 0.0001821,
+     "last_liq": 45974.3,
      "score": 74.5,
      "detail": {
       "atlas": 100,
@@ -40,9 +40,9 @@
       "fdv": 119788,
       "turnover_h1": 17.17
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792140703.2879298
+     "tp1_done": true,
+     "proceeds": 13.511636960759303,
+     "last_seen": 1792141614.6107647
     }
    },
    "realized": -582.8273773257079,
@@ -52,57 +52,18 @@
    "halted_day": "2026-10-15",
    "trades": 198,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.5854647143840452
+   "max_dd": 0.5860705347239891
   },
   "control": {
    "name": "control",
-   "cash": 685.4049090582757,
-   "positions": {
-    "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump": {
-     "symbol": "WAITIE",
-     "pair": "5zU7FTXQc5t7DrKzcRMwyRvvSqcibngHjMRpqwzscChV",
-     "url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
-     "opened": 1792140657.438705,
-     "qty": 106849.58552809911,
-     "qty0": 106849.58552809911,
-     "cost": 18.95,
-     "entry_price": 0.0001722,
-     "fill_price": 0.00017410806890877194,
-     "peak": 0.0001722,
-     "entry_liq": 35037.17,
-     "last_price": 0.0001639,
-     "last_liq": 34144.42,
-     "score": 61.9,
-     "detail": {
-      "atlas": 100,
-      "vega": 25,
-      "orion": 60,
-      "luna": 53,
-      "buy_ratio": 0.51,
-      "tx_m5": 207,
-      "vol_accel": 5.29,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": false,
-      "m5": 9.14,
-      "h1": -34.68,
-      "liq": 35037,
-      "fdv": 166523,
-      "turnover_h1": 2.06
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792140703.2879298
-    }
-   },
-   "realized": -295.6450909417238,
+   "cash": 697.3235486924409,
+   "positions": {},
+   "realized": -302.67645130755864,
    "fees_est": 0.0,
    "day": "2026-10-16",
    "day_start_equity": 721.3207796528028,
    "halted_day": "",
-   "trades": 95,
+   "trades": 96,
    "peak_equity": 1005.3866010289258,
    "max_dd": 0.30816243466656124
   }
@@ -118,8 +79,6 @@
   "XtogpWjiAgvkemc5gr1auxkh77w3vKgSQN1nxJeJfHt": 1791982262.7483797,
   "CQCDTp8rsFV3PhaPeYjcCW5LdGTxi6jFx7eC3UXnpump": 1792023068.1197152,
   "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": 1792109801.1876962,
-  "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump": 1791968141.6936612,
-  "2cbDQYRvZrCbjuFe7JsJPfYMAqrQ6KFdnwWD5Jkdpump": 1791968141.6936612,
   "5F3tCmoRksMeRwsBma93jJYRuPo7aQ5bmahdqfaProad": 1791970382.3592262,
   "kYhQnq1wmmAB2zyP68rFcvEMV96egSQp5Khwo8Apump": 1791970382.3592262,
   "FvSE99EkoiTY8Wv34V2RpWVNxnrLe7o9gyKnd4HddtjQ": 1791974319.8926218,
@@ -173,19 +132,19 @@
   "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump": 1792140657.438705
  },
  "stats": {
-  "scans": 9869,
-  "candidates_seen": 796087,
+  "scans": 9884,
+  "candidates_seen": 797273,
   "rejections": {
-   "dex": 334847,
-   "liq_low": 218895,
-   "odd_quote": 65714,
-   "too_old": 108465,
-   "too_new": 5310,
+   "dex": 335416,
+   "liq_low": 219161,
+   "odd_quote": 65842,
+   "too_old": 108644,
+   "too_new": 5324,
    "rug_danger": 3654,
-   "fdv_liq_thin": 3794,
+   "fdv_liq_thin": 3809,
    "fdv_low": 1222,
    "titan_daily_loss_stop": 3545,
-   "lp_unlocked": 13986,
+   "lp_unlocked": 14001,
    "liq_high": 1200,
    "titan_max_positions": 15,
    "no_price": 5,
