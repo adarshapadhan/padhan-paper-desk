@@ -1,2 +1,1 @@
-2026-10-16 10:59:39Z [desk] PARTIAL USDC take_profit_1 sold 50% for $12.68
-2026-10-16 11:05:12Z [desk] EXIT USDC trailing_stop pnl=$+3.88 (+20.7%)
+2026-10-16 11:10:51Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
