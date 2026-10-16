@@ -1,5 +1,3 @@
-2026-10-16 01:48:32Z [desk] PARTIAL STREAM take_profit_1 sold 50% for $12.24
-2026-10-16 01:53:06Z [control] EXIT SAINDRA stop_loss pnl=$-6.26 (-30.9%)
-2026-10-16 01:54:07Z [desk] BUY CatTok $19.38 @ 0.0002251 score=74.4 liq=$39,539
-2026-10-16 01:54:07Z [control] BUY RL $19.38 @ 0.0001265 score=55.6 liq=$31,875
-2026-10-16 01:58:26Z [control] EXIT RL stop_loss pnl=$-5.76 (-29.7%)
+2026-10-16 02:02:32Z [desk] PARTIAL CatTok take_profit_1 sold 50% for $12.75
+2026-10-16 02:04:34Z [desk] EXIT STREAM trailing_stop pnl=$+3.72 (+20.5%)
+2026-10-16 02:05:20Z [desk] EXIT CatTok trailing_stop pnl=$+3.40 (+17.5%)
