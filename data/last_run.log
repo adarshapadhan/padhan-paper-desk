@@ -1,0 +1,4 @@
+2026-10-16 09:45:40Z [desk] BUY Irene $17.89 @ 9.883e-05 score=69.1 liq=$25,755
+2026-10-16 09:45:40Z [control] BUY ElonThrust $17.89 @ 0.0005987 score=59.9 liq=$65,105
+2026-10-16 09:48:56Z [desk] PARTIAL Irene take_profit_1 sold 50% for $12.34
+2026-10-16 09:52:28Z [desk] EXIT Irene trailing_stop pnl=$+3.74 (+20.9%)
