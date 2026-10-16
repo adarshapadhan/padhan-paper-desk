@@ -1,8 +1,0 @@
-2026-10-16 13:42:32Z [desk] BUY ETR $17.29 @ 0.0004171 score=65.7 liq=$54,463
-2026-10-16 13:42:32Z [control] BUY WAITIE $17.29 @ 9.583e-05 score=15.5 liq=$25,420
-2026-10-16 13:47:37Z [desk] BUY BROG $18.57 @ 0.0001859 score=70.6 liq=$35,690
-2026-10-16 13:47:37Z [control] BUY Audaster $18.57 @ 0.001021 score=52.3 liq=$87,688
-2026-10-16 13:50:54Z [desk] EXIT BROG liquidity_pulled pnl=$-18.57 (-100.0%)
-2026-10-16 13:54:11Z [control] EXIT Audaster stop_loss pnl=$-6.67 (-35.9%)
-2026-10-16 13:54:57Z [desk] EXIT ETR stop_loss pnl=$-6.25 (-36.1%)
-2026-10-16 13:54:57Z [desk] DAILY LOSS STOP hit — no new entries until next UTC day
