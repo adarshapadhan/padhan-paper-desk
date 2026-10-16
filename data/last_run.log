@@ -1,2 +1,3 @@
-2026-10-16 07:12:00Z [desk] BUY LOOM $16.84 @ 8.901e-05 score=65.1 liq=$25,079
-2026-10-16 07:16:47Z [desk] PARTIAL LOOM take_profit_1 sold 50% for $12.07
+2026-10-16 07:22:52Z [desk] EXIT LOOM trailing_stop pnl=$+2.79 (+16.6%)
+2026-10-16 07:27:10Z [desk] BUY Muskpad $17.92 @ 8.911e-05 score=69.1 liq=$25,038
+2026-10-16 07:30:42Z [desk] EXIT Muskpad stop_loss pnl=$-6.05 (-33.8%)
