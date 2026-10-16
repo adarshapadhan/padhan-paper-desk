@@ -3,46 +3,8 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 393.510640126128,
+   "cash": 403.4826949085666,
    "positions": {
-    "HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump": {
-     "symbol": "VEIL",
-     "pair": "4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E",
-     "url": "https://dexscreener.com/solana/4mwjp1abqqe9y6ic5cd3nrvvwwchsn2lgpjwymdk7u7e",
-     "opened": 1792112099.3495293,
-     "qty": 2370.760268259031,
-     "qty0": 4741.520536518062,
-     "cost": 17.87,
-     "entry_price": 0.003659,
-     "fill_price": 0.003696298447938451,
-     "peak": 0.005198,
-     "entry_liq": 184554.62,
-     "last_price": 0.004349,
-     "last_liq": 201742.1,
-     "score": 66.9,
-     "detail": {
-      "atlas": 100,
-      "vega": 65,
-      "orion": 28,
-      "luna": 68,
-      "buy_ratio": 0.67,
-      "tx_m5": 242,
-      "vol_accel": 3.62,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": 3.78,
-      "h1": -15.86,
-      "liq": 184555,
-      "fdv": 3570860,
-      "turnover_h1": 0.46
-     },
-     "tp1_done": true,
-     "proceeds": 11.729999921352768,
-     "last_seen": 1792126156.3083835
-    },
     "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump": {
      "symbol": "SXTR",
      "pair": "EjZkRcZotkvwmT5SHXUqPpHbj8Q6qQBr7GApQefdztzb",
@@ -53,10 +15,10 @@
      "cost": 17.6,
      "entry_price": 0.0002594,
      "fill_price": 0.0002622069204861768,
-     "peak": 0.0003366,
+     "peak": 0.0003533,
      "entry_liq": 42848.79,
-     "last_price": 0.0002832,
-     "last_liq": 45243.37,
+     "last_price": 0.000318,
+     "last_liq": 48354.62,
      "score": 67.0,
      "detail": {
       "atlas": 100,
@@ -79,15 +41,15 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792126156.3083835
+     "last_seen": 1792127068.3522084
     }
    },
-   "realized": -582.7493597952246,
+   "realized": -578.9173050914333,
    "fees_est": 0.0,
    "day": "2026-10-16",
    "day_start_equity": 451.90685908472676,
    "halted_day": "2026-10-15",
-   "trades": 193,
+   "trades": 194,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.5846662102843848
   },
@@ -171,20 +133,20 @@
   "2B69UeDAHvGLjKawjzBoKDuhk4NaPRC58Df6NCS2pump": 1792125259.7346547
  },
  "stats": {
-  "scans": 9629,
-  "candidates_seen": 776816,
+  "scans": 9644,
+  "candidates_seen": 777988,
   "rejections": {
-   "dex": 325689,
-   "liq_low": 214484,
-   "odd_quote": 63544,
-   "too_old": 105579,
-   "too_new": 5184,
+   "dex": 326202,
+   "liq_low": 214815,
+   "odd_quote": 63650,
+   "too_old": 105761,
+   "too_new": 5193,
    "rug_danger": 3654,
-   "fdv_liq_thin": 3554,
+   "fdv_liq_thin": 3569,
    "fdv_low": 1222,
    "titan_daily_loss_stop": 3545,
-   "lp_unlocked": 13746,
-   "liq_high": 1198,
+   "lp_unlocked": 13761,
+   "liq_high": 1199,
    "titan_max_positions": 15,
    "no_price": 5,
    "rugcheck_unavailable": 384
