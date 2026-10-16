@@ -3,22 +3,22 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 403.4826949085666,
+   "cash": 415.1194769816301,
    "positions": {
     "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump": {
      "symbol": "SXTR",
      "pair": "EjZkRcZotkvwmT5SHXUqPpHbj8Q6qQBr7GApQefdztzb",
      "url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
      "opened": 1792124589.8797617,
-     "qty": 65813.48031548141,
+     "qty": 32906.74015774071,
      "qty0": 65813.48031548141,
      "cost": 17.6,
      "entry_price": 0.0002594,
      "fill_price": 0.0002622069204861768,
-     "peak": 0.0003533,
+     "peak": 0.00041,
      "entry_liq": 42848.79,
-     "last_price": 0.0003202,
-     "last_liq": 48626.55,
+     "last_price": 0.0003655,
+     "last_liq": 52111.42,
      "score": 67.0,
      "detail": {
       "atlas": 100,
@@ -39,9 +39,9 @@
       "fdv": 259483,
       "turnover_h1": 8.38
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792127978.92704
+     "tp1_done": true,
+     "proceeds": 11.636782073063515,
+     "last_seen": 1792128888.8461587
     }
    },
    "realized": -578.9173050914333,
@@ -133,19 +133,19 @@
   "2B69UeDAHvGLjKawjzBoKDuhk4NaPRC58Df6NCS2pump": 1792125259.7346547
  },
  "stats": {
-  "scans": 9659,
-  "candidates_seen": 779174,
+  "scans": 9674,
+  "candidates_seen": 780380,
   "rejections": {
-   "dex": 326760,
-   "liq_low": 215104,
-   "odd_quote": 63771,
-   "too_old": 105941,
-   "too_new": 5201,
+   "dex": 327327,
+   "liq_low": 215387,
+   "odd_quote": 63908,
+   "too_old": 106121,
+   "too_new": 5210,
    "rug_danger": 3654,
-   "fdv_liq_thin": 3584,
+   "fdv_liq_thin": 3599,
    "fdv_low": 1222,
    "titan_daily_loss_stop": 3545,
-   "lp_unlocked": 13776,
+   "lp_unlocked": 13791,
    "liq_high": 1199,
    "titan_max_positions": 15,
    "no_price": 5,
