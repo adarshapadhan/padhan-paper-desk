@@ -1,5 +1,1 @@
-2026-10-17 00:57:02Z [desk] BUY illusion $17.08 @ 9.52e-05 score=76.5 liq=$25,197
-2026-10-17 00:57:02Z [control] BUY dev/null $17.08 @ 0.000196 score=50.7 liq=$37,259
-2026-10-17 00:58:49Z [control] PARTIAL dev/null take_profit_1 sold 50% for $11.64
-2026-10-17 00:59:50Z [desk] DAILY LOSS STOP hit — no new entries until next UTC day
-2026-10-17 01:02:23Z [control] EXIT dev/null trailing_stop pnl=$+3.58 (+21.0%)
+2026-10-17 01:05:59Z [control] EXIT P2L trailing_stop pnl=$+2.50 (+15.0%)
