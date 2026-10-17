@@ -1,4 +1,6 @@
-2026-10-17 00:00:34Z [desk] BUY DEGEN $16.66 @ 0.0001589 score=67.3 liq=$33,383
-2026-10-17 00:00:34Z [control] BUY P2L $16.66 @ 0.0006046 score=55.4 liq=$67,891
-2026-10-17 00:00:34Z [desk] BUY SR $16.38 @ 0.0004135 score=66.3 liq=$56,198
-2026-10-17 00:00:34Z [control] BUY SAINDRA $16.38 @ 0.0003265 score=54.2 liq=$57,361
+2026-10-17 00:02:28Z [desk] BUY NUBI $16.97 @ 0.002207 score=69.1 liq=$135,566
+2026-10-17 00:02:28Z [control] BUY RoadsterX $16.97 @ 0.0001542 score=59.3 liq=$32,801
+2026-10-17 00:03:29Z [desk] BUY SOLSTER $17.01 @ 0.0001111 score=69.3 liq=$27,240
+2026-10-17 00:03:29Z [control] BUY MarsX $17.01 @ 7.905e-05 score=28.7 liq=$29,310
+2026-10-17 00:04:46Z [control] EXIT RoadsterX stop_loss pnl=$-6.45 (-38.0%)
+2026-10-17 00:14:18Z [desk] EXIT SOLSTER stop_loss pnl=$-5.22 (-30.7%)
