@@ -1,14 +1,2 @@
-2026-10-18 00:00:54Z [desk] BUY MINTER $16.04 @ 0.004111 score=73.7 liq=$182,857
-2026-10-18 00:00:54Z [control] BUY Glow $16.04 @ 8.721e-05 score=22.0 liq=$26,858
-2026-10-18 00:01:56Z [desk] BUY QTITS $14.50 @ 0.0003111 score=65.9 liq=$46,258
-2026-10-18 00:01:56Z [control] BUY hi $14.50 @ 0.000403 score=43.0 liq=$63,693
-2026-10-18 00:03:13Z [desk] EXIT Chaton stop_loss pnl=$-4.93 (-33.4%)
-2026-10-18 00:04:00Z [desk] BUY SUKI $16.42 @ 0.0001075 score=76.8 liq=$27,497
-2026-10-18 00:04:00Z [control] BUY ALT $16.42 @ 0.0001042 score=51.6 liq=$26,822
-2026-10-18 00:05:02Z [desk] BUY PRIME $15.51 @ 0.001085 score=72.3 liq=$212,607
-2026-10-18 00:07:20Z [desk] EXIT PRIME liquidity_pulled pnl=$-15.05 (-97.0%)
-2026-10-18 00:10:40Z [desk] EXIT QTITS stop_loss pnl=$-5.12 (-35.3%)
-2026-10-18 00:10:40Z [desk] EXIT SUKI liquidity_pulled pnl=$-16.42 (-100.0%)
-2026-10-18 00:10:40Z [desk] DAILY LOSS STOP hit — no new entries until next UTC day
-2026-10-18 00:11:57Z [desk] PARTIAL DEGEN take_profit_1 sold 50% for $11.45
-2026-10-18 00:15:33Z [desk] PARTIAL YILONGMA take_profit_1 sold 50% for $9.84
+2026-10-18 00:17:39Z [desk] EXIT DEGEN trailing_stop pnl=$+4.87 (+29.2%)
+2026-10-18 00:19:58Z [control] EXIT ALT stop_loss pnl=$-7.43 (-45.3%)
