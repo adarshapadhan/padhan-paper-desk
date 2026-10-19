@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 293.4116390266843,
+   "cash": 295.9247532129769,
    "positions": {
     "8RpybikpGLbKsYJ4FXz12ExDz89R7VXAUZ3JXNcKpump": {
      "symbol": "DOGESTER",
@@ -17,8 +17,8 @@
      "fill_price": 0.00019811623762950323,
      "peak": 0.0002391,
      "entry_liq": 36877.95,
-     "last_price": 0.0001912,
-     "last_liq": 36524.95,
+     "last_price": 0.0001931,
+     "last_liq": 36712.92,
      "score": 70.9,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792413412.2623792
+     "last_seen": 1792414327.0662808
     },
     "Ee1b5t49HGvjB4CkxTWrWAcbXHhRyYi6nw3A96Gapump": {
      "symbol": "RWA",
@@ -55,8 +55,8 @@
      "fill_price": 0.0002673101405772864,
      "peak": 0.0003074,
      "entry_liq": 44626.56,
-     "last_price": 0.00027,
-     "last_liq": 45173.37,
+     "last_price": 0.0002778,
+     "last_liq": 45814.18,
      "score": 70.0,
      "detail": {
       "atlas": 100,
@@ -80,15 +80,15 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792413412.2623792
+     "last_seen": 1792414327.0662808
     }
    },
-   "realized": -677.9383609733154,
+   "realized": -675.4252467870228,
    "fees_est": 0.0,
    "day": "2026-10-19",
    "day_start_equity": 336.9832988907899,
    "halted_day": "2026-10-18",
-   "trades": 230,
+   "trades": 231,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.6830795177341833
   },
@@ -108,8 +108,8 @@
      "fill_price": 0.003247661310673889,
      "peak": 0.003338,
      "entry_liq": 178292.58,
-     "last_price": 0.003174,
-     "last_liq": 177108.91,
+     "last_price": 0.003122,
+     "last_liq": 175523.03,
      "score": 28.9,
      "detail": {
       "atlas": 3,
@@ -132,7 +132,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792413412.2623792
+     "last_seen": 1792414327.0662808
     },
     "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": {
      "symbol": "GLITCH",
@@ -146,8 +146,8 @@
      "fill_price": 0.0017558269045247327,
      "peak": 0.002253,
      "entry_liq": 114384.19,
-     "last_price": 0.002036,
-     "last_liq": 124301.01,
+     "last_price": 0.002096,
+     "last_liq": 126034.84,
      "score": 54.9,
      "detail": {
       "atlas": 90,
@@ -173,7 +173,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792413412.2623792
+     "last_seen": 1792414327.0662808
     }
    },
    "realized": -365.8848320196528,
@@ -214,22 +214,23 @@
   "5NUbmPHHHj3zYqiyE2GXsNXCH3W2Eo4gbX2HryC5pump": 1792409736.2444272,
   "2rLuDEBwuXM6cBAQnK2bjFYXfsUozYwXsFSmA3Eupump": 1792410524.811629,
   "1EwcGE6WrssiY2sKSadB5E5DE9WhPDQvBC6kev1EDGE": 1792412579.1251388,
-  "Ee1b5t49HGvjB4CkxTWrWAcbXHhRyYi6nw3A96Gapump": 1792412640.92503
+  "Ee1b5t49HGvjB4CkxTWrWAcbXHhRyYi6nw3A96Gapump": 1792412640.92503,
+  "GWe3TNg1UPxeaSazxK8U49PDAqXCaX9Jc8zbttFLpump": 1792413678.8665526
  },
  "stats": {
-  "scans": 14366,
-  "candidates_seen": 1191894,
+  "scans": 14381,
+  "candidates_seen": 1192978,
   "rejections": {
-   "dex": 488038,
-   "liq_low": 317053,
-   "odd_quote": 107503,
-   "too_old": 165428,
-   "too_new": 7570,
+   "dex": 488495,
+   "liq_low": 317390,
+   "odd_quote": 107582,
+   "too_old": 165578,
+   "too_new": 7582,
    "rug_danger": 3878,
-   "fdv_liq_thin": 5447,
+   "fdv_liq_thin": 5462,
    "fdv_low": 1283,
    "titan_daily_loss_stop": 6161,
-   "lp_unlocked": 20577,
+   "lp_unlocked": 20607,
    "liq_high": 1252,
    "titan_max_positions": 19,
    "no_price": 13,
