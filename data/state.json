@@ -3,53 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 298.7752760034404,
-   "positions": {
-    "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump": {
-     "symbol": "DICKBUTTIFIER",
-     "pair": "B2ajNVWAMef1xfjSW3QDrF7qWeLB7dTBwCR6va4pMB21",
-     "url": "https://dexscreener.com/solana/b2ajnvwamef1xfjsw3qdrf7qwelb7dtbwcr6va4pmb21",
-     "opened": 1792423288.403545,
-     "qty": 136823.71913111373,
-     "qty0": 136823.71913111373,
-     "cost": 12.52,
-     "entry_price": 8.812e-05,
-     "fill_price": 8.908871997785153e-05,
-     "peak": 9.752e-05,
-     "entry_liq": 25186.63,
-     "last_price": 7.457e-05,
-     "last_liq": 22978.6,
-     "score": 66.6,
-     "detail": {
-      "atlas": 60,
-      "vega": 60,
-      "orion": 100,
-      "luna": 43,
-      "buy_ratio": 0.75,
-      "tx_m5": 4,
-      "vol_accel": 0.51,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": true,
-      "trending": false,
-      "m5": 11.67,
-      "h1": 50.13,
-      "liq": 25187,
-      "fdv": 84724,
-      "turnover_h1": 0.66
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792430729.1944501
-    }
-   },
-   "realized": -688.7047239965592,
+   "cash": 307.3152566847503,
+   "positions": {},
+   "realized": -692.6847433152493,
    "fees_est": 0.0,
    "day": "2026-10-19",
    "day_start_equity": 336.9832988907899,
    "halted_day": "2026-10-19",
-   "trades": 237,
+   "trades": 238,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.6990701933192849
   },
@@ -69,8 +30,8 @@
      "fill_price": 0.0002306548566532779,
      "peak": 0.0002526,
      "entry_liq": 39100.17,
-     "last_price": 0.0002142,
-     "last_liq": 37929.42,
+     "last_price": 0.000209,
+     "last_liq": 37374.58,
      "score": 35.1,
      "detail": {
       "atlas": 48,
@@ -91,7 +52,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792430729.1944501
+     "last_seen": 1792431633.413641
     }
    },
    "realized": -368.7367502712104,
@@ -143,19 +104,19 @@
   "BfJphhAGBYWigoeikWtxxiKc5d85qNaeHVwS5n4Fpump": 1792424083.3558824
  },
  "stats": {
-  "scans": 14651,
-  "candidates_seen": 1213248,
+  "scans": 14666,
+  "candidates_seen": 1214303,
   "rejections": {
-   "dex": 497645,
-   "liq_low": 322978,
-   "odd_quote": 109766,
-   "too_old": 168104,
-   "too_new": 7694,
+   "dex": 498125,
+   "liq_low": 323242,
+   "odd_quote": 109904,
+   "too_old": 168239,
+   "too_new": 7702,
    "rug_danger": 3878,
-   "fdv_liq_thin": 5732,
+   "fdv_liq_thin": 5747,
    "fdv_low": 1283,
    "titan_daily_loss_stop": 6189,
-   "lp_unlocked": 20897,
+   "lp_unlocked": 20912,
    "liq_high": 1255,
    "titan_max_positions": 19,
    "no_price": 13,
