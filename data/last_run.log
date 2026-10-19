@@ -1,3 +1,5 @@
-2026-10-19 11:23:47Z [desk] EXIT godspeed stop_loss pnl=$-4.79 (-31.3%)
-2026-10-19 11:23:47Z [control] EXIT godspeed stop_loss pnl=$-5.18 (-31.0%)
-2026-10-19 11:35:37Z [desk] BUY Mimi $13.23 @ 0.0001281 score=66.7 liq=$30,772
+2026-10-19 11:39:29Z [control] EXIT mucron stop_loss pnl=$-5.28 (-31.1%)
+2026-10-19 11:43:06Z [desk] PARTIAL Mimi take_profit_1 sold 50% for $9.10
+2026-10-19 11:44:08Z [desk] EXIT Mimi trailing_stop pnl=$+2.91 (+22.0%)
+2026-10-19 11:48:45Z [desk] BUY 김정은 $14.16 @ 0.0001006 score=71.6 liq=$27,283
+2026-10-19 11:50:32Z [desk] EXIT 김정은 stop_loss pnl=$-4.37 (-30.8%)
