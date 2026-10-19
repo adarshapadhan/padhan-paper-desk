@@ -1,1 +1,4 @@
-2026-10-19 14:19:09Z [control] EXIT VEIL time_exit pnl=$-0.51 (-3.6%)
+2026-10-19 14:26:40Z [desk] BUY Monaka $14.82 @ 9.319e-05 score=75.3 liq=$25,144
+2026-10-19 14:26:40Z [control] BUY AOP $14.82 @ 0.0002282 score=35.1 liq=$39,100
+2026-10-19 14:32:33Z [desk] EXIT Monaka stop_loss pnl=$-4.86 (-32.8%)
+2026-10-19 14:37:58Z [desk] BUY AAAA $12.98 @ 9.922e-05 score=66.3 liq=$25,929
