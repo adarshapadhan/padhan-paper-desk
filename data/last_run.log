@@ -1,4 +1,3 @@
-2026-10-19 14:26:40Z [desk] BUY Monaka $14.82 @ 9.319e-05 score=75.3 liq=$25,144
-2026-10-19 14:26:40Z [control] BUY AOP $14.82 @ 0.0002282 score=35.1 liq=$39,100
-2026-10-19 14:32:33Z [desk] EXIT Monaka stop_loss pnl=$-4.86 (-32.8%)
-2026-10-19 14:37:58Z [desk] BUY AAAA $12.98 @ 9.922e-05 score=66.3 liq=$25,929
+2026-10-19 14:45:27Z [control] PARTIAL GLITCH take_profit_1 sold 50% for $10.03
+2026-10-19 14:45:57Z [control] EXIT GLITCH trailing_stop pnl=$+2.17 (+14.8%)
+2026-10-19 14:50:35Z [desk] EXIT AAAA liquidity_pulled pnl=$-11.91 (-91.8%)
