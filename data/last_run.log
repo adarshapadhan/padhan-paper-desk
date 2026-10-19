@@ -1,4 +1,0 @@
-2026-10-19 12:38:27Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
-2026-10-19 12:41:20Z [desk] BUY COMPUTE $12.80 @ 0.0001267 score=65.0 liq=$29,543
-2026-10-19 12:42:05Z [desk] PARTIAL COMPUTE take_profit_1 sold 50% for $8.60
-2026-10-19 12:47:45Z [desk] EXIT COMPUTE trailing_stop pnl=$+2.51 (+19.6%)
