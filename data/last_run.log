@@ -1,12 +1,1 @@
-2026-10-19 10:05:31Z [desk] BUY WEFT $17.48 @ 0.00334 score=85.8 liq=$157,309
-2026-10-19 10:05:31Z [control] BUY startupSI $17.48 @ 0.006158 score=83.4 liq=$231,704
-2026-10-19 10:05:31Z [desk] BUY startupSI $16.97 @ 0.006158 score=83.4 liq=$231,704
-2026-10-19 10:05:31Z [control] BUY mucron $16.97 @ 0.0001397 score=62.1 liq=$35,911
-2026-10-19 10:05:31Z [desk] BUY Doomsday $16.69 @ 0.0008124 score=82.2 liq=$80,529
-2026-10-19 10:05:31Z [control] BUY godspeed $16.69 @ 0.0001424 score=75.2 liq=$35,982
-2026-10-19 10:05:31Z [desk] BUY godspeed $15.30 @ 0.0001424 score=75.2 liq=$35,982
-2026-10-19 10:05:31Z [control] BUY Mimi $15.30 @ 0.0005011 score=48.0 liq=$64,210
-2026-10-19 10:06:37Z [desk] BUY CATONICE $14.36 @ 0.0001397 score=70.7 liq=$34,076
-2026-10-19 10:06:37Z [control] BUY SUPERCORE $14.36 @ 0.0002977 score=32.8 liq=$52,607
-2026-10-19 10:18:58Z [desk] BUY UHI $14.18 @ 0.001013 score=70.1 liq=$100,677
-2026-10-19 10:18:58Z [control] BUY VEIL $14.18 @ 0.003215 score=28.9 liq=$178,293
+2026-10-19 10:35:23Z [control] EXIT Mimi stop_loss pnl=$-4.94 (-32.3%)
