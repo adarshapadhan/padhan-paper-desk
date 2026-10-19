@@ -1,4 +1,4 @@
-2026-10-19 10:57:01Z [desk] EXIT CATONICE trailing_stop pnl=$+3.68 (+25.6%)
-2026-10-19 10:58:03Z [desk] PARTIAL Doomsday take_profit_1 sold 50% for $11.00
-2026-10-19 11:01:08Z [desk] BUY DOGESTER $14.71 @ 0.000196 score=70.9 liq=$36,878
-2026-10-19 11:01:08Z [control] BUY GLITCH $14.71 @ 0.001738 score=54.9 liq=$114,384
+2026-10-19 11:07:03Z [desk] EXIT Doomsday trailing_stop pnl=$+3.09 (+18.5%)
+2026-10-19 11:09:08Z [desk] BUY KEYS $14.34 @ 0.0001079 score=70.4 liq=$27,800
+2026-10-19 11:16:33Z [desk] EXIT KEYS stop_loss pnl=$-4.91 (-34.2%)
+2026-10-19 11:19:53Z [desk] EXIT UHI stop_loss pnl=$-4.36 (-30.8%)
