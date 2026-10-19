@@ -1,4 +1,3 @@
-2026-10-19 11:07:03Z [desk] EXIT Doomsday trailing_stop pnl=$+3.09 (+18.5%)
-2026-10-19 11:09:08Z [desk] BUY KEYS $14.34 @ 0.0001079 score=70.4 liq=$27,800
-2026-10-19 11:16:33Z [desk] EXIT KEYS stop_loss pnl=$-4.91 (-34.2%)
-2026-10-19 11:19:53Z [desk] EXIT UHI stop_loss pnl=$-4.36 (-30.8%)
+2026-10-19 11:23:47Z [desk] EXIT godspeed stop_loss pnl=$-4.79 (-31.3%)
+2026-10-19 11:23:47Z [control] EXIT godspeed stop_loss pnl=$-5.18 (-31.0%)
+2026-10-19 11:35:37Z [desk] BUY Mimi $13.23 @ 0.0001281 score=66.7 liq=$30,772
