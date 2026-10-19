@@ -52,7 +52,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792431633.413641
+     "last_seen": 1792432540.0740716
     }
    },
    "realized": -368.7367502712104,
@@ -104,19 +104,19 @@
   "BfJphhAGBYWigoeikWtxxiKc5d85qNaeHVwS5n4Fpump": 1792424083.3558824
  },
  "stats": {
-  "scans": 14666,
-  "candidates_seen": 1214303,
+  "scans": 14681,
+  "candidates_seen": 1215415,
   "rejections": {
-   "dex": 498125,
-   "liq_low": 323242,
-   "odd_quote": 109904,
-   "too_old": 168239,
-   "too_new": 7702,
+   "dex": 498719,
+   "liq_low": 323470,
+   "odd_quote": 110027,
+   "too_old": 168374,
+   "too_new": 7704,
    "rug_danger": 3878,
-   "fdv_liq_thin": 5747,
+   "fdv_liq_thin": 5762,
    "fdv_low": 1283,
    "titan_daily_loss_stop": 6189,
-   "lp_unlocked": 20912,
+   "lp_unlocked": 20927,
    "liq_high": 1255,
    "titan_max_positions": 19,
    "no_price": 13,
