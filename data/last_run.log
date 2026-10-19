@@ -1,3 +1,6 @@
-2026-10-19 12:11:25Z [desk] EXIT WEFT stop_loss pnl=$-5.33 (-30.5%)
-2026-10-19 12:13:12Z [desk] PARTIAL startupSI take_profit_1 sold 50% for $11.61
-2026-10-19 12:13:12Z [control] PARTIAL startupSI take_profit_1 sold 50% for $11.98
+2026-10-19 12:23:00Z [desk] BUY 1EDGE $14.33 @ 0.0003008 score=71.9 liq=$42,790
+2026-10-19 12:24:02Z [desk] BUY RWA $13.94 @ 0.0002645 score=70.0 liq=$44,627
+2026-10-19 12:29:26Z [desk] EXIT 1EDGE stop_loss pnl=$-4.52 (-31.5%)
+2026-10-19 12:30:42Z [desk] EXIT startupSI trailing_stop pnl=$+3.67 (+21.6%)
+2026-10-19 12:30:42Z [control] EXIT startupSI trailing_stop pnl=$+3.81 (+21.8%)
+2026-10-19 12:30:42Z [control] EXIT SUPERCORE stop_loss pnl=$-4.41 (-30.7%)
