@@ -1,3 +1,1 @@
-2026-10-19 13:12:43Z [desk] BUY 김정은 $14.08 @ 0.0001085 score=71.6 liq=$27,055
-2026-10-19 13:12:43Z [control] BUY PIERRE $14.08 @ 0.001439 score=55.8 liq=$118,787
-2026-10-19 13:20:55Z [desk] PARTIAL 김정은 take_profit_1 sold 50% for $10.34
+2026-10-19 13:23:47Z [desk] EXIT 김정은 trailing_stop pnl=$+4.22 (+30.0%)
