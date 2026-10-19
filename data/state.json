@@ -30,8 +30,6 @@
  },
  "cooldown": {
   "HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump": 1792281602.1558135,
-  "CpdbvrkDQNNbZdcLCMpto1U84ep8FrFdfT84Lme6pump": 1792198620.8635242,
-  "2kuY5DHqRvYKfytfLfrey1oB1Z1J3voq343FWMp6pump": 1792198620.8635242,
   "DEkyaZbndrddSc9hdQYN3nYYBz6oTRJg9P57Qup8pump": 1792281602.1558135,
   "DrLF1dG1K4U6ggx5BZ6bSwzGcPNVrQwYoTJzRDyZpump": 1792281602.1558135,
   "5x6QQvpRpd1PsFTTTJe6sJFFSqrA21H1j3GZLmo2pump": 1792281602.1558135,
@@ -46,23 +44,23 @@
   "rVWG97Yj6ZbuF9zeQo8TosQG6mUcUeL8BocfHu3pump": 1792281901.0850108
  },
  "stats": {
-  "scans": 13664,
-  "candidates_seen": 1127880,
+  "scans": 13679,
+  "candidates_seen": 1129417,
   "rejections": {
-   "dex": 464546,
-   "liq_low": 301176,
-   "odd_quote": 101759,
-   "too_old": 155682,
-   "too_new": 7263,
+   "dex": 465106,
+   "liq_low": 301596,
+   "odd_quote": 101858,
+   "too_old": 155917,
+   "too_new": 7277,
    "rug_danger": 3870,
-   "fdv_liq_thin": 4564,
-   "fdv_low": 1279,
+   "fdv_liq_thin": 4579,
+   "fdv_low": 1280,
    "titan_daily_loss_stop": 6161,
    "lp_unlocked": 20305,
    "liq_high": 1250,
    "titan_max_positions": 15,
    "no_price": 12,
-   "rugcheck_unavailable": 1217
+   "rugcheck_unavailable": 1352
   }
  },
  "last_prices": {}
