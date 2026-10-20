@@ -1,3 +1,7 @@
-2026-10-20 01:32:23Z [control] PARTIAL UHI take_profit_1 sold 50% for $8.00
-2026-10-20 01:44:40Z [desk] EXIT WEFT stop_loss pnl=$-3.81 (-31.5%)
-2026-10-20 01:44:40Z [desk] DAILY LOSS STOP hit — no new entries until next UTC day
+2026-10-20 01:52:08Z [control] EXIT UHI trailing_stop pnl=$+1.97 (+16.1%)
+2026-10-20 01:56:09Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-20 01:56:25Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-20 01:56:42Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-20 01:58:17Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-20 01:59:20Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-20 01:59:36Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
