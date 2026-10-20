@@ -1,7 +1,1 @@
-2026-10-20 01:52:08Z [control] EXIT UHI trailing_stop pnl=$+1.97 (+16.1%)
-2026-10-20 01:56:09Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
-2026-10-20 01:56:25Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
-2026-10-20 01:56:42Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
-2026-10-20 01:58:17Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
-2026-10-20 01:59:20Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
-2026-10-20 01:59:36Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-20 02:09:24Z [control] PARTIAL YOKAI take_profit_1 sold 50% for $7.95

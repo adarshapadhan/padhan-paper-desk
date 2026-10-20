@@ -17,8 +17,8 @@
      "fill_price": 0.00010050418949819577,
      "peak": 0.0001099,
      "entry_liq": 25757.8,
-     "last_price": 9.948e-05,
-     "last_liq": 25904.5,
+     "last_price": 0.0001022,
+     "last_liq": 26299.75,
      "score": 68.9,
      "detail": {
       "atlas": 87,
@@ -42,7 +42,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792461625.2138064
+     "last_seen": 1792462532.175715
     },
     "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump": {
      "symbol": "MOMO",
@@ -56,8 +56,8 @@
      "fill_price": 0.0001264529040679837,
      "peak": 0.0001251,
      "entry_liq": 33707.66,
-     "last_price": 0.000109,
-     "last_liq": 31440.76,
+     "last_price": 0.0001029,
+     "last_liq": 30503.33,
      "score": 76.0,
      "detail": {
       "atlas": 72,
@@ -81,7 +81,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792461625.2138064
+     "last_seen": 1792462532.175715
     }
    },
    "realized": -720.2215605423495,
@@ -91,11 +91,11 @@
    "halted_day": "2026-10-20",
    "trades": 244,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.7241958178308878
+   "max_dd": 0.7246433565152073
   },
   "control": {
    "name": "control",
-   "cash": 583.2306549519265,
+   "cash": 591.1830402680084,
    "positions": {
     "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump": {
      "symbol": "FTR",
@@ -107,10 +107,10 @@
      "cost": 13.08,
      "entry_price": 0.0008354,
      "fill_price": 0.0008439399117359948,
-     "peak": 0.000896,
+     "peak": 0.0008965,
      "entry_liq": 117524.59,
-     "last_price": 0.000896,
-     "last_liq": 121839.63,
+     "last_price": 0.0008045,
+     "last_liq": 115296.96,
      "score": 47.5,
      "detail": {
       "atlas": 24,
@@ -133,22 +133,22 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792461625.2138064
+     "last_seen": 1792462532.175715
     },
     "B86LTrZDrH8G9zqMvXzFfwH8txDy8Sy7TZabjabTkids": {
      "symbol": "YOKAI",
      "pair": "3oxwfRK3GdRK8sEkSrMTKdSJGJ5FRX1nkQycqicYuj76",
      "url": "https://dexscreener.com/solana/3oxwfrk3gdrk8seksrmtkdsjgj5frx1nkqycqicyuj76",
      "opened": 1792456242.4477108,
-     "qty": 22148.65583505196,
+     "qty": 11074.32791752598,
      "qty0": 22148.65583505196,
      "cost": 12.09,
      "entry_price": 0.0005256,
      "fill_price": 0.0005309814323534731,
-     "peak": 0.0006381,
+     "peak": 0.0009483,
      "entry_liq": 101297.43,
-     "last_price": 0.0006374,
-     "last_liq": 111793.89,
+     "last_price": 0.0009483,
+     "last_liq": 136287.29,
      "score": 41.0,
      "detail": {
       "atlas": 32,
@@ -169,9 +169,9 @@
       "fdv": 525639,
       "turnover_h1": 2.1
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792461625.2138064
+     "tp1_done": true,
+     "proceeds": 7.95238531608202,
+     "last_seen": 1792462532.175715
     },
     "GWe3TNg1UPxeaSazxK8U49PDAqXCaX9Jc8zbttFLpump": {
      "symbol": "COMPUTE",
@@ -185,8 +185,8 @@
      "fill_price": 0.00013452508101918122,
      "peak": 0.0001802,
      "entry_liq": 33788.34,
-     "last_price": 0.0001453,
-     "last_liq": 35464.39,
+     "last_price": 0.0001469,
+     "last_liq": 35638.12,
      "score": 50.8,
      "detail": {
       "atlas": 33,
@@ -209,7 +209,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792461625.2138064
+     "last_seen": 1792462532.175715
     },
     "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump": {
      "symbol": "PIERRE",
@@ -223,8 +223,8 @@
      "fill_price": 0.00030071005919337523,
      "peak": 0.0003177,
      "entry_liq": 54230.28,
-     "last_price": 0.0002981,
-     "last_liq": 54499.95,
+     "last_price": 0.0002917,
+     "last_liq": 53849.96,
      "score": 37.9,
      "detail": {
       "atlas": 57,
@@ -245,7 +245,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792461625.2138064
+     "last_seen": 1792462532.175715
     }
    },
    "realized": -367.4293450480726,
@@ -298,16 +298,16 @@
   "HdPubR4cSU9Uhicx1VX7sAgtqTojfQ36CwCfFkGRpump": 1792459710.5310006
  },
  "stats": {
-  "scans": 15161,
-  "candidates_seen": 1251421,
+  "scans": 15176,
+  "candidates_seen": 1252477,
   "rejections": {
-   "dex": 513891,
-   "liq_low": 332078,
-   "odd_quote": 114857,
-   "too_old": 172863,
-   "too_new": 7996,
+   "dex": 514380,
+   "liq_low": 332353,
+   "odd_quote": 114992,
+   "too_old": 172983,
+   "too_new": 8003,
    "rug_danger": 3924,
-   "fdv_liq_thin": 6206,
+   "fdv_liq_thin": 6221,
    "fdv_low": 1287,
    "titan_daily_loss_stop": 6368,
    "lp_unlocked": 21534,
