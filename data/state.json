@@ -17,8 +17,8 @@
      "fill_price": 0.0001264529040679837,
      "peak": 0.0001251,
      "entry_liq": 33707.66,
-     "last_price": 9.898e-05,
-     "last_liq": 30124.69,
+     "last_price": 0.0001018,
+     "last_liq": 30603.19,
      "score": 76.0,
      "detail": {
       "atlas": 72,
@@ -42,7 +42,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792468891.600733
+     "last_seen": 1792469797.4677691
     }
    },
    "realized": -720.9244216639667,
@@ -56,53 +56,14 @@
   },
   "control": {
    "name": "control",
-   "cash": 617.9137242083259,
-   "positions": {
-    "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump": {
-     "symbol": "FTR",
-     "pair": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
-     "url": "https://dexscreener.com/solana/fk5mugv2h3qpt6axdhs2khgdl2os424bvfeoqfntdv9y",
-     "opened": 1792454849.0497396,
-     "qty": 15105.40006785211,
-     "qty0": 15105.40006785211,
-     "cost": 13.08,
-     "entry_price": 0.0008354,
-     "fill_price": 0.0008439399117359948,
-     "peak": 0.0008965,
-     "entry_liq": 117524.59,
-     "last_price": 0.0008438,
-     "last_liq": 118479.85,
-     "score": 47.5,
-     "detail": {
-      "atlas": 24,
-      "vega": 65,
-      "orion": 51,
-      "luna": 56,
-      "buy_ratio": 0.57,
-      "tx_m5": 7,
-      "vol_accel": 0.04,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": 1.41,
-      "h1": 1.73,
-      "liq": 117525,
-      "fdv": 802785,
-      "turnover_h1": 0.27
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792468891.600733
-    }
-   },
-   "realized": -369.00627579167315,
+   "cash": 630.1173959233812,
+   "positions": {},
+   "realized": -369.8826040766179,
    "fees_est": 0.0,
    "day": "2026-10-20",
    "day_start_equity": 629.2862755156781,
    "halted_day": "",
-   "trades": 131,
+   "trades": 132,
    "peak_equity": 1005.3866010289258,
    "max_dd": 0.37733364517139556
   }
@@ -147,19 +108,19 @@
   "HdPubR4cSU9Uhicx1VX7sAgtqTojfQ36CwCfFkGRpump": 1792459710.5310006
  },
  "stats": {
-  "scans": 15281,
-  "candidates_seen": 1260396,
+  "scans": 15296,
+  "candidates_seen": 1261557,
   "rejections": {
-   "dex": 518074,
-   "liq_low": 334323,
-   "odd_quote": 115949,
-   "too_old": 173830,
-   "too_new": 8054,
-   "rug_danger": 3957,
-   "fdv_liq_thin": 6326,
+   "dex": 518588,
+   "liq_low": 334582,
+   "odd_quote": 116114,
+   "too_old": 173965,
+   "too_new": 8065,
+   "rug_danger": 3968,
+   "fdv_liq_thin": 6341,
    "fdv_low": 1287,
-   "titan_daily_loss_stop": 6420,
-   "lp_unlocked": 21542,
+   "titan_daily_loss_stop": 6435,
+   "lp_unlocked": 21555,
    "liq_high": 1255,
    "titan_max_positions": 19,
    "no_price": 13,
