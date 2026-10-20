@@ -1,8 +1,4 @@
-2026-10-20 00:01:21Z [desk] BUY broomy $12.98 @ 9.941e-05 score=68.9 liq=$25,758
-2026-10-20 00:01:21Z [control] BUY GDC $12.98 @ 0.0003157 score=56.0 liq=$47,779
-2026-10-20 00:07:30Z [desk] BUY COLLECTOOOR $13.08 @ 0.0008462 score=69.8 liq=$98,998
-2026-10-20 00:07:30Z [control] BUY FTR $13.08 @ 0.0008354 score=47.5 liq=$117,525
-2026-10-20 00:10:18Z [control] PARTIAL GDC take_profit_1 sold 50% for $8.71
-2026-10-20 00:10:34Z [desk] BUY PACK $14.01 @ 0.0001004 score=75.4 liq=$26,914
-2026-10-20 00:10:34Z [control] BUY MRBEAST $14.01 @ 0.0007522 score=56.8 liq=$75,893
-2026-10-20 00:11:51Z [desk] EXIT PACK stop_loss pnl=$-4.32 (-30.8%)
+2026-10-20 00:16:30Z [control] EXIT GDC trailing_stop pnl=$+3.04 (+23.4%)
+2026-10-20 00:23:55Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-20 00:24:11Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-20 00:24:28Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
