@@ -1,3 +1,3 @@
-2026-10-20 01:00:00Z [desk] EXIT GM stop_loss pnl=$-3.96 (-33.1%)
-2026-10-20 01:02:04Z [control] EXIT MRBEAST liquidity_pulled pnl=$-4.40 (-31.4%)
-2026-10-20 01:08:13Z [control] EXIT aDOGymous trailing_stop pnl=$+2.67 (+19.4%)
+2026-10-20 01:28:32Z [desk] BUY COLLECTINU $12.22 @ 0.0005182 score=70.1 liq=$61,341
+2026-10-20 01:28:32Z [control] BUY PIERRE $12.22 @ 0.0002976 score=37.9 liq=$54,230
+2026-10-20 01:29:17Z [desk] EXIT COLLECTINU stop_loss pnl=$-7.43 (-60.8%)
