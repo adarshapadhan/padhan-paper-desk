@@ -17,8 +17,8 @@
      "fill_price": 0.0007074102088110621,
      "peak": 0.0009699,
      "entry_liq": 76383.96,
-     "last_price": 0.0007762,
-     "last_liq": 80828.23,
+     "last_price": 0.0007377,
+     "last_liq": 78774.55,
      "score": 67.2,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792549085.7635303
+     "last_seen": 1792549986.9824047
     }
    },
    "realized": -731.3440046778505,
@@ -55,46 +55,8 @@
   },
   "control": {
    "name": "control",
-   "cash": 567.4670523715715,
+   "cash": 575.1706314823516,
    "positions": {
-    "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": {
-     "symbol": "DARKCAT",
-     "pair": "8zWfFv4ecULvsStkjZY1SdsjDgjroZvYRM2vzANNF2ko",
-     "url": "https://dexscreener.com/solana/8zwffv4eculvsstkjzy1sdsjdgjrozvyrm2vzannf2ko",
-     "opened": 1792540901.056777,
-     "qty": 21239.518264184724,
-     "qty0": 21239.518264184724,
-     "cost": 11.36,
-     "entry_price": 0.0005141,
-     "fill_price": 0.0005194256226895396,
-     "peak": 0.000652,
-     "entry_liq": 63243.35,
-     "last_price": 0.0004508,
-     "last_liq": 59302.96,
-     "score": 40.6,
-     "detail": {
-      "atlas": 47,
-      "vega": 60,
-      "orion": 0,
-      "luna": 57,
-      "buy_ratio": 0.43,
-      "tx_m5": 119,
-      "vol_accel": 0.93,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": true,
-      "trending": false,
-      "m5": -9.33,
-      "h1": -3.87,
-      "liq": 63243,
-      "fdv": 506614,
-      "turnover_h1": 0.97
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1792549085.7635303
-    },
     "GWe3TNg1UPxeaSazxK8U49PDAqXCaX9Jc8zbttFLpump": {
      "symbol": "COMPUTE",
      "pair": "CYE8bNGpo5RZRUEVnjxCRh997r8crqUtSUvJVPVBHBHJ",
@@ -107,8 +69,8 @@
      "fill_price": 0.00014653681101547768,
      "peak": 0.0001693,
      "entry_liq": 36958.19,
-     "last_price": 0.000158,
-     "last_liq": 38653.31,
+     "last_price": 0.0001554,
+     "last_liq": 38311.18,
      "score": 49.5,
      "detail": {
       "atlas": 77,
@@ -131,7 +93,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792549085.7635303
+     "last_seen": 1792549986.9824047
     },
     "8xH5RFEkSyneYBhCZh5gi2svgdyrDCREW9SxCfKuYgFd": {
      "symbol": "SASONA",
@@ -145,8 +107,8 @@
      "fill_price": 8.340071416791658e-05,
      "peak": 8.277e-05,
      "entry_liq": 53221.04,
-     "last_price": 7.103e-05,
-     "last_liq": 48561.89,
+     "last_price": 7.061e-05,
+     "last_liq": 48381.58,
      "score": 49.2,
      "detail": {
       "atlas": 12,
@@ -169,7 +131,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792549085.7635303
+     "last_seen": 1792549986.9824047
     },
     "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump": {
      "symbol": "FTR",
@@ -183,8 +145,8 @@
      "fill_price": 0.0005083629851468303,
      "peak": 0.0005493,
      "entry_liq": 92252.58,
-     "last_price": 0.0004828,
-     "last_liq": 90273.35,
+     "last_price": 0.0004943,
+     "last_liq": 91386.38,
      "score": 39.0,
      "detail": {
       "atlas": 39,
@@ -207,17 +169,17 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792549085.7635303
+     "last_seen": 1792549986.9824047
     }
    },
-   "realized": -386.7029476284276,
+   "realized": -390.3593685176475,
    "fees_est": 0.0,
    "day": "2026-10-21",
    "day_start_equity": 630.1173959233812,
    "halted_day": "",
-   "trades": 134,
+   "trades": 135,
    "peak_equity": 1005.3866010289258,
-   "max_dd": 0.39610868762709783
+   "max_dd": 0.39797900925946283
   }
  },
  "cooldown": {
@@ -270,16 +232,16 @@
   "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792542711.6337602
  },
  "stats": {
-  "scans": 16601,
-  "candidates_seen": 1373497,
+  "scans": 16616,
+  "candidates_seen": 1374751,
   "rejections": {
-   "dex": 562161,
-   "liq_low": 362014,
-   "odd_quote": 130881,
-   "too_old": 190101,
-   "too_new": 8759,
-   "rug_danger": 4631,
-   "fdv_liq_thin": 6608,
+   "dex": 562673,
+   "liq_low": 362276,
+   "odd_quote": 131091,
+   "too_old": 190326,
+   "too_new": 8770,
+   "rug_danger": 4650,
+   "fdv_liq_thin": 6623,
    "fdv_low": 1407,
    "titan_daily_loss_stop": 7528,
    "lp_unlocked": 22252,
