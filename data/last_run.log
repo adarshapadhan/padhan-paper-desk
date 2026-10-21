@@ -1,4 +1,1 @@
-2026-10-21 04:05:58Z [control] EXIT COMPUTE time_exit pnl=$-0.00 (-0.0%)
-2026-10-21 04:12:04Z [desk] BUY Nodrel $11.38 @ 0.0001141 score=70.3 liq=$27,909
-2026-10-21 04:14:05Z [control] EXIT SASONA time_exit pnl=$-2.39 (-21.0%)
-2026-10-21 04:16:07Z [control] EXIT FTR time_exit pnl=$-0.59 (-4.9%)
+2026-10-21 04:20:12Z [desk] EXIT Nodrel stop_loss pnl=$-5.04 (-44.3%)
