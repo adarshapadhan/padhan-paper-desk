@@ -1,6 +1,5 @@
-2026-10-22 00:00:14Z [desk] BUY GLITCH $12.15 @ 0.002027 score=83.2 liq=$126,665
-2026-10-22 00:00:14Z [control] BUY KIMCHIBULL $12.15 @ 0.006619 score=63.0 liq=$240,493
-2026-10-22 00:00:14Z [desk] BUY CYBERCAT $10.25 @ 0.000294 score=69.7 liq=$46,270
-2026-10-22 00:00:14Z [control] BUY DYCPAD $10.25 @ 0.0006793 score=56.9 liq=$72,650
-2026-10-22 00:01:15Z [desk] BUY PHP $9.74 @ 0.0004606 score=66.5 liq=$68,117
-2026-10-22 00:01:15Z [control] BUY Pokecity $9.74 @ 0.0001443 score=55.7 liq=$34,178
+2026-10-22 00:04:21Z [desk] BUY KOLO $9.90 @ 0.001118 score=67.0 liq=$103,821
+2026-10-22 00:04:21Z [control] BUY MONEYBIZ $9.90 @ 0.001323 score=63.6 liq=$112,772
+2026-10-22 00:05:21Z [desk] PARTIAL PHP take_profit_1 sold 50% for $6.49
+2026-10-22 00:10:56Z [control] EXIT Pokecity stop_loss pnl=$-3.49 (-35.9%)
+2026-10-22 00:17:32Z [desk] BUY COMPUTE $10.07 @ 0.0002455 score=67.8 liq=$49,555
