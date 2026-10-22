@@ -1,5 +1,6 @@
-2026-10-22 00:04:21Z [desk] BUY KOLO $9.90 @ 0.001118 score=67.0 liq=$103,821
-2026-10-22 00:04:21Z [control] BUY MONEYBIZ $9.90 @ 0.001323 score=63.6 liq=$112,772
-2026-10-22 00:05:21Z [desk] PARTIAL PHP take_profit_1 sold 50% for $6.49
-2026-10-22 00:10:56Z [control] EXIT Pokecity stop_loss pnl=$-3.49 (-35.9%)
-2026-10-22 00:17:32Z [desk] BUY COMPUTE $10.07 @ 0.0002455 score=67.8 liq=$49,555
+2026-10-22 00:20:05Z [control] EXIT KIMCHIBULL stop_loss pnl=$-3.83 (-31.6%)
+2026-10-22 00:20:20Z [control] EXIT DYCPAD stop_loss pnl=$-3.28 (-32.0%)
+2026-10-22 00:23:38Z [desk] EXIT PHP trailing_stop pnl=$+4.83 (+49.6%)
+2026-10-22 00:24:41Z [desk] BUY PHP2SHELL $9.86 @ 8.305e-05 score=66.4 liq=$25,565
+2026-10-22 00:24:41Z [control] BUY CYBER $9.86 @ 0.0004761 score=48.5 liq=$69,972
+2026-10-22 00:29:44Z [desk] EXIT CYBERCAT stop_loss pnl=$-3.58 (-34.9%)
