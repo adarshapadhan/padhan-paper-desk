@@ -1,6 +1,2 @@
-2026-10-22 00:20:05Z [control] EXIT KIMCHIBULL stop_loss pnl=$-3.83 (-31.6%)
-2026-10-22 00:20:20Z [control] EXIT DYCPAD stop_loss pnl=$-3.28 (-32.0%)
-2026-10-22 00:23:38Z [desk] EXIT PHP trailing_stop pnl=$+4.83 (+49.6%)
-2026-10-22 00:24:41Z [desk] BUY PHP2SHELL $9.86 @ 8.305e-05 score=66.4 liq=$25,565
-2026-10-22 00:24:41Z [control] BUY CYBER $9.86 @ 0.0004761 score=48.5 liq=$69,972
-2026-10-22 00:29:44Z [desk] EXIT CYBERCAT stop_loss pnl=$-3.58 (-34.9%)
+2026-10-22 00:37:23Z [control] PARTIAL CYBER take_profit_1 sold 50% for $6.59
+2026-10-22 00:44:59Z [control] EXIT CYBER trailing_stop pnl=$+1.80 (+18.3%)
