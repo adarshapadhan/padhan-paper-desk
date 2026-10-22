@@ -17,8 +17,8 @@
      "fill_price": 0.002047658793585961,
      "peak": 0.00207,
      "entry_liq": 126665.29,
-     "last_price": 0.001837,
-     "last_liq": 119768.66,
+     "last_price": 0.001893,
+     "last_liq": 121328.72,
      "score": 83.2,
      "detail": {
       "atlas": 100,
@@ -44,7 +44,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792639335.7720835
+     "last_seen": 1792640251.5623612
     },
     "KoLoaG4ktXXA2g5FjrwNAHeNy5wPfQ2RzVUxscgZrpc": {
      "symbol": "KOLO",
@@ -83,7 +83,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792639335.7720835
+     "last_seen": 1792640251.5623612
     }
    },
    "realized": -789.2737675237963,
@@ -141,20 +141,20 @@
   "F7q6cGpDRHewRpbGJ5P6e5pd1KGhv9gMbEYMmHPEpump": 1792637216.3477092
  },
  "stats": {
-  "scans": 18086,
-  "candidates_seen": 1498031,
+  "scans": 18101,
+  "candidates_seen": 1499344,
   "rejections": {
-   "dex": 612339,
-   "liq_low": 386880,
-   "odd_quote": 148481,
-   "too_old": 213070,
-   "too_new": 9637,
-   "rug_danger": 5499,
-   "fdv_liq_thin": 8093,
+   "dex": 612904,
+   "liq_low": 387117,
+   "odd_quote": 148703,
+   "too_old": 213280,
+   "too_new": 9648,
+   "rug_danger": 5505,
+   "fdv_liq_thin": 8108,
    "fdv_low": 1412,
-   "titan_daily_loss_stop": 8223,
+   "titan_daily_loss_stop": 8230,
    "lp_unlocked": 22696,
-   "liq_high": 1340,
+   "liq_high": 1355,
    "titan_max_positions": 26,
    "no_price": 16,
    "rugcheck_unavailable": 6175
