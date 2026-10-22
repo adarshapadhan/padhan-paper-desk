@@ -1,2 +1,2 @@
-2026-10-22 00:37:23Z [control] PARTIAL CYBER take_profit_1 sold 50% for $6.59
-2026-10-22 00:44:59Z [control] EXIT CYBER trailing_stop pnl=$+1.80 (+18.3%)
+2026-10-22 00:50:07Z [desk] BUY DOCHI $10.42 @ 0.00057 score=71.5 liq=$65,362
+2026-10-22 00:53:09Z [desk] EXIT DOCHI liquidity_pulled pnl=$-10.42 (-100.0%)
