@@ -1,0 +1,4 @@
+2026-10-23 02:10:28Z [desk] BUY kimchisol $7.87 @ 0.0002843 score=66.3 liq=$49,512
+2026-10-23 02:10:28Z [control] BUY stablecoin $7.87 @ 0.0001235 score=51.7 liq=$29,003
+2026-10-23 02:14:18Z [control] EXIT stablecoin stop_loss pnl=$-2.69 (-34.2%)
+2026-10-23 02:14:33Z [desk] PARTIAL kimchisol take_profit_1 sold 50% for $5.19
