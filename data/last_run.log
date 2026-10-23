@@ -1,3 +1,2 @@
-2026-10-23 10:14:17Z [desk] PARTIAL cyber take_profit_1 sold 50% for $4.98
-2026-10-23 10:14:47Z [desk] EXIT cyber trailing_stop pnl=$+0.43 (+5.5%)
-2026-10-23 10:26:56Z [desk] BUY DAZE $8.88 @ 0.0001253 score=75.7 liq=$50,271
+2026-10-23 10:32:02Z [desk] PARTIAL DAZE take_profit_1 sold 50% for $5.67
+2026-10-23 10:40:38Z [desk] EXIT DAZE liquidity_pulled pnl=$-3.21 (-36.1%)
