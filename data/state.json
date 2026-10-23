@@ -3,14 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 196.4729731448574,
+   "cash": 194.89330079131628,
    "positions": {},
-   "realized": -803.527026855142,
+   "realized": -805.1066992086832,
    "fees_est": 0.0,
    "day": "2026-10-23",
    "day_start_equity": 207.49101199605292,
    "halted_day": "2026-10-22",
-   "trades": 286,
+   "trades": 287,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.8131721381645488
   },
@@ -63,23 +63,24 @@
   "2hPYWv4SydoBYmiecpqVi1AdTDSM4xeHbKeBDBQMpump": 1792728057.2663453,
   "8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump": 1792729397.9723527,
   "HbVPTLRijQg9PWyu66ZLwug5ERuyXw4p3c3Rfx9hpump": 1792740098.1482599,
-  "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump": 1792741673.547723
+  "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump": 1792741673.547723,
+  "9xJtKxAcipy5K11nDgEAokNQ3AgGMGNT36zXebNipump": 1792745263.5512033
  },
  "stats": {
-  "scans": 19826,
-  "candidates_seen": 1639011,
+  "scans": 19841,
+  "candidates_seen": 1639988,
   "rejections": {
-   "dex": 665315,
-   "liq_low": 416244,
-   "odd_quote": 166863,
-   "too_old": 235784,
-   "too_new": 10488,
-   "rug_danger": 7894,
+   "dex": 665710,
+   "liq_low": 416443,
+   "odd_quote": 166979,
+   "too_old": 235977,
+   "too_new": 10501,
+   "rug_danger": 7924,
    "fdv_liq_thin": 9818,
    "fdv_low": 1415,
    "titan_daily_loss_stop": 9188,
-   "lp_unlocked": 23507,
-   "liq_high": 3097,
+   "lp_unlocked": 23522,
+   "liq_high": 3112,
    "titan_max_positions": 33,
    "no_price": 18,
    "rugcheck_unavailable": 6204
