@@ -1,3 +1,3 @@
-2026-10-23 03:01:22Z [desk] BUY POOT $8.22 @ 0.0001441 score=70.5 liq=$32,027
-2026-10-23 03:01:22Z [control] BUY GLOOB $8.22 @ 0.0001131 score=60.4 liq=$27,675
-2026-10-23 03:06:13Z [control] EXIT CYBERCAT liquidity_pulled pnl=$-8.58 (-99.2%)
+2026-10-23 03:11:53Z [desk] EXIT POOT stop_loss pnl=$-2.87 (-34.9%)
+2026-10-23 03:14:27Z [desk] BUY CAPYGLOW $8.19 @ 0.0002036 score=71.2 liq=$44,994
+2026-10-23 03:21:21Z [desk] PARTIAL CAPYGLOW take_profit_1 sold 50% for $5.46
