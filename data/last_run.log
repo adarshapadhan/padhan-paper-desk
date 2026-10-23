@@ -1,1 +1,3 @@
-2026-10-23 04:35:39Z [desk] EXIT PHP time_exit pnl=$-2.62 (-27.9%)
+2026-10-23 04:40:48Z [desk] PARTIAL zonki take_profit_1 sold 50% for $5.34
+2026-10-23 04:43:37Z [control] EXIT SHADOW time_exit pnl=$+2.35 (+27.3%)
+2026-10-23 04:48:59Z [desk] EXIT zonki trailing_stop pnl=$+1.24 (+14.6%)
