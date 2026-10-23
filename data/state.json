@@ -17,8 +17,8 @@
      "fill_price": 9.480924673858995e-05,
      "peak": 0.0001068,
      "entry_liq": 25021.47,
-     "last_price": 0.0001035,
-     "last_liq": 26427.29,
+     "last_price": 0.0001017,
+     "last_liq": 26204.71,
      "score": 66.4,
      "detail": {
       "atlas": 71,
@@ -42,7 +42,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792731245.2890513
+     "last_seen": 1792732150.216401
     },
     "8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump": {
      "symbol": "McRib",
@@ -56,8 +56,8 @@
      "fill_price": 0.0004948205918513097,
      "peak": 0.0005054,
      "entry_liq": 70300.94,
-     "last_price": 0.000426,
-     "last_liq": 65450.39,
+     "last_price": 0.0004699,
+     "last_liq": 68731.34,
      "score": 73.5,
      "detail": {
       "atlas": 100,
@@ -80,7 +80,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792731245.2890513
+     "last_seen": 1792732150.216401
     }
    },
    "realized": -801.8733748030392,
@@ -143,20 +143,20 @@
   "8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump": 1792729397.9723527
  },
  "stats": {
-  "scans": 19601,
-  "candidates_seen": 1623962,
+  "scans": 19616,
+  "candidates_seen": 1624800,
   "rejections": {
-   "dex": 659461,
-   "liq_low": 412674,
-   "odd_quote": 164733,
-   "too_old": 233136,
-   "too_new": 10374,
-   "rug_danger": 7443,
+   "dex": 659736,
+   "liq_low": 412872,
+   "odd_quote": 164883,
+   "too_old": 233302,
+   "too_new": 10378,
+   "rug_danger": 7473,
    "fdv_liq_thin": 9818,
    "fdv_low": 1415,
    "titan_daily_loss_stop": 9188,
    "lp_unlocked": 23472,
-   "liq_high": 2870,
+   "liq_high": 2885,
    "titan_max_positions": 33,
    "no_price": 18,
    "rugcheck_unavailable": 6204
