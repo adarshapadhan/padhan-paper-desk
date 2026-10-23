@@ -1,1 +1,3 @@
-2026-10-23 02:51:40Z [control] PARTIAL SHADOW take_profit_1 sold 50% for $5.43
+2026-10-23 03:01:22Z [desk] BUY POOT $8.22 @ 0.0001441 score=70.5 liq=$32,027
+2026-10-23 03:01:22Z [control] BUY GLOOB $8.22 @ 0.0001131 score=60.4 liq=$27,675
+2026-10-23 03:06:13Z [control] EXIT CYBERCAT liquidity_pulled pnl=$-8.58 (-99.2%)
