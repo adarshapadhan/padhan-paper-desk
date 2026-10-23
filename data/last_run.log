@@ -1,1 +1,2 @@
-2026-10-23 09:07:48Z [desk] BUY Kimchi $7.99 @ 0.0001222 score=66.7 liq=$29,825
+2026-10-23 09:18:30Z [desk] PARTIAL Kimchi take_profit_1 sold 50% for $5.05
+2026-10-23 09:21:01Z [desk] EXIT Kimchi trailing_stop pnl=$+1.29 (+16.1%)
