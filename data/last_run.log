@@ -1,2 +1,6 @@
-2026-10-23 00:08:40Z [desk] PARTIAL KIMCHINU take_profit_1 sold 50% for $6.21
-2026-10-23 00:10:44Z [desk] EXIT KIMCHINU trailing_stop pnl=$+1.35 (+14.2%)
+2026-10-23 00:21:07Z [desk] BUY VIRTUAL $8.83 @ 0.000262 score=69.2 liq=$43,303
+2026-10-23 00:21:07Z [control] BUY GLITCH $8.83 @ 0.001914 score=38.5 liq=$121,514
+2026-10-23 00:21:07Z [desk] BUY SUKI $8.65 @ 0.0001812 score=68.0 liq=$35,940
+2026-10-23 00:21:07Z [control] BUY CYBERCAT $8.65 @ 9.773e-05 score=30.4 liq=$26,099
+2026-10-23 00:25:12Z [desk] EXIT SUKI stop_loss pnl=$-3.11 (-35.9%)
+2026-10-23 00:35:31Z [desk] BUY PHP $9.37 @ 0.0004559 score=73.7 liq=$71,662
