@@ -1,3 +1,1 @@
-2026-10-23 03:11:53Z [desk] EXIT POOT stop_loss pnl=$-2.87 (-34.9%)
-2026-10-23 03:14:27Z [desk] BUY CAPYGLOW $8.19 @ 0.0002036 score=71.2 liq=$44,994
-2026-10-23 03:21:21Z [desk] PARTIAL CAPYGLOW take_profit_1 sold 50% for $5.46
+2026-10-23 03:28:34Z [control] EXIT GLOOB stop_loss pnl=$-3.03 (-36.8%)
