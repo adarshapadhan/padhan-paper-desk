@@ -1,1 +1,3 @@
-2026-10-24 01:41:37Z [desk] BUY ELON $6.96 @ 0.00022 score=66.1 liq=$41,677
+2026-10-24 01:52:41Z [desk] EXIT ELIZABETH stop_loss pnl=$-3.00 (-38.3%)
+2026-10-24 01:52:41Z [desk] DAILY LOSS STOP hit — no new entries until next UTC day
+2026-10-24 02:02:27Z [desk] EXIT ELON stop_loss pnl=$-2.59 (-37.2%)
