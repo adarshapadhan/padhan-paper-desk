@@ -1,9 +1,0 @@
-2026-10-24 00:05:45Z [desk] BUY YMBCOIN $9.21 @ 0.001265 score=82.7 liq=$98,877
-2026-10-24 00:05:45Z [control] BUY SHADOW $9.21 @ 0.0002418 score=26.5 liq=$42,630
-2026-10-24 00:05:45Z [desk] BUY ODIE $8.89 @ 0.001494 score=80.0 liq=$117,059
-2026-10-24 00:05:45Z [control] BUY ARCTIS $8.89 @ 0.0001088 score=61.0 liq=$27,051
-2026-10-24 00:06:16Z [desk] EXIT Moustache stop_loss pnl=$-2.74 (-35.5%)
-2026-10-24 00:07:01Z [desk] EXIT IC stop_loss pnl=$-2.88 (-38.3%)
-2026-10-24 00:08:17Z [control] PARTIAL KURIBO take_profit_1 sold 50% for $5.12
-2026-10-24 00:08:49Z [desk] BUY TRUTH $7.43 @ 0.0001842 score=68.6 liq=$43,517
-2026-10-24 00:18:13Z [control] EXIT KURIBO trailing_stop pnl=$+1.39 (+17.2%)
