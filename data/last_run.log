@@ -1,0 +1,4 @@
+2026-10-24 03:54:06Z [control] EXIT MCRIBINU stop_loss pnl=$-3.22 (-32.2%)
+2026-10-24 04:02:03Z [desk] EXIT REMUS time_exit pnl=$+1.72 (+21.3%)
+2026-10-24 04:05:55Z [control] EXIT SHADOW time_exit pnl=$-0.24 (-2.6%)
+2026-10-24 04:05:55Z [control] EXIT ARCTIS time_exit pnl=$-1.19 (-13.4%)

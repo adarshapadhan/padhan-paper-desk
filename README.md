@@ -1,7 +1,7 @@
 # Padhan Paper Desk — live scorecard
 
 > **Paper trading only.** No wallet, no keys, no real money. Every trade is simulated on live Solana prices
-> with realistic fees, slippage and rug-pull losses. Updated 2026-10-24 03:53 UTC · day 14.7
+> with realistic fees, slippage and rug-pull losses. Updated 2026-10-24 04:08 UTC · day 14.8
 
 ## Verdict: **DO NOT INVEST — failed: profit, pf, dd, edge, luck**
 
@@ -18,19 +18,19 @@
 
 | | AI desk | Random control |
 |---|---:|---:|
-| Equity | $166.57 | $545.26 |
-| Return | -83.34% | -45.47% |
-| Closed trades | 300 | 156 |
-| Win rate | 34.3% | 26.3% |
-| Avg win / avg loss | +31.3% / -37.3% | +30.2% / -30.4% |
+| Equity | $167.66 | $544.06 |
+| Return | -83.23% | -45.59% |
+| Closed trades | 301 | 159 |
+| Win rate | 34.6% | 25.8% |
+| Avg win / avg loss | +31.2% / -37.3% | +30.2% / -30.0% |
 | Profit factor | 0.49 | 0.4 |
-| Max drawdown | 83.4% | 45.5% |
-| Profit without top 3 trades | $-915.28 | $-515.34 |
+| Max drawdown | 83.4% | 45.6% |
+| Profit without top 3 trades | $-913.56 | $-519.99 |
 | Rug / liquidity-pull exits | 22 | 12 |
-| Open positions now | 2 | 4 |
+| Open positions now | 1 | 1 |
 
-Tokens screened: **1,726,755** across 20,966 scans. Top reasons the safety agent (LUNA) said no:
-dex (695,727), liq_low (436,804), too_old (249,791), odd_quote (176,906), lp_unlocked (24,663), too_new (11,123), fdv_liq_thin (9,956), titan_daily_loss_stop (9,916)
+Tokens screened: **1,727,902** across 20,981 scans. Top reasons the safety agent (LUNA) said no:
+dex (696,114), liq_low (437,148), too_old (249,986), odd_quote (177,039), lp_unlocked (24,663), too_new (11,130), fdv_liq_thin (9,956), titan_daily_loss_stop (9,931)
 
 ## How it works
 Six agents, one job each — **RADAR** finds new tokens · **LUNA** blocks unsafe ones (liquidity, age, RugCheck: mint/freeze
