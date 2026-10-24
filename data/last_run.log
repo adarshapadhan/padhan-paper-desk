@@ -1,3 +1,4 @@
-2026-10-24 01:16:23Z [desk] BUY VIRTUAL $7.21 @ 0.0002911 score=66.9 liq=$47,842
-2026-10-24 01:16:23Z [control] BUY STANLEY $7.21 @ 9.781e-05 score=60.3 liq=$25,481
-2026-10-24 01:18:56Z [desk] EXIT YMBCOIN stop_loss pnl=$-5.31 (-57.6%)
+2026-10-24 01:23:21Z [desk] EXIT TRUTH stop_loss pnl=$-2.52 (-34.0%)
+2026-10-24 01:26:57Z [control] EXIT STANLEY liquidity_pulled pnl=$-7.18 (-99.5%)
+2026-10-24 01:30:33Z [desk] BUY ELIZABETH $7.83 @ 9.397e-05 score=75.3 liq=$25,029
+2026-10-24 01:30:33Z [control] BUY BLACKTOBER $7.83 @ 0.0004524 score=31.0 liq=$65,317
