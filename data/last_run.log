@@ -1,8 +1,9 @@
-2026-10-24 00:00:49Z [desk] BUY BITCHES $9.98 @ 0.003348 score=88.7 liq=$165,076
-2026-10-24 00:00:49Z [control] BUY MCRIBINU $9.98 @ 0.001222 score=54.4 liq=$95,817
-2026-10-24 00:01:51Z [desk] BUY REMUS $8.08 @ 0.0001937 score=70.7 liq=$37,215
-2026-10-24 00:01:51Z [control] BUY KURIBO $8.08 @ 0.0001649 score=56.8 liq=$34,054
-2026-10-24 00:02:52Z [desk] BUY IC $7.53 @ 0.0004897 score=66.4 liq=$59,710
-2026-10-24 00:02:52Z [control] BUY PHP $7.53 @ 0.0003157 score=49.0 liq=$60,388
-2026-10-24 00:03:54Z [desk] BUY Moustache $7.72 @ 0.0005698 score=68.6 liq=$68,947
-2026-10-24 00:03:54Z [control] BUY requests $7.72 @ 8.503e-05 score=32.1 liq=$25,202
+2026-10-24 00:05:45Z [desk] BUY YMBCOIN $9.21 @ 0.001265 score=82.7 liq=$98,877
+2026-10-24 00:05:45Z [control] BUY SHADOW $9.21 @ 0.0002418 score=26.5 liq=$42,630
+2026-10-24 00:05:45Z [desk] BUY ODIE $8.89 @ 0.001494 score=80.0 liq=$117,059
+2026-10-24 00:05:45Z [control] BUY ARCTIS $8.89 @ 0.0001088 score=61.0 liq=$27,051
+2026-10-24 00:06:16Z [desk] EXIT Moustache stop_loss pnl=$-2.74 (-35.5%)
+2026-10-24 00:07:01Z [desk] EXIT IC stop_loss pnl=$-2.88 (-38.3%)
+2026-10-24 00:08:17Z [control] PARTIAL KURIBO take_profit_1 sold 50% for $5.12
+2026-10-24 00:08:49Z [desk] BUY TRUTH $7.43 @ 0.0001842 score=68.6 liq=$43,517
+2026-10-24 00:18:13Z [control] EXIT KURIBO trailing_stop pnl=$+1.39 (+17.2%)
