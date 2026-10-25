@@ -1,6 +1,4 @@
-2026-10-25 00:53:01Z [desk] BUY BTC $6.49 @ 0.0003609 score=66.0 liq=$50,296
-2026-10-25 00:57:19Z [desk] PARTIAL NI take_profit_1 sold 50% for $4.78
-2026-10-25 00:57:19Z [desk] EXIT BTC stop_loss pnl=$-3.04 (-46.9%)
-2026-10-25 00:57:19Z [control] EXIT REACHY trailing_stop pnl=$+0.98 (+13.9%)
-2026-10-25 00:58:35Z [desk] EXIT NI trailing_stop pnl=$+1.03 (+14.0%)
-2026-10-25 01:04:25Z [desk] PARTIAL KURUMI take_profit_1 sold 50% for $4.10
+2026-10-25 01:12:19Z [desk] BUY MAYA $7.27 @ 0.0007769 score=75.5 liq=$75,010
+2026-10-25 01:14:36Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-25 01:14:52Z [desk] EXIT KURUMI trailing_stop pnl=$+0.70 (+10.5%)
+2026-10-25 01:16:08Z [desk] EXIT MAYA stop_loss pnl=$-2.85 (-39.2%)
