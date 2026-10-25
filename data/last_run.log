@@ -1,5 +1,5 @@
-2026-10-25 00:21:55Z [desk] BUY swordinu $7.08 @ 0.000493 score=70.0 liq=$59,035
-2026-10-25 00:21:55Z [control] BUY REACHY $7.08 @ 0.0001505 score=60.4 liq=$31,464
-2026-10-25 00:23:27Z [desk] EXIT swordinu stop_loss pnl=$-2.49 (-35.1%)
-2026-10-25 00:30:18Z [desk] EXIT WRHND stop_loss pnl=$-2.75 (-39.2%)
-2026-10-25 00:32:05Z [desk] BUY KURUMI $6.72 @ 0.0003192 score=68.3 liq=$46,340
+2026-10-25 00:44:02Z [desk] BUY PRUE $6.62 @ 0.0001186 score=67.3 liq=$28,033
+2026-10-25 00:44:02Z [control] BUY COIL $6.62 @ 0.0001906 score=50.0 liq=$39,109
+2026-10-25 00:46:19Z [control] PARTIAL REACHY take_profit_1 sold 50% for $4.46
+2026-10-25 00:50:11Z [desk] BUY NI $7.40 @ 0.0001014 score=75.2 liq=$25,480
+2026-10-25 00:50:26Z [desk] EXIT PRUE stop_loss pnl=$-2.80 (-42.3%)
