@@ -1,2 +1,5 @@
-2026-10-25 00:06:54Z [desk] BUY CATTLEAXE $6.88 @ 0.001234 score=67.8 liq=$99,289
-2026-10-25 00:06:54Z [control] BUY McRib $6.88 @ 0.0002857 score=50.6 liq=$56,838
+2026-10-25 00:21:55Z [desk] BUY swordinu $7.08 @ 0.000493 score=70.0 liq=$59,035
+2026-10-25 00:21:55Z [control] BUY REACHY $7.08 @ 0.0001505 score=60.4 liq=$31,464
+2026-10-25 00:23:27Z [desk] EXIT swordinu stop_loss pnl=$-2.49 (-35.1%)
+2026-10-25 00:30:18Z [desk] EXIT WRHND stop_loss pnl=$-2.75 (-39.2%)
+2026-10-25 00:32:05Z [desk] BUY KURUMI $6.72 @ 0.0003192 score=68.3 liq=$46,340
