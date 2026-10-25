@@ -1,1 +1,4 @@
-2026-10-25 01:42:18Z [desk] PARTIAL CATTLEAXE take_profit_1 sold 50% for $4.25
+2026-10-25 02:04:08Z [desk] BUY BLINTRUMP $7.12 @ 0.0001149 score=74.4 liq=$27,594
+2026-10-25 02:06:55Z [desk] EXIT BLINTRUMP liquidity_pulled pnl=$-7.12 (-100.0%)
+2026-10-25 02:06:55Z [control] EXIT COIL stop_loss pnl=$-2.33 (-35.2%)
+2026-10-25 02:06:55Z [desk] DAILY LOSS STOP hit — no new entries until next UTC day
