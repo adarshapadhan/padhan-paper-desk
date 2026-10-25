@@ -1,4 +1,2 @@
-2026-10-25 01:12:19Z [desk] BUY MAYA $7.27 @ 0.0007769 score=75.5 liq=$75,010
-2026-10-25 01:14:36Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
-2026-10-25 01:14:52Z [desk] EXIT KURUMI trailing_stop pnl=$+0.70 (+10.5%)
-2026-10-25 01:16:08Z [desk] EXIT MAYA stop_loss pnl=$-2.85 (-39.2%)
+2026-10-25 01:22:31Z [desk] BUY Chunkee $6.68 @ 0.0002202 score=71.1 liq=$38,797
+2026-10-25 01:22:31Z [control] BUY Pablo $6.68 @ 9.568e-05 score=41.9 liq=$25,237
