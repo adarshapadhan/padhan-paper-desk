@@ -30,8 +30,8 @@
      "fill_price": 9.668742455916348e-05,
      "peak": 9.727e-05,
      "entry_liq": 25236.93,
-     "last_price": 8.468e-05,
-     "last_liq": 23762.97,
+     "last_price": 9.506e-05,
+     "last_liq": 25299.95,
      "score": 41.9,
      "detail": {
       "atlas": 15,
@@ -55,7 +55,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792903210.7358882
+     "last_seen": 1792904121.6733627
     }
    },
    "realized": -461.7782552002396,
@@ -114,20 +114,20 @@
   "Hu7rBHqUrH17iJcQxBg4c3nu5BgBR88mKn7bDuc7pump": 1792893847.2295492
  },
  "stats": {
-  "scans": 22436,
-  "candidates_seen": 1849141,
+  "scans": 22451,
+  "candidates_seen": 1850400,
   "rejections": {
-   "dex": 745262,
-   "liq_low": 465441,
-   "odd_quote": 189536,
-   "too_old": 267650,
-   "too_new": 11910,
-   "rug_danger": 10182,
+   "dex": 745859,
+   "liq_low": 465724,
+   "odd_quote": 189722,
+   "too_old": 267815,
+   "too_new": 11921,
+   "rug_danger": 10183,
    "fdv_liq_thin": 9958,
    "fdv_low": 1417,
    "titan_daily_loss_stop": 11062,
    "lp_unlocked": 25512,
-   "liq_high": 5298,
+   "liq_high": 5313,
    "titan_max_positions": 33,
    "no_price": 20,
    "rugcheck_unavailable": 6204
