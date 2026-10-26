@@ -1,4 +1,0 @@
-2026-10-26 00:42:34Z [desk] EXIT HOOKER stop_loss pnl=$-2.55 (-39.9%)
-2026-10-26 00:47:23Z [control] EXIT ███ trailing_stop pnl=$+2.30 (+39.0%)
-2026-10-26 00:48:09Z [desk] BUY DANIELLA $6.14 @ 0.0001993 score=74.3 liq=$36,616
-2026-10-26 00:49:56Z [desk] DAILY LOSS STOP hit — no new entries until next UTC day

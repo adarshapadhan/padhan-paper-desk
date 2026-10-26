@@ -17,8 +17,8 @@
      "fill_price": 0.00016135826208638323,
      "peak": 0.0001613,
      "entry_liq": 32677.14,
-     "last_price": 0.0001459,
-     "last_liq": 31131.46,
+     "last_price": 0.0001535,
+     "last_liq": 32049.61,
      "score": 69.5,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792976087.6623073
+     "last_seen": 1792976989.7800136
     },
     "H7VZNCBynDK5ikBS9krDJ2Tx8CUr1wxedV19ZgkWpump": {
      "symbol": "CATTLEAXE",
@@ -55,8 +55,8 @@
      "fill_price": 0.0011262812675464462,
      "peak": 0.001129,
      "entry_liq": 100218.61,
-     "last_price": 0.001097,
-     "last_liq": 99354.5,
+     "last_price": 0.0011,
+     "last_liq": 99484.32,
      "score": 65.7,
      "detail": {
       "atlas": 100,
@@ -79,7 +79,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792976087.6623073
+     "last_seen": 1792976989.7800136
     },
     "9DGb9TWswLUqu85reo2kNoZkKkME9nB9YVfjYkqopump": {
      "symbol": "GTA",
@@ -93,8 +93,8 @@
      "fill_price": 0.00020913635598169392,
      "peak": 0.000273,
      "entry_liq": 38669.87,
-     "last_price": 0.0002301,
-     "last_liq": 40928.48,
+     "last_price": 0.0002218,
+     "last_liq": 40193.86,
      "score": 70.7,
      "detail": {
       "atlas": 100,
@@ -117,7 +117,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792976087.6623073
+     "last_seen": 1792976989.7800136
     },
     "Asgq1QLYv4WxfEXfkcnu4jEZkcq5WA3GXW1ciEXbpump": {
      "symbol": "DANIELLA",
@@ -129,10 +129,10 @@
      "cost": 6.14,
      "entry_price": 0.0001993,
      "fill_price": 0.0002013598176618498,
-     "peak": 0.0001993,
+     "peak": 0.0002314,
      "entry_liq": 36615.82,
-     "last_price": 0.0001777,
-     "last_liq": 34508.45,
+     "last_price": 0.0002076,
+     "last_liq": 37642.02,
      "score": 74.3,
      "detail": {
       "atlas": 100,
@@ -156,7 +156,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792976087.6623073
+     "last_seen": 1792976989.7800136
     }
    },
    "realized": -861.0649010754969,
@@ -184,8 +184,8 @@
      "fill_price": 0.0008957879641840711,
      "peak": 0.0009245,
      "entry_liq": 88842.3,
-     "last_price": 0.0008777,
-     "last_liq": 88373.35,
+     "last_price": 0.0008532,
+     "last_liq": 87063.28,
      "score": 58.1,
      "detail": {
       "atlas": 90,
@@ -208,7 +208,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792976087.6623073
+     "last_seen": 1792976989.7800136
     },
     "41thoMqVENHtGhuSp5Jhy9yPWghqrPfeETrMe97JK4tg": {
      "symbol": "Bunnett",
@@ -220,10 +220,10 @@
      "cost": 6.27,
      "entry_price": 0.0002371,
      "fill_price": 0.00023954147777706928,
-     "peak": 0.0002431,
+     "peak": 0.0002504,
      "entry_liq": 42174.29,
-     "last_price": 0.0002425,
-     "last_liq": 42644.2,
+     "last_price": 0.0002385,
+     "last_liq": 42349.95,
      "score": 26.5,
      "detail": {
       "atlas": 10,
@@ -246,7 +246,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792976087.6623073
+     "last_seen": 1792976989.7800136
     },
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
      "symbol": "SHADOW",
@@ -260,8 +260,8 @@
      "fill_price": 0.000152561833277351,
      "peak": 0.0001736,
      "entry_liq": 33897.85,
-     "last_price": 0.0001575,
-     "last_liq": 34629.15,
+     "last_price": 0.0001589,
+     "last_liq": 34811.53,
      "score": 42.6,
      "detail": {
       "atlas": 66,
@@ -284,7 +284,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1792976087.6623073
+     "last_seen": 1792976989.7800136
     }
    },
    "realized": -459.57170975528203,
@@ -334,20 +334,20 @@
   "Asgq1QLYv4WxfEXfkcnu4jEZkcq5WA3GXW1ciEXbpump": 1792975688.7508028
  },
  "stats": {
-  "scans": 23636,
-  "candidates_seen": 1954902,
+  "scans": 23651,
+  "candidates_seen": 1956062,
   "rejections": {
-   "dex": 787050,
-   "liq_low": 491688,
-   "odd_quote": 204271,
-   "too_old": 279853,
-   "too_new": 12639,
-   "rug_danger": 10596,
+   "dex": 787553,
+   "liq_low": 492026,
+   "odd_quote": 204394,
+   "too_old": 279973,
+   "too_new": 12647,
+   "rug_danger": 10626,
    "fdv_liq_thin": 9958,
    "fdv_low": 1418,
-   "titan_daily_loss_stop": 11833,
+   "titan_daily_loss_stop": 11835,
    "lp_unlocked": 26271,
-   "liq_high": 6506,
+   "liq_high": 6521,
    "titan_max_positions": 38,
    "no_price": 20,
    "rugcheck_unavailable": 6204
