@@ -1,4 +1,1 @@
-2026-10-26 04:00:21Z [desk] PARTIAL CATTLEAXE take_profit_1 sold 50% for $3.53
-2026-10-26 04:01:53Z [desk] EXIT NETWORK time_exit pnl=$-0.86 (-13.7%)
-2026-10-26 04:01:53Z [control] EXIT Bunnett time_exit pnl=$-1.05 (-16.7%)
-2026-10-26 04:09:44Z [desk] EXIT CATTLEAXE time_exit pnl=$+0.91 (+15.5%)
+2026-10-26 04:11:50Z [control] EXIT SHADOW time_exit pnl=$-1.22 (-21.0%)
