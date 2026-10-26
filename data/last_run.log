@@ -1,7 +1,9 @@
-2026-10-26 00:09:45Z [desk] BUY CATTLEAXE $5.90 @ 0.001115 score=65.7 liq=$100,219
-2026-10-26 00:09:45Z [control] BUY ███ $5.90 @ 0.0003594 score=54.9 liq=$58,513
-2026-10-26 00:11:47Z [desk] BUY carti $5.82 @ 0.0006159 score=65.1 liq=$69,208
-2026-10-26 00:11:47Z [control] BUY SHADOW $5.82 @ 0.000151 score=42.6 liq=$33,898
-2026-10-26 00:16:35Z [control] PARTIAL ███ take_profit_1 sold 50% for $3.99
-2026-10-26 00:18:07Z [desk] EXIT carti stop_loss pnl=$-4.46 (-76.6%)
-2026-10-26 00:23:58Z [desk] BUY GTA $6.20 @ 0.000207 score=70.7 liq=$38,670
+2026-10-26 00:24:44Z [desk] PARTIAL GTA take_profit_1 sold 50% for $4.42
+2026-10-26 00:24:44Z [control] PARTIAL GTA take_profit_1 sold 50% for $4.67
+2026-10-26 00:27:17Z [desk] PARTIAL Chop take_profit_1 sold 50% for $3.61
+2026-10-26 00:27:48Z [desk] EXIT BTC liquidity_pulled pnl=$-6.83 (-100.0%)
+2026-10-26 00:28:48Z [control] EXIT GTONK stop_loss pnl=$-2.43 (-37.5%)
+2026-10-26 00:29:19Z [desk] EXIT GTA trailing_stop pnl=$+3.32 (+51.1%)
+2026-10-26 00:29:19Z [control] EXIT GTA trailing_stop pnl=$+3.55 (+52.0%)
+2026-10-26 00:33:08Z [desk] EXIT Chop trailing_stop pnl=$+0.37 (+6.2%)
+2026-10-26 00:36:57Z [desk] BUY HOOKER $6.41 @ 9.58e-05 score=75.3 liq=$25,216
