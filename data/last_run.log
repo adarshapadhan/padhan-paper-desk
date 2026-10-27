@@ -1,2 +1,4 @@
-2026-10-27 02:46:53Z [desk] BUY DMAGA2028 $5.40 @ 0.0002922 score=69.6 liq=$44,886
-2026-10-27 02:46:53Z [control] BUY MIYA $5.40 @ 0.0001241 score=55.4 liq=$29,660
+2026-10-27 02:59:58Z [desk] PARTIAL DMAGA2028 take_profit_1 sold 50% for $3.23
+2026-10-27 03:03:34Z [desk] EXIT DMAGA2028 trailing_stop pnl=$+0.32 (+6.0%)
+2026-10-27 03:04:21Z [control] PARTIAL MIYA take_profit_1 sold 50% for $3.38
+2026-10-27 03:09:28Z [control] EXIT MIYA trailing_stop pnl=$+1.82 (+33.7%)
