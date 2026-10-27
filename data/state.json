@@ -16,22 +16,22 @@
   },
   "control": {
    "name": "control",
-   "cash": 533.5168488412319,
+   "cash": 536.6365439161033,
    "positions": {
     "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump": {
      "symbol": "NETWORK",
      "pair": "88Jxy6WUYurL7WhZSNYwJvjQwvtDoxT3RUrac1PRgLwu",
      "url": "https://dexscreener.com/solana/88jxy6wuyurl7whzsnywjvjqwvtdoxt3rurac1prglwu",
      "opened": 1793073582.1768627,
-     "qty": 49516.649563079205,
+     "qty": 24758.324781539603,
      "qty0": 49516.649563079205,
      "cost": 5.23,
      "entry_price": 9.829e-05,
      "fill_price": 9.93135651016812e-05,
-     "peak": 0.000137,
+     "peak": 0.0001406,
      "entry_liq": 25271.99,
-     "last_price": 0.000137,
-     "last_liq": 30136.58,
+     "last_price": 0.000139,
+     "last_liq": 30366.35,
      "score": 57.9,
      "detail": {
       "atlas": 76,
@@ -52,9 +52,9 @@
       "fdv": 93412,
       "turnover_h1": 0.11
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793084438.984368
+     "tp1_done": true,
+     "proceeds": 3.1196950748714305,
+     "last_seen": 1793085349.9399405
     }
    },
    "realized": -461.2531511587669,
@@ -100,20 +100,20 @@
   "E6exteuDy1u6u3FfQV7SvPyU4XPdcBGi4cBnqrusocat": 1793076564.691365
  },
  "stats": {
-  "scans": 25421,
-  "candidates_seen": 2106470,
+  "scans": 25436,
+  "candidates_seen": 2107701,
   "rejections": {
-   "dex": 843020,
-   "liq_low": 529867,
-   "odd_quote": 226363,
-   "too_old": 299895,
-   "too_new": 13566,
-   "rug_danger": 13757,
+   "dex": 843458,
+   "liq_low": 530155,
+   "odd_quote": 226595,
+   "too_old": 300102,
+   "too_new": 13572,
+   "rug_danger": 13772,
    "fdv_liq_thin": 9959,
    "fdv_low": 1418,
-   "titan_daily_loss_stop": 12955,
+   "titan_daily_loss_stop": 12966,
    "lp_unlocked": 26957,
-   "liq_high": 8300,
+   "liq_high": 8315,
    "titan_max_positions": 39,
    "no_price": 21,
    "rugcheck_unavailable": 6294
