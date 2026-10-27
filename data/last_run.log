@@ -1,5 +1,0 @@
-2026-10-27 01:30:06Z [desk] BUY Nothing $5.39 @ 0.0004532 score=68.0 liq=$62,918
-2026-10-27 01:33:56Z [desk] PARTIAL Nothing take_profit_1 sold 50% for $3.36
-2026-10-27 01:40:38Z [desk] EXIT CATTLEAXE stop_loss pnl=$-2.30 (-41.4%)
-2026-10-27 01:40:38Z [control] EXIT RAYPAD stop_loss pnl=$-2.23 (-36.0%)
-2026-10-27 01:40:53Z [desk] EXIT Nothing trailing_stop pnl=$+0.58 (+10.8%)
