@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 118.26842995098048,
+   "cash": 112.11842995098047,
    "positions": {
     "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": {
      "symbol": "REMUS",
@@ -17,8 +17,8 @@
      "fill_price": 0.0018343288860456692,
      "peak": 0.001951,
      "entry_liq": 133107.44,
-     "last_price": 0.0016,
-     "last_liq": 125004.08,
+     "last_price": 0.001559,
+     "last_liq": 123272.61,
      "score": 73.6,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793068044.2193036
+     "last_seen": 1793068947.8004165
     },
     "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": {
      "symbol": "\u2588\u2588\u2588",
@@ -55,8 +55,8 @@
      "fill_price": 0.001165670033557047,
      "peak": 0.001207,
      "entry_liq": 110033.04,
-     "last_price": 0.001146,
-     "last_liq": 109537.35,
+     "last_price": 0.001082,
+     "last_liq": 106304.09,
      "score": 76.3,
      "detail": {
       "atlas": 98,
@@ -79,7 +79,46 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793068044.2193036
+     "last_seen": 1793068947.8004165
+    },
+    "3734SDUqg5nV3DmrK7ZZ1QvK7TVmJMBJbQUQqVNtpump": {
+     "symbol": "SOLVET",
+     "pair": "7BnDfu2QLJo6nFvPiGdGVGoVEEJdRrYgAxD4N7qyA945",
+     "url": "https://dexscreener.com/solana/7bndfu2qljo6nfvpigdgvgoveejdrrygaxd4n7qya945",
+     "opened": 1793068745.9752436,
+     "qty": 56727.03660357259,
+     "qty0": 56727.03660357259,
+     "cost": 6.15,
+     "entry_price": 0.0001018,
+     "fill_price": 0.00010286761567997185,
+     "peak": 0.0001018,
+     "entry_liq": 25224.48,
+     "last_price": 0.0001017,
+     "last_liq": 25199.08,
+     "score": 79.1,
+     "detail": {
+      "atlas": 100,
+      "vega": 75,
+      "orion": 100,
+      "luna": 27,
+      "buy_ratio": 1.0,
+      "tx_m5": 9,
+      "vol_accel": 9.61,
+      "socials": [
+       "telegram",
+       "twitter"
+      ],
+      "boosted": true,
+      "trending": false,
+      "m5": 12.49,
+      "h1": 14.88,
+      "liq": 25224,
+      "fdv": 98188,
+      "turnover_h1": 0.03
+     },
+     "tp1_done": false,
+     "proceeds": 0.0,
+     "last_seen": 1793068947.8004165
     }
    },
    "realized": -869.3415700490187,
@@ -89,7 +128,7 @@
    "halted_day": "2026-10-26",
    "trades": 332,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.8723246867543157
+   "max_dd": 0.8728635063460739
   },
   "control": {
    "name": "control",
@@ -107,8 +146,8 @@
      "fill_price": 0.000724982196570155,
      "peak": 0.00102,
      "entry_liq": 71761.82,
-     "last_price": 0.0009407,
-     "last_liq": 83689.74,
+     "last_price": 0.0009342,
+     "last_liq": 83431.04,
      "score": 51.7,
      "detail": {
       "atlas": 100,
@@ -131,7 +170,7 @@
      },
      "tp1_done": true,
      "proceeds": 3.1367700877963967,
-     "last_seen": 1793068044.2193036
+     "last_seen": 1793068947.8004165
     }
    },
    "realized": -463.75376781547357,
@@ -169,23 +208,24 @@
   "DtBatQsrazRRVp37UTMQH7TnXL1mT2qrJTj7PB9Rpump": 1793062832.2806215,
   "DMnMwUvo1a9HbSnixbdNaTsoHczJ8cdamUWVRM1Qpump": 1793063925.394372,
   "6zMfMXjovo7ivtrypSP7YspHm5TcbV4Sh5TwSDgapump": 1793063925.394372,
-  "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": 1793064604.8969772
+  "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": 1793064604.8969772,
+  "3734SDUqg5nV3DmrK7ZZ1QvK7TVmJMBJbQUQqVNtpump": 1793068745.9752436
  },
  "stats": {
-  "scans": 25151,
-  "candidates_seen": 2083314,
+  "scans": 25166,
+  "candidates_seen": 2084600,
   "rejections": {
-   "dex": 833819,
-   "liq_low": 524875,
-   "odd_quote": 221863,
-   "too_old": 296485,
-   "too_new": 13452,
-   "rug_danger": 13345,
+   "dex": 834311,
+   "liq_low": 525211,
+   "odd_quote": 222071,
+   "too_old": 296695,
+   "too_new": 13458,
+   "rug_danger": 13360,
    "fdv_liq_thin": 9959,
    "fdv_low": 1418,
    "titan_daily_loss_stop": 12912,
    "lp_unlocked": 26957,
-   "liq_high": 8030,
+   "liq_high": 8045,
    "titan_max_positions": 39,
    "no_price": 21,
    "rugcheck_unavailable": 6294
