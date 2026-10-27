@@ -1,0 +1,11 @@
+2026-10-27 00:00:44Z [desk] BUY STONK $6.27 @ 0.0001644 score=74.2 liq=$32,667
+2026-10-27 00:00:44Z [control] BUY ███WIF $6.27 @ 0.0003996 score=53.1 liq=$52,440
+2026-10-27 00:00:44Z [desk] BUY REMUS $6.19 @ 0.001816 score=73.6 liq=$133,107
+2026-10-27 00:00:44Z [control] BUY RAYPAD $6.19 @ 0.0001588 score=37.4 liq=$38,908
+2026-10-27 00:03:46Z [desk] BUY CATTLEAXE $5.55 @ 0.000283 score=66.2 liq=$52,798
+2026-10-27 00:03:46Z [control] BUY LMAO $5.55 @ 0.001353 score=65.4 liq=$101,284
+2026-10-27 00:03:46Z [desk] BUY LMAO $5.46 @ 0.001353 score=65.4 liq=$101,284
+2026-10-27 00:06:02Z [control] PARTIAL ███WIF take_profit_1 sold 50% for $4.23
+2026-10-27 00:07:49Z [desk] BUY CHICO $5.91 @ 0.0007121 score=71.5 liq=$69,862
+2026-10-27 00:10:05Z [desk] PARTIAL CHICO take_profit_1 sold 50% for $3.61
+2026-10-27 00:10:35Z [control] EXIT ███WIF trailing_stop pnl=$+2.47 (+39.3%)
