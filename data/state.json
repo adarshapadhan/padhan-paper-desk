@@ -3,54 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 120.29692271081376,
-   "positions": {
-    "3734SDUqg5nV3DmrK7ZZ1QvK7TVmJMBJbQUQqVNtpump": {
-     "symbol": "SOLVET",
-     "pair": "7BnDfu2QLJo6nFvPiGdGVGoVEEJdRrYgAxD4N7qyA945",
-     "url": "https://dexscreener.com/solana/7bndfu2qljo6nfvpigdgvgoveejdrrygaxd4n7qya945",
-     "opened": 1793068745.9752436,
-     "qty": 56727.03660357259,
-     "qty0": 56727.03660357259,
-     "cost": 6.15,
-     "entry_price": 0.0001018,
-     "fill_price": 0.00010286761567997185,
-     "peak": 0.0001099,
-     "entry_liq": 25224.48,
-     "last_price": 0.0001099,
-     "last_liq": 26262.93,
-     "score": 79.1,
-     "detail": {
-      "atlas": 100,
-      "vega": 75,
-      "orion": 100,
-      "luna": 27,
-      "buy_ratio": 1.0,
-      "tx_m5": 9,
-      "vol_accel": 9.61,
-      "socials": [
-       "telegram",
-       "twitter"
-      ],
-      "boosted": true,
-      "trending": false,
-      "m5": 12.49,
-      "h1": 14.88,
-      "liq": 25224,
-      "fdv": 98188,
-      "turnover_h1": 0.03
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793082614.7713962
-    }
-   },
-   "realized": -873.5530772891854,
+   "cash": 127.23087627026767,
+   "positions": {},
+   "realized": -872.7691237297314,
    "fees_est": 0.0,
    "day": "2026-10-27",
    "day_start_equity": 138.52216959287804,
    "halted_day": "2026-10-27",
-   "trades": 337,
+   "trades": 338,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.8763893944528681
   },
@@ -68,10 +28,10 @@
      "cost": 5.23,
      "entry_price": 9.829e-05,
      "fill_price": 9.93135651016812e-05,
-     "peak": 0.0001144,
+     "peak": 0.00012,
      "entry_liq": 25271.99,
-     "last_price": 0.0001092,
-     "last_liq": 26746.26,
+     "last_price": 0.0001163,
+     "last_liq": 27665.56,
      "score": 57.9,
      "detail": {
       "atlas": 76,
@@ -94,7 +54,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793082614.7713962
+     "last_seen": 1793083526.1091697
     }
    },
    "realized": -461.2531511587669,
@@ -140,20 +100,20 @@
   "E6exteuDy1u6u3FfQV7SvPyU4XPdcBGi4cBnqrusocat": 1793076564.691365
  },
  "stats": {
-  "scans": 25391,
-  "candidates_seen": 2103999,
+  "scans": 25406,
+  "candidates_seen": 2105241,
   "rejections": {
-   "dex": 842139,
-   "liq_low": 529308,
-   "odd_quote": 225863,
-   "too_old": 299511,
-   "too_new": 13560,
-   "rug_danger": 13727,
+   "dex": 842596,
+   "liq_low": 529582,
+   "odd_quote": 226108,
+   "too_old": 299700,
+   "too_new": 13562,
+   "rug_danger": 13742,
    "fdv_liq_thin": 9959,
    "fdv_low": 1418,
-   "titan_daily_loss_stop": 12940,
+   "titan_daily_loss_stop": 12946,
    "lp_unlocked": 26957,
-   "liq_high": 8270,
+   "liq_high": 8285,
    "titan_max_positions": 39,
    "no_price": 21,
    "rugcheck_unavailable": 6294
