@@ -1,4 +1,11 @@
-2026-10-28 00:52:18Z [desk] EXIT FRONGUS stop_loss pnl=$-2.20 (-40.7%)
-2026-10-28 00:52:18Z [control] EXIT FRONGUS stop_loss pnl=$-2.25 (-40.4%)
-2026-10-28 00:55:52Z [desk] BUY CATUS $5.60 @ 0.0002223 score=75.7 liq=$39,168
-2026-10-28 00:55:52Z [control] BUY SI $5.60 @ 0.0007353 score=58.5 liq=$76,963
+2026-10-28 00:57:12Z [desk] EXIT Frongus stop_loss pnl=$-2.29 (-35.9%)
+2026-10-28 00:57:12Z [control] EXIT DICTATOR stop_loss pnl=$-2.00 (-39.2%)
+2026-10-28 00:57:43Z [desk] BUY Nothing $5.74 @ 0.001628 score=79.1 liq=$134,417
+2026-10-28 00:57:43Z [control] BUY C@T $5.74 @ 0.0001395 score=59.2 liq=$30,613
+2026-10-28 01:04:36Z [desk] PARTIAL MOONX take_profit_1 sold 50% for $3.10
+2026-10-28 01:04:36Z [control] PARTIAL MOONX take_profit_1 sold 50% for $3.87
+2026-10-28 01:05:07Z [desk] EXIT MOONX trailing_stop pnl=$-0.01 (-0.2%)
+2026-10-28 01:05:07Z [control] EXIT MOONX trailing_stop pnl=$+0.19 (+3.1%)
+2026-10-28 01:05:54Z [desk] BUY ███ $5.08 @ 0.0007194 score=69.1 liq=$88,225
+2026-10-28 01:05:54Z [control] BUY NETWORK $5.08 @ 0.0001006 score=52.2 liq=$25,900
+2026-10-28 01:08:42Z [control] EXIT C@T liquidity_pulled pnl=$-5.74 (-100.0%)
