@@ -1,0 +1,4 @@
+2026-10-28 00:52:18Z [desk] EXIT FRONGUS stop_loss pnl=$-2.20 (-40.7%)
+2026-10-28 00:52:18Z [control] EXIT FRONGUS stop_loss pnl=$-2.25 (-40.4%)
+2026-10-28 00:55:52Z [desk] BUY CATUS $5.60 @ 0.0002223 score=75.7 liq=$39,168
+2026-10-28 00:55:52Z [control] BUY SI $5.60 @ 0.0007353 score=58.5 liq=$76,963
