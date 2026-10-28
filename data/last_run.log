@@ -1,11 +1,6 @@
-2026-10-28 00:00:11Z [desk] BUY Frongus $6.39 @ 0.0003241 score=82.9 liq=$56,267
-2026-10-28 00:00:11Z [control] BUY SOUL $6.39 @ 9.06e-05 score=22.0 liq=$34,053
-2026-10-28 00:00:11Z [desk] BUY CHICO $6.18 @ 0.006214 score=80.5 liq=$223,948
-2026-10-28 00:00:11Z [control] BUY MOONX $6.18 @ 0.00021 score=66.8 liq=$37,292
-2026-10-28 00:00:11Z [desk] BUY REMUS $5.56 @ 0.001472 score=72.4 liq=$122,361
-2026-10-28 00:00:11Z [control] BUY FRONGUS $5.56 @ 0.000285 score=70.6 liq=$46,850
-2026-10-28 00:00:11Z [desk] BUY FRONGUS $5.40 @ 0.000285 score=70.6 liq=$46,850
-2026-10-28 00:00:11Z [control] BUY MOTHADO $5.40 @ 0.0003503 score=66.1 liq=$50,232
-2026-10-28 00:00:11Z [desk] BUY MOONX $5.10 @ 0.00021 score=66.8 liq=$37,292
-2026-10-28 00:00:11Z [control] BUY DICTATOR $5.10 @ 0.0001506 score=53.0 liq=$33,590
-2026-10-28 00:00:11Z [desk] BUY MOTHADO $5.02 @ 0.0003503 score=66.1 liq=$50,232
+2026-10-28 00:15:20Z [desk] PARTIAL MOTHADO take_profit_1 sold 50% for $2.99
+2026-10-28 00:15:20Z [control] PARTIAL MOTHADO take_profit_1 sold 50% for $3.26
+2026-10-28 00:21:59Z [desk] EXIT MOTHADO trailing_stop pnl=$+0.29 (+5.7%)
+2026-10-28 00:21:59Z [control] EXIT MOTHADO trailing_stop pnl=$+0.38 (+7.1%)
+2026-10-28 00:22:30Z [desk] BUY JOB $5.46 @ 0.001793 score=72.7 liq=$113,713
+2026-10-28 00:22:30Z [control] BUY N64 $5.46 @ 0.000114 score=41.4 liq=$27,960
