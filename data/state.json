@@ -3,16 +3,16 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 115.5802304729204,
+   "cash": 113.51468623222392,
    "positions": {},
-   "realized": -884.4197695270789,
+   "realized": -886.4853137677753,
    "fees_est": 0.0,
    "day": "2026-10-28",
    "day_start_equity": 127.23087627026767,
-   "halted_day": "2026-10-27",
-   "trades": 356,
+   "halted_day": "2026-10-28",
+   "trades": 357,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.8849523140605561
+   "max_dd": 0.8865365319551637
   },
   "control": {
    "name": "control",
@@ -28,10 +28,10 @@
      "cost": 5.26,
      "entry_price": 0.0004367,
      "fill_price": 0.00044114103930361135,
-     "peak": 0.0004876,
+     "peak": 0.0005411,
      "entry_liq": 62038.74,
-     "last_price": 0.0004376,
-     "last_liq": 62399.49,
+     "last_price": 0.0005411,
+     "last_liq": 69488.0,
      "score": 34.3,
      "detail": {
       "atlas": 32,
@@ -54,7 +54,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793182614.3429785
+     "last_seen": 1793183523.510219
     }
    },
    "realized": -483.6345229647424,
@@ -110,23 +110,24 @@
   "MzUxrgP4k6huTD415pA9bKzBA8BvCgyu15TfbEnpump": 1793173956.482826,
   "7K6GMuD2muHoSLuaCFNMY3FNzQuerrWuRerncQ8epump": 1793173956.482826,
   "5LMyiFBjSRVdMYngdAEiGWzEZMTDMUftpZ5J2Erdpump": 1793174684.762794,
-  "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793174684.762794
+  "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793174684.762794,
+  "4Kgx3bNBfdA8DgPGSfAd1tTSEc9x6Qd3bTeTtoyQpump": 1793182751.9022737
  },
  "stats": {
-  "scans": 27040,
-  "candidates_seen": 2239614,
+  "scans": 27055,
+  "candidates_seen": 2240507,
   "rejections": {
-   "dex": 893727,
-   "liq_low": 564647,
-   "odd_quote": 241640,
-   "too_old": 317491,
+   "dex": 894161,
+   "liq_low": 564892,
+   "odd_quote": 241716,
+   "too_old": 317611,
    "too_new": 14439,
    "rug_danger": 14373,
    "fdv_liq_thin": 10813,
    "fdv_low": 1418,
    "titan_daily_loss_stop": 13713,
    "lp_unlocked": 27958,
-   "liq_high": 9866,
+   "liq_high": 9881,
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 6294,
