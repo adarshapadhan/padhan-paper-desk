@@ -1,3 +1,1 @@
-2026-10-28 01:17:54Z [desk] PARTIAL CATUS take_profit_1 sold 50% for $3.49
-2026-10-28 01:24:28Z [desk] EXIT CATUS trailing_stop pnl=$+1.52 (+27.1%)
-2026-10-28 01:24:30Z [desk] BUY Something $5.25 @ 0.001478 score=71.3 liq=$105,621
+2026-10-28 01:38:34Z [desk] EXIT Nothing stop_loss pnl=$-2.21 (-38.5%)
