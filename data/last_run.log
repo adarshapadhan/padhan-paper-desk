@@ -1,6 +1,0 @@
-2026-10-28 00:15:20Z [desk] PARTIAL MOTHADO take_profit_1 sold 50% for $2.99
-2026-10-28 00:15:20Z [control] PARTIAL MOTHADO take_profit_1 sold 50% for $3.26
-2026-10-28 00:21:59Z [desk] EXIT MOTHADO trailing_stop pnl=$+0.29 (+5.7%)
-2026-10-28 00:21:59Z [control] EXIT MOTHADO trailing_stop pnl=$+0.38 (+7.1%)
-2026-10-28 00:22:30Z [desk] BUY JOB $5.46 @ 0.001793 score=72.7 liq=$113,713
-2026-10-28 00:22:30Z [control] BUY N64 $5.46 @ 0.000114 score=41.4 liq=$27,960
