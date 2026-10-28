@@ -3,7 +3,7 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 110.35769245204116,
+   "cash": 113.53156525198273,
    "positions": {
     "FuK9BkA4jXTBzj8HQRQT4538gy1BJzPYy9qwiHs2pump": {
      "symbol": "ENVAR",
@@ -17,8 +17,8 @@
      "fill_price": 0.00017568945686984423,
      "peak": 0.0001739,
      "entry_liq": 34937.45,
-     "last_price": 0.0001323,
-     "last_liq": 30251.45,
+     "last_price": 0.0001398,
+     "last_liq": 31158.67,
      "score": 67.5,
      "detail": {
       "atlas": 77,
@@ -43,55 +43,17 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793170777.226082
-    },
-    "835qApBwFrEAVkEoUW6D57oW8n2mW2btvfGKib8qV7XY": {
-     "symbol": "IMAGINE",
-     "pair": "DcQMYp95ryrbR4y5HBUjyYSTSa9F3dBqpouUfDVq6vAU",
-     "url": "https://dexscreener.com/solana/dcqmyp95ryrbr4y5hbujyystsa9f3dbqpouufdvq6vau",
-     "opened": 1793170429.0567243,
-     "qty": 31332.409158771294,
-     "qty0": 31332.409158771294,
-     "cost": 5.13,
-     "entry_price": 0.0001522,
-     "fill_price": 0.000153768099209545,
-     "peak": 0.0001868,
-     "entry_liq": 33863.9,
-     "last_price": 0.0001526,
-     "last_liq": 33266.9,
-     "score": 70.6,
-     "detail": {
-      "atlas": 100,
-      "vega": 40,
-      "orion": 80,
-      "luna": 53,
-      "buy_ratio": 0.6,
-      "tx_m5": 663,
-      "vol_accel": 1.85,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": false,
-      "m5": 8.72,
-      "h1": 264.0,
-      "liq": 33864,
-      "fdv": 152211,
-      "turnover_h1": 3.71
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793170777.226082
+     "last_seen": 1793171689.8724318
     }
    },
-   "realized": -879.4423075479581,
+   "realized": -881.3984347480165,
    "fees_est": 0.0,
    "day": "2026-10-28",
    "day_start_equity": 127.23087627026767,
    "halted_day": "2026-10-27",
-   "trades": 352,
+   "trades": 353,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.8830898167100291
+   "max_dd": 0.8832115245129731
   },
   "control": {
    "name": "control",
@@ -109,8 +71,8 @@
      "fill_price": 0.00033711858004782755,
      "peak": 0.0003753,
      "entry_liq": 48173.85,
-     "last_price": 0.000341,
-     "last_liq": 48725.68,
+     "last_price": 0.0003516,
+     "last_liq": 49520.37,
      "score": 41.9,
      "detail": {
       "atlas": 25,
@@ -133,7 +95,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793170777.226082
+     "last_seen": 1793171689.8724318
     }
    },
    "realized": -480.32886769461857,
@@ -188,20 +150,20 @@
   "HeUaWCK8s7A7FT7UU3uSrXKe8LcsqtTDUX7JC5Gvpump": 1793170429.0567243
  },
  "stats": {
-  "scans": 26845,
-  "candidates_seen": 2227347,
+  "scans": 26860,
+  "candidates_seen": 2228369,
   "rejections": {
-   "dex": 888375,
-   "liq_low": 561055,
-   "odd_quote": 240274,
-   "too_old": 316037,
-   "too_new": 14308,
+   "dex": 888773,
+   "liq_low": 561428,
+   "odd_quote": 240391,
+   "too_old": 316145,
+   "too_new": 14319,
    "rug_danger": 14373,
    "fdv_liq_thin": 10813,
    "fdv_low": 1418,
    "titan_daily_loss_stop": 13713,
    "lp_unlocked": 27946,
-   "liq_high": 9671,
+   "liq_high": 9686,
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 6294,
