@@ -1,1 +1,3 @@
-2026-10-28 07:45:15Z [desk] EXIT ENVAR stop_loss pnl=$-1.90 (-37.6%)
+2026-10-28 07:52:37Z [desk] BUY OpenBot $5.04 @ 0.0001611 score=70.6 liq=$33,870
+2026-10-28 07:52:37Z [control] BUY SI $5.04 @ 0.0002892 score=47.2 liq=$46,596
+2026-10-28 07:56:54Z [control] EXIT SI stop_loss pnl=$-2.76 (-54.7%)
