@@ -1,2 +1,4 @@
-2026-10-28 04:28:44Z [desk] PARTIAL Rapport take_profit_1 sold 50% for $3.41
-2026-10-28 04:39:27Z [desk] EXIT Rapport trailing_stop pnl=$+2.33 (+42.3%)
+2026-10-28 04:43:19Z [desk] EXIT Something stop_loss pnl=$-1.93 (-36.9%)
+2026-10-28 04:48:27Z [desk] BUY STFD $5.89 @ 0.0003843 score=79.9 liq=$52,251
+2026-10-28 04:48:27Z [control] BUY ETH $5.89 @ 0.0003337 score=41.9 liq=$48,174
+2026-10-28 04:49:59Z [desk] EXIT STFD stop_loss pnl=$-2.44 (-41.4%)
