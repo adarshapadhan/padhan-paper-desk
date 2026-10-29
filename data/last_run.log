@@ -1,2 +1,2 @@
-2026-10-29 00:57:21Z [desk] EXIT DUBBLE stop_loss pnl=$-2.14 (-37.5%)
-2026-10-29 01:07:43Z [desk] EXIT Nothing stop_loss pnl=$-1.93 (-37.0%)
+2026-10-29 01:20:39Z [control] EXIT FLOAT trailing_stop pnl=$+2.24 (+37.1%)
+2026-10-29 01:21:25Z [desk] DAILY LOSS STOP hit — no new entries until next UTC day
