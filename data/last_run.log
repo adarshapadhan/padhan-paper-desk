@@ -1,4 +1,2 @@
-2026-10-29 00:45:10Z [control] PARTIAL BIO take_profit_1 sold 50% for $4.00
-2026-10-29 00:47:42Z [control] EXIT BIO trailing_stop pnl=$+1.09 (+19.8%)
-2026-10-29 00:48:43Z [control] PARTIAL FLOAT take_profit_1 sold 50% for $4.38
-2026-10-29 00:55:48Z [control] EXIT jeff trailing_stop pnl=$+0.87 (+15.3%)
+2026-10-29 00:57:21Z [desk] EXIT DUBBLE stop_loss pnl=$-2.14 (-37.5%)
+2026-10-29 01:07:43Z [desk] EXIT Nothing stop_loss pnl=$-1.93 (-37.0%)
