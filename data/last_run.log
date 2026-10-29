@@ -1,9 +1,2 @@
-2026-10-29 00:00:01Z [desk] BUY CATBOT $6.03 @ 0.002629 score=87.9 liq=$143,707
-2026-10-29 00:00:01Z [control] BUY FLOAT $6.03 @ 0.001307 score=60.0 liq=$245,524
-2026-10-29 00:01:02Z [desk] BUY DUBBLE $5.71 @ 0.003459 score=83.5 liq=$175,197
-2026-10-29 00:01:02Z [control] BUY jeff $5.71 @ 0.001278 score=60.9 liq=$83,512
-2026-10-29 00:04:05Z [desk] BUY Rapport $5.88 @ 0.000122 score=87.0 liq=$32,739
-2026-10-29 00:04:05Z [control] BUY NETWORK $5.88 @ 0.0001 score=48.5 liq=$26,150
-2026-10-29 00:04:50Z [desk] EXIT Rapport stop_loss pnl=$-3.23 (-54.9%)
-2026-10-29 00:08:08Z [desk] BUY Nothing $5.22 @ 0.0001353 score=79.3 liq=$39,089
-2026-10-29 00:08:08Z [control] BUY MOONX $5.22 @ 0.0001338 score=46.1 liq=$30,194
+2026-10-29 00:16:16Z [desk] BUY REMUS $5.17 @ 0.0007181 score=79.2 liq=$87,170
+2026-10-29 00:16:16Z [control] BUY INVERSE $5.17 @ 0.0012 score=40.1 liq=$106,647
