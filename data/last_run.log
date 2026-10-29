@@ -1,3 +1,1 @@
-2026-10-29 04:00:07Z [desk] EXIT CATBOT time_exit pnl=$-0.80 (-13.3%)
-2026-10-29 04:08:14Z [control] EXIT MOONX time_exit pnl=$-1.36 (-26.1%)
-2026-10-29 04:08:29Z net-err TimeoutError https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+2026-10-29 04:16:29Z [control] EXIT INVERSE time_exit pnl=$-1.07 (-20.7%)
