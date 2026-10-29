@@ -1,4 +1,4 @@
-2026-10-29 00:36:33Z [desk] BUY JOB $5.49 @ 0.002853 score=86.3 liq=$145,964
-2026-10-29 00:36:33Z [control] BUY BIO $5.49 @ 0.000102 score=60.4 liq=$27,724
-2026-10-29 00:40:05Z [desk] EXIT REMUS stop_loss pnl=$-2.15 (-41.6%)
-2026-10-29 00:40:51Z [control] PARTIAL jeff take_profit_1 sold 50% for $3.53
+2026-10-29 00:45:10Z [control] PARTIAL BIO take_profit_1 sold 50% for $4.00
+2026-10-29 00:47:42Z [control] EXIT BIO trailing_stop pnl=$+1.09 (+19.8%)
+2026-10-29 00:48:43Z [control] PARTIAL FLOAT take_profit_1 sold 50% for $4.38
+2026-10-29 00:55:48Z [control] EXIT jeff trailing_stop pnl=$+0.87 (+15.3%)
