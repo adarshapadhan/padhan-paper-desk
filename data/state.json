@@ -17,8 +17,8 @@
      "fill_price": 0.002655510609505379,
      "peak": 0.002953,
      "entry_liq": 143706.77,
-     "last_price": 0.002181,
-     "last_liq": 129661.5,
+     "last_price": 0.002235,
+     "last_liq": 131510.16,
      "score": 87.9,
      "detail": {
       "atlas": 100,
@@ -42,7 +42,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793239955.259345
+     "last_seen": 1793240867.0409205
     },
     "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
      "symbol": "JOB",
@@ -56,8 +56,8 @@
      "fill_price": 0.0028817445983319308,
      "peak": 0.00291,
      "entry_liq": 145963.78,
-     "last_price": 0.002768,
-     "last_liq": 142381.35,
+     "last_price": 0.002848,
+     "last_liq": 144733.92,
      "score": 86.3,
      "detail": {
       "atlas": 100,
@@ -81,7 +81,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793239955.259345
+     "last_seen": 1793240867.0409205
     }
    },
    "realized": -895.9423104958373,
@@ -109,8 +109,8 @@
      "fill_price": 0.00013518424779168908,
      "peak": 0.0001373,
      "entry_liq": 30193.64,
-     "last_price": 0.0001196,
-     "last_liq": 28088.67,
+     "last_price": 0.0001039,
+     "last_liq": 26096.27,
      "score": 46.1,
      "detail": {
       "atlas": 43,
@@ -133,7 +133,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793239955.259345
+     "last_seen": 1793240867.0409205
     },
     "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": {
      "symbol": "INVERSE",
@@ -147,8 +147,8 @@
      "fill_price": 0.0012121163354774638,
      "peak": 0.001206,
      "entry_liq": 106646.72,
-     "last_price": 0.001057,
-     "last_liq": 98814.51,
+     "last_price": 0.00105,
+     "last_liq": 98635.41,
      "score": 40.1,
      "detail": {
       "atlas": 45,
@@ -171,7 +171,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793239955.259345
+     "last_seen": 1793240867.0409205
     }
    },
    "realized": -479.46895747188296,
@@ -227,20 +227,20 @@
   "7AxJJTaJumkDRCJNz4n8ixobaPjrmL6GmxexuJKDpump": 1793234192.6681018
  },
  "stats": {
-  "scans": 27985,
-  "candidates_seen": 2315017,
+  "scans": 28000,
+  "candidates_seen": 2316148,
   "rejections": {
-   "dex": 922657,
-   "liq_low": 581627,
-   "odd_quote": 251485,
-   "too_old": 325580,
-   "too_new": 14900,
+   "dex": 923107,
+   "liq_low": 581967,
+   "odd_quote": 251618,
+   "too_old": 325740,
+   "too_new": 14903,
    "rug_danger": 14752,
    "fdv_liq_thin": 10813,
    "fdv_low": 1418,
-   "titan_daily_loss_stop": 14404,
+   "titan_daily_loss_stop": 14416,
    "lp_unlocked": 28488,
-   "liq_high": 10818,
+   "liq_high": 10833,
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 6294,
