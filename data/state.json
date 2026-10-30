@@ -15,10 +15,10 @@
      "cost": 5.01,
      "entry_price": 0.0001054,
      "fill_price": 0.00010649564012183223,
-     "peak": 0.0001067,
+     "peak": 0.0001367,
      "entry_liq": 25352.73,
-     "last_price": 0.000103,
-     "last_liq": 25127.83,
+     "last_price": 8.076e-05,
+     "last_liq": 22222.79,
      "score": 84.0,
      "detail": {
       "atlas": 100,
@@ -42,7 +42,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793376578.0929163
+     "last_seen": 1793377489.9189253
     }
    },
    "realized": -901.3933316457124,
@@ -52,7 +52,7 @@
    "halted_day": "2026-10-29",
    "trades": 367,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.903186663078702
+   "max_dd": 0.9032297440445692
   },
   "control": {
    "name": "control",
@@ -68,10 +68,10 @@
      "cost": 5.01,
      "entry_price": 0.0003123,
      "fill_price": 0.0003154803957159273,
-     "peak": 0.000313,
+     "peak": 0.0003146,
      "entry_liq": 54510.53,
-     "last_price": 0.0002796,
-     "last_liq": 51709.36,
+     "last_price": 0.0003146,
+     "last_liq": 55051.93,
      "score": 25.4,
      "detail": {
       "atlas": 0,
@@ -95,7 +95,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793376578.0929163
+     "last_seen": 1793377489.9189253
     }
    },
    "realized": -484.2184377402864,
@@ -131,24 +131,24 @@
   "2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1": 1793374839.1827805
  },
  "stats": {
-  "scans": 30220,
-  "candidates_seen": 2499174,
+  "scans": 30235,
+  "candidates_seen": 2500275,
   "rejections": {
-   "dex": 990752,
-   "liq_low": 630237,
-   "odd_quote": 270912,
-   "too_old": 350139,
-   "too_new": 16025,
+   "dex": 991154,
+   "liq_low": 630470,
+   "odd_quote": 271072,
+   "too_old": 350318,
+   "too_new": 16034,
    "rug_danger": 14991,
-   "fdv_liq_thin": 10917,
+   "fdv_liq_thin": 10918,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
-   "lp_unlocked": 30012,
+   "lp_unlocked": 30042,
    "liq_high": 12954,
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 6294,
-   "titan_too_small": 516
+   "titan_too_small": 529
   }
  },
  "last_prices": {}
