@@ -28,10 +28,10 @@
      "cost": 5.09,
      "entry_price": 0.000167,
      "fill_price": 0.00016871149659764315,
-     "peak": 0.0001724,
+     "peak": 0.0001856,
      "entry_liq": 40958.48,
-     "last_price": 0.0001693,
-     "last_liq": 40023.86,
+     "last_price": 0.0001847,
+     "last_liq": 41843.46,
      "score": 48.3,
      "detail": {
       "atlas": 40,
@@ -55,7 +55,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793321835.647128
+     "last_seen": 1793322751.2824914
     }
    },
    "realized": -481.90093216053333,
@@ -71,12 +71,10 @@
  "cooldown": {
   "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": 1793232975.9086063,
   "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump": 1793232244.7644763,
-  "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": 1793149553.0252223,
   "DMnMwUvo1a9HbSnixbdNaTsoHczJ8cdamUWVRM1Qpump": 1793152327.964415,
   "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": 1793232487.310265,
   "28vWTtEwxoWp5MpHutAMSK5DeVf8xXk8jEEtbrtppump": 1793232487.310265,
   "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": 1793234192.6681018,
-  "4vyJ8NujPevAPrB34otEBbP8Z7oHLPrZfEhgrW94pump": 1793149062.9271054,
   "AZdhikmyj6ibsejv7EjML9SfNmuiMvwDrKXTEU2zpump": 1793150668.7593555,
   "FuK9BkA4jXTBzj8HQRQT4538gy1BJzPYy9qwiHs2pump": 1793160059.067665,
   "BpRPVFVhGN5Pf1HpXpqYuESGwAj52ETreJbmkpLFpump": 1793160059.067665,
@@ -99,24 +97,24 @@
   "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun": 1793318450.7079868
  },
  "stats": {
-  "scans": 29335,
-  "candidates_seen": 2424110,
+  "scans": 29350,
+  "candidates_seen": 2425369,
   "rejections": {
-   "dex": 960839,
-   "liq_low": 610843,
-   "odd_quote": 262783,
-   "too_old": 339958,
-   "too_new": 15589,
+   "dex": 961315,
+   "liq_low": 611213,
+   "odd_quote": 262888,
+   "too_old": 340093,
+   "too_new": 15596,
    "rug_danger": 14889,
    "fdv_liq_thin": 10907,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 29499,
-   "liq_high": 12181,
+   "liq_high": 12196,
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 6294,
-   "titan_too_small": 72
+   "titan_too_small": 81
   }
  },
  "last_prices": {}
