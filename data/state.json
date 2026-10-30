@@ -3,54 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 95.01000527675126,
-   "positions": {
-    "3ApVr1xphYMpi9dn3rpqU4hwvpmCQDVwxET1rdCDpump": {
-     "symbol": "HYPERCHAN",
-     "pair": "5mxPpt9pFtDyK624QQ5Lxbw1HfGr4YCqeaFUdKMtKyVY",
-     "url": "https://dexscreener.com/solana/5mxppt9pftdyk624qq5lxbw1hfgr4ycqeafudkmtkyvy",
-     "opened": 1793380909.3608418,
-     "qty": 1545.4736513273492,
-     "qty0": 3090.9473026546984,
-     "cost": 5.02,
-     "entry_price": 0.001508,
-     "fill_price": 0.0015232223454461045,
-     "peak": 0.002472,
-     "entry_liq": 106353.18,
-     "last_price": 0.002427,
-     "last_liq": 135923.6,
-     "score": 85.9,
-     "detail": {
-      "atlas": 100,
-      "vega": 100,
-      "orion": 80,
-      "luna": 54,
-      "buy_ratio": 0.55,
-      "tx_m5": 1195,
-      "vol_accel": 0.88,
-      "socials": [
-       "telegram",
-       "twitter"
-      ],
-      "boosted": true,
-      "trending": true,
-      "m5": 5.33,
-      "h1": 5.62,
-      "liq": 106353,
-      "fdv": 1501561,
-      "turnover_h1": 0.61
-     },
-     "tp1_done": true,
-     "proceeds": 3.3123018483645015,
-     "last_seen": 1793387487.4966278
-    }
-   },
-   "realized": -903.2822965716123,
+   "cash": 97.69814340813853,
+   "positions": {},
+   "realized": -902.3018565918605,
    "fees_est": 0.0,
    "day": "2026-10-30",
    "day_start_equity": 102.36399677476841,
    "halted_day": "2026-10-29",
-   "trades": 368,
+   "trades": 369,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.9048117770446364
   },
@@ -70,8 +30,8 @@
      "fill_price": 0.0003154803957159273,
      "peak": 0.0003367,
      "entry_liq": 54510.53,
-     "last_price": 0.0003117,
-     "last_liq": 54334.4,
+     "last_price": 0.0003088,
+     "last_liq": 54123.68,
      "score": 25.4,
      "detail": {
       "atlas": 0,
@@ -95,7 +55,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793387487.4966278
+     "last_seen": 1793388390.5793676
     }
    },
    "realized": -486.15224119426756,
@@ -132,24 +92,24 @@
   "5izHfawy4Rg1Vjm27F3ieHzmkEtWWyVNenhFFDPvpump": 1793380909.3608418
  },
  "stats": {
-  "scans": 30400,
-  "candidates_seen": 2513373,
+  "scans": 30415,
+  "candidates_seen": 2514694,
   "rejections": {
-   "dex": 996576,
-   "liq_low": 633452,
-   "odd_quote": 272763,
-   "too_old": 352314,
-   "too_new": 16105,
+   "dex": 997106,
+   "liq_low": 633813,
+   "odd_quote": 272927,
+   "too_old": 352483,
+   "too_new": 16113,
    "rug_danger": 14991,
-   "fdv_liq_thin": 10923,
+   "fdv_liq_thin": 10934,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
-   "lp_unlocked": 30143,
-   "liq_high": 12994,
+   "lp_unlocked": 30167,
+   "liq_high": 13009,
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 6294,
-   "titan_too_small": 644
+   "titan_too_small": 646
   }
  },
  "last_prices": {}
