@@ -3,47 +3,8 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 92.63891647316635,
+   "cash": 95.48716045417537,
    "positions": {
-    "3ApVr1xphYMpi9dn3rpqU4hwvpmCQDVwxET1rdCDpump": {
-     "symbol": "HYPERCHAN",
-     "pair": "5mxPpt9pFtDyK624QQ5Lxbw1HfGr4YCqeaFUdKMtKyVY",
-     "url": "https://dexscreener.com/solana/5mxppt9pftdyk624qq5lxbw1hfgr4ycqeafudkmtkyvy",
-     "opened": 1793335856.682304,
-     "qty": 1685.0885161013798,
-     "qty0": 3370.1770322027596,
-     "cost": 5.17,
-     "entry_price": 0.001427,
-     "fill_price": 0.0014414153777627843,
-     "peak": 0.002147,
-     "entry_liq": 101485.1,
-     "last_price": 0.001931,
-     "last_liq": 119906.52,
-     "score": 85.2,
-     "detail": {
-      "atlas": 100,
-      "vega": 75,
-      "orion": 95,
-      "luna": 63,
-      "buy_ratio": 0.24,
-      "tx_m5": 969,
-      "vol_accel": 0.12,
-      "socials": [
-       "telegram",
-       "twitter"
-      ],
-      "boosted": true,
-      "trending": false,
-      "m5": 7.39,
-      "h1": 143.0,
-      "liq": 101485,
-      "fdv": 1420758,
-      "turnover_h1": 6.68
-     },
-     "tp1_done": true,
-     "proceeds": 3.142758975292675,
-     "last_seen": 1793350123.8747044
-    },
     "ANVLA6eKiAq4nstD2Sg3SZhfVkSEwfnGccn12UQWpump": {
      "symbol": "HEXN",
      "pair": "BQJzersGUgNhav8C1m3VC4WA6MgQBAE8T2W7EpTSDKW4",
@@ -56,8 +17,8 @@
      "fill_price": 0.0005600246229127995,
      "peak": 0.0007058,
      "entry_liq": 68892.08,
-     "last_price": 0.000515,
-     "last_liq": 66670.57,
+     "last_price": 0.0005889,
+     "last_liq": 71607.52,
      "score": 81.9,
      "detail": {
       "atlas": 100,
@@ -80,67 +41,28 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793350123.8747044
+     "last_seen": 1793351026.7212284
     }
    },
-   "realized": -900.3238425021254,
+   "realized": -899.5028395458237,
    "fees_est": 0.0,
    "day": "2026-10-30",
    "day_start_equity": 102.36399677476841,
    "halted_day": "2026-10-29",
-   "trades": 365,
+   "trades": 366,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.9008588545465963
   },
   "control": {
    "name": "control",
-   "cash": 511.2111823986621,
-   "positions": {
-    "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump": {
-     "symbol": "PODCAT",
-     "pair": "4zyGG3NZ4td2dxSPoeY2rqfiU5MDbFeeSVeVR2KR1PwP",
-     "url": "https://dexscreener.com/solana/4zygg3nz4td2dxspoey2rqfiu5mdbfeesvevr2kr1pwp",
-     "opened": 1793335856.682304,
-     "qty": 43276.8041150827,
-     "qty0": 43276.8041150827,
-     "cost": 5.17,
-     "entry_price": 0.0001111,
-     "fill_price": 0.00011225008637610942,
-     "peak": 0.0001331,
-     "entry_liq": 29380.31,
-     "last_price": 0.0001101,
-     "last_liq": 29237.0,
-     "score": 43.0,
-     "detail": {
-      "atlas": 53,
-      "vega": 65,
-      "orion": 13,
-      "luna": 38,
-      "buy_ratio": 0.67,
-      "tx_m5": 24,
-      "vol_accel": 1.05,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": 1.78,
-      "h1": -19.75,
-      "liq": 29380,
-      "fdv": 106846,
-      "turnover_h1": 0.4
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793350123.8747044
-    }
-   },
-   "realized": -483.61881760133707,
+   "cash": 515.7815622597128,
+   "positions": {},
+   "realized": -484.2184377402864,
    "fees_est": 0.0,
    "day": "2026-10-30",
    "day_start_equity": 518.0990678394658,
    "halted_day": "",
-   "trades": 202,
+   "trades": 203,
    "peak_equity": 1005.3866010289258,
    "max_dd": 0.49140984403976584
   }
@@ -168,24 +90,24 @@
   "J3ReuwckNtcJP1Zhn7wVbfXhTDNTkHxozQWWAwxWpump": 1793342607.4665034
  },
  "stats": {
-  "scans": 29785,
-  "candidates_seen": 2463746,
+  "scans": 29800,
+  "candidates_seen": 2465087,
   "rejections": {
-   "dex": 976639,
-   "liq_low": 621644,
-   "odd_quote": 266826,
-   "too_old": 344672,
-   "too_new": 15809,
-   "rug_danger": 14967,
+   "dex": 977158,
+   "liq_low": 621988,
+   "odd_quote": 267001,
+   "too_old": 344862,
+   "too_new": 15813,
+   "rug_danger": 14982,
    "fdv_liq_thin": 10915,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
-   "lp_unlocked": 29784,
-   "liq_high": 12632,
+   "lp_unlocked": 29799,
+   "liq_high": 12647,
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 6294,
-   "titan_too_small": 369
+   "titan_too_small": 373
   }
  },
  "last_prices": {}
