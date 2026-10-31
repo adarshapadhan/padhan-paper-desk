@@ -43,23 +43,23 @@
   "5Afz2mwDXjasvHXZHTT8anNxpec2QYdCiHHhubAWpump": 1793407448.2006955
  },
  "stats": {
-  "scans": 31165,
-  "candidates_seen": 2583358,
+  "scans": 31180,
+  "candidates_seen": 2584677,
   "rejections": {
-   "dex": 1024118,
-   "liq_low": 648221,
-   "odd_quote": 282766,
-   "too_old": 363123,
-   "too_new": 16506,
+   "dex": 1024677,
+   "liq_low": 648445,
+   "odd_quote": 282932,
+   "too_old": 363349,
+   "too_new": 16514,
    "rug_danger": 15053,
-   "fdv_liq_thin": 11509,
+   "fdv_liq_thin": 11510,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 30414,
-   "liq_high": 13760,
+   "liq_high": 13775,
    "titan_max_positions": 100,
    "no_price": 23,
-   "rugcheck_unavailable": 9286,
+   "rugcheck_unavailable": 9406,
    "titan_too_small": 885
   }
  },
