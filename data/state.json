@@ -3,22 +3,22 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 92.57814340813853,
+   "cash": 95.65404058966344,
    "positions": {
     "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": {
      "symbol": "DESSA",
      "pair": "DEXTCER4k9dwbxTMU8zNVVwGevVmvHMB183pF2xxZwvH",
      "url": "https://dexscreener.com/solana/dextcer4k9dwbxtmu8znvvwgevvmvhmb183pf2xxzwvh",
      "opened": 1793407448.2006955,
-     "qty": 404.09070652357025,
+     "qty": 202.04535326178512,
      "qty0": 404.09070652357025,
      "cost": 5.12,
      "entry_price": 0.01178,
      "fill_price": 0.01189819494084197,
-     "peak": 0.0162,
+     "peak": 0.01775,
      "entry_liq": 305420.82,
-     "last_price": 0.01491,
-     "last_liq": 346820.27,
+     "last_price": 0.01618,
+     "last_liq": 361486.95,
      "score": 86.7,
      "detail": {
       "atlas": 100,
@@ -39,9 +39,9 @@
       "fdv": 11534507,
       "turnover_h1": 0.25
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793411179.3847954
+     "tp1_done": true,
+     "proceeds": 3.0758971815249123,
+     "last_seen": 1793412093.9576592
     }
    },
    "realized": -902.3018565918605,
@@ -82,23 +82,23 @@
   "5Afz2mwDXjasvHXZHTT8anNxpec2QYdCiHHhubAWpump": 1793407448.2006955
  },
  "stats": {
-  "scans": 30790,
-  "candidates_seen": 2548460,
+  "scans": 30805,
+  "candidates_seen": 2549793,
   "rejections": {
-   "dex": 1010847,
-   "liq_low": 641071,
-   "odd_quote": 277744,
-   "too_old": 357423,
-   "too_new": 16297,
+   "dex": 1011296,
+   "liq_low": 641392,
+   "odd_quote": 277956,
+   "too_old": 357635,
+   "too_new": 16301,
    "rug_danger": 15053,
-   "fdv_liq_thin": 11316,
+   "fdv_liq_thin": 11331,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 30414,
-   "liq_high": 13384,
+   "liq_high": 13399,
    "titan_max_positions": 100,
    "no_price": 23,
-   "rugcheck_unavailable": 6324,
+   "rugcheck_unavailable": 6429,
    "titan_too_small": 885
   }
  },
