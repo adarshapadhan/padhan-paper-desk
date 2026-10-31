@@ -1,1 +1,3 @@
-2026-10-31 23:18:17Z [desk] EXIT PAWCAT trailing_stop pnl=$+0.32 (+6.3%)
+2026-10-31 23:33:57Z [desk] BUY SIS $5.20 @ 0.0006685 score=88.0 liq=$70,876
+2026-10-31 23:33:57Z [control] BUY KIM $5.20 @ 0.0003824 score=56.6 liq=$58,434
+2026-10-31 23:39:45Z [desk] EXIT SIS stop_loss pnl=$-1.92 (-37.0%)
