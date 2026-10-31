@@ -3,22 +3,22 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 91.77154461194507,
+   "cash": 94.83201443764563,
    "positions": {
     "FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump": {
      "symbol": "Leverhedge",
      "pair": "6d3uJEzDB2WDbvVryFycvgXSiH9fW6ML6hScia5QVHwp",
      "url": "https://dexscreener.com/solana/6d3ujezdb2wdbvvryfycvgxsih9fw6ml6hscia5qvhwp",
      "opened": 1793478212.2403376,
-     "qty": 4107.584728990467,
+     "qty": 2053.7923644952334,
      "qty0": 4107.584728990467,
      "cost": 5.15,
      "entry_price": 0.001166,
      "fill_price": 0.0011777906772939579,
-     "peak": 0.001491,
+     "peak": 0.001686,
      "entry_liq": 91893.96,
-     "last_price": 0.001469,
-     "last_liq": 103345.33,
+     "last_price": 0.001686,
+     "last_liq": 110965.84,
      "score": 87.9,
      "detail": {
       "atlas": 100,
@@ -39,9 +39,9 @@
       "fdv": 1153964,
       "turnover_h1": 0.86
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793481229.3913314
+     "tp1_done": true,
+     "proceeds": 3.0604698257005554,
+     "last_seen": 1793482138.7340982
     }
    },
    "realized": -903.0784553880541,
@@ -86,16 +86,16 @@
   "EYqygbhZjP7EbM4fSn8devctnksAvPAD1Bt57XBFpump": 1793478212.2403376
  },
  "stats": {
-  "scans": 31944,
-  "candidates_seen": 2649958,
+  "scans": 31959,
+  "candidates_seen": 2651244,
   "rejections": {
-   "dex": 1049138,
-   "liq_low": 662102,
-   "odd_quote": 292246,
-   "too_old": 373189,
-   "too_new": 17078,
+   "dex": 1049719,
+   "liq_low": 662293,
+   "odd_quote": 292423,
+   "too_old": 373384,
+   "too_new": 17083,
    "rug_danger": 15322,
-   "fdv_liq_thin": 12261,
+   "fdv_liq_thin": 12291,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 30563,
@@ -103,7 +103,7 @@
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 12983,
-   "titan_too_small": 1197
+   "titan_too_small": 1209
   }
  },
  "last_prices": {}
