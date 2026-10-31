@@ -1,3 +1,2 @@
-2026-10-31 20:23:32Z [desk] BUY Leverhedge $5.15 @ 0.001166 score=87.9 liq=$91,894
-2026-10-31 20:23:32Z [control] BUY BNB $5.15 @ 0.0004099 score=78.9 liq=$61,012
-2026-10-31 20:25:03Z [control] EXIT BNB stop_loss pnl=$-1.92 (-37.3%)
+2026-10-31 20:29:08Z [desk] EXIT JOB time_exit pnl=$-1.66 (-33.0%)
+2026-10-31 20:29:08Z [control] EXIT jeff time_exit pnl=$-0.96 (-19.0%)
