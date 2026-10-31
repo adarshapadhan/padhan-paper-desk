@@ -3,53 +3,14 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 95.65404058966344,
-   "positions": {
-    "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": {
-     "symbol": "DESSA",
-     "pair": "DEXTCER4k9dwbxTMU8zNVVwGevVmvHMB183pF2xxZwvH",
-     "url": "https://dexscreener.com/solana/dextcer4k9dwbxtmu8znvvwgevvmvhmb183pf2xxzwvh",
-     "opened": 1793407448.2006955,
-     "qty": 202.04535326178512,
-     "qty0": 404.09070652357025,
-     "cost": 5.12,
-     "entry_price": 0.01178,
-     "fill_price": 0.01189819494084197,
-     "peak": 0.02061,
-     "entry_liq": 305420.82,
-     "last_price": 0.01732,
-     "last_liq": 375768.71,
-     "score": 86.7,
-     "detail": {
-      "atlas": 100,
-      "vega": 60,
-      "orion": 98,
-      "luna": 86,
-      "buy_ratio": 0.49,
-      "tx_m5": 156,
-      "vol_accel": 5.16,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": true,
-      "trending": false,
-      "m5": 7.7,
-      "h1": 17.62,
-      "liq": 305421,
-      "fdv": 11534507,
-      "turnover_h1": 0.25
-     },
-     "tp1_done": true,
-     "proceeds": 3.0758971815249123,
-     "last_seen": 1793415715.6110857
-    }
-   },
-   "realized": -902.3018565918605,
+   "cash": 98.58628413354793,
+   "positions": {},
+   "realized": -901.4137158664512,
    "fees_est": 0.0,
    "day": "2026-10-31",
    "day_start_equity": 97.69814340813853,
    "halted_day": "2026-10-29",
-   "trades": 369,
+   "trades": 370,
    "peak_equity": 1000.4514068560584,
    "max_dd": 0.9048117770446364
   },
@@ -82,23 +43,23 @@
   "5Afz2mwDXjasvHXZHTT8anNxpec2QYdCiHHhubAWpump": 1793407448.2006955
  },
  "stats": {
-  "scans": 30865,
-  "candidates_seen": 2555310,
+  "scans": 30880,
+  "candidates_seen": 2556703,
   "rejections": {
-   "dex": 1013233,
-   "liq_low": 642724,
-   "odd_quote": 278788,
-   "too_old": 358487,
-   "too_new": 16324,
+   "dex": 1013711,
+   "liq_low": 643087,
+   "odd_quote": 278983,
+   "too_old": 358700,
+   "too_new": 16333,
    "rug_danger": 15053,
-   "fdv_liq_thin": 11391,
+   "fdv_liq_thin": 11406,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 30414,
-   "liq_high": 13460,
+   "liq_high": 13475,
    "titan_max_positions": 100,
    "no_price": 23,
-   "rugcheck_unavailable": 6849,
+   "rugcheck_unavailable": 6954,
    "titan_too_small": 885
   }
  },
