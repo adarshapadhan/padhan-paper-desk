@@ -1,1 +1,4 @@
-2026-10-31 23:58:57Z [control] PARTIAL KIM take_profit_1 sold 50% for $3.12
+2026-11-01 00:07:19Z [desk] BUY AAPLCAT $5.01 @ 0.0005638 score=86.5 liq=$63,694
+2026-11-01 00:07:19Z [control] BUY CATPAD $5.01 @ 0.0001255 score=70.0 liq=$28,570
+2026-11-01 00:10:05Z [control] EXIT KIM trailing_stop pnl=$+0.38 (+7.3%)
+2026-11-01 00:15:23Z [desk] PARTIAL AAPLCAT take_profit_1 sold 50% for $3.23
