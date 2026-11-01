@@ -46,24 +46,24 @@
   "GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump": 1793491639.0993557
  },
  "stats": {
-  "scans": 32679,
-  "candidates_seen": 2708529,
+  "scans": 32694,
+  "candidates_seen": 2709716,
   "rejections": {
-   "dex": 1074746,
-   "liq_low": 672271,
-   "odd_quote": 300688,
-   "too_old": 381769,
-   "too_new": 17572,
+   "dex": 1075270,
+   "liq_low": 672518,
+   "odd_quote": 300808,
+   "too_old": 381950,
+   "too_new": 17581,
    "rug_danger": 15326,
-   "fdv_liq_thin": 13726,
+   "fdv_liq_thin": 13756,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 30763,
-   "liq_high": 14225,
+   "liq_high": 14226,
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 12983,
-   "titan_too_small": 1634
+   "titan_too_small": 1639
   }
  },
  "last_prices": {}
