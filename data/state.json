@@ -7,8 +7,8 @@
    "positions": {},
    "realized": -904.1601659691074,
    "fees_est": 0.0,
-   "day": "2026-10-31",
-   "day_start_equity": 97.69814340813853,
+   "day": "2026-11-01",
+   "day_start_equity": 95.83983403089177,
    "halted_day": "2026-10-29",
    "trades": 374,
    "peak_equity": 1000.4514068560584,
@@ -16,7 +16,7 @@
   },
   "control": {
    "name": "control",
-   "cash": 497.68751924591874,
+   "cash": 500.8108488489354,
    "positions": {
     "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump": {
      "symbol": "OREN",
@@ -30,8 +30,8 @@
      "fill_price": 0.00011144227202431865,
      "peak": 0.0001226,
      "entry_liq": 29030.74,
-     "last_price": 0.0001108,
-     "last_liq": 29000.74,
+     "last_price": 0.0001042,
+     "last_liq": 28093.59,
      "score": 44.3,
      "detail": {
       "atlas": 22,
@@ -54,22 +54,22 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793490348.2832532
+     "last_seen": 1793491257.9572618
     },
     "8pjfN5Ayb4rucGpYE3tZWN6v3EysizjPx1v62zx1pump": {
      "symbol": "KIM",
      "pair": "AbeqLWaD4nQi37xvTZcPUo953cHcLqBUCUYC8MHDP4EQ",
      "url": "https://dexscreener.com/solana/abeqlwad4nqi37xvtzcpuo953chclqbucuyc8mhdp4eq",
      "opened": 1793489637.5295928,
-     "qty": 12652.99154186374,
+     "qty": 6326.49577093187,
      "qty0": 12652.99154186374,
      "cost": 5.2,
      "entry_price": 0.0003824,
      "fill_price": 0.00038629204673285136,
-     "peak": 0.0004095,
+     "peak": 0.0005741,
      "entry_liq": 58434.14,
-     "last_price": 0.0003952,
-     "last_liq": 59267.26,
+     "last_price": 0.0005665,
+     "last_liq": 71809.68,
      "score": 56.6,
      "detail": {
       "atlas": 100,
@@ -88,15 +88,15 @@
       "fdv": 375169,
       "turnover_h1": 14.68
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793490348.2832532
+     "tp1_done": true,
+     "proceeds": 3.123329603016674,
+     "last_seen": 1793491257.9572618
     }
    },
    "realized": -491.9424807540805,
    "fees_est": 0.0,
-   "day": "2026-10-31",
-   "day_start_equity": 513.0783483088703,
+   "day": "2026-11-01",
+   "day_start_equity": 508.05509066933047,
    "halted_day": "",
    "trades": 208,
    "peak_equity": 1005.3866010289258,
@@ -126,16 +126,16 @@
   "8pjfN5Ayb4rucGpYE3tZWN6v3EysizjPx1v62zx1pump": 1793489637.5295928
  },
  "stats": {
-  "scans": 32094,
-  "candidates_seen": 2662447,
+  "scans": 32109,
+  "candidates_seen": 2663641,
   "rejections": {
-   "dex": 1054640,
-   "liq_low": 663768,
-   "odd_quote": 294233,
-   "too_old": 375069,
-   "too_new": 17152,
+   "dex": 1055124,
+   "liq_low": 663968,
+   "odd_quote": 294472,
+   "too_old": 375248,
+   "too_new": 17156,
    "rug_danger": 15322,
-   "fdv_liq_thin": 12561,
+   "fdv_liq_thin": 12591,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 30660,
@@ -143,7 +143,7 @@
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 12983,
-   "titan_too_small": 1323
+   "titan_too_small": 1335
   }
  },
  "last_prices": {}
