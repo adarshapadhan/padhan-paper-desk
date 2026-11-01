@@ -16,54 +16,14 @@
   },
   "control": {
    "name": "control",
-   "cash": 502.31133323451496,
-   "positions": {
-    "2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1": {
-     "symbol": "CATPAD",
-     "pair": "GU2ajBKEBpvXumm27t41XEteVUsbvrwGhDmJW7FDc4BN",
-     "url": "https://dexscreener.com/solana/gu2ajbkebpvxumm27t41xetevusbvrwghdmjw7fdc4bn",
-     "opened": 1793491639.0993557,
-     "qty": 37052.54014671398,
-     "qty0": 37052.54014671398,
-     "cost": 5.01,
-     "entry_price": 0.0001255,
-     "fill_price": 0.00012679899897272397,
-     "peak": 0.000136,
-     "entry_liq": 28570.42,
-     "last_price": 0.0001354,
-     "last_liq": 29764.9,
-     "score": 70.0,
-     "detail": {
-      "atlas": 100,
-      "vega": 80,
-      "orion": 58,
-      "luna": 27,
-      "buy_ratio": 1.0,
-      "tx_m5": 1,
-      "vol_accel": 0.35,
-      "socials": [
-       "telegram",
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": 2.41,
-      "h1": 1.14,
-      "liq": 28570,
-      "fdv": 118943,
-      "turnover_h1": 0.02
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793505827.2397516
-    }
-   },
-   "realized": -492.67866676548425,
+   "cash": 506.82134153531683,
+   "positions": {},
+   "realized": -493.17865846468237,
    "fees_est": 0.0,
    "day": "2026-11-01",
    "day_start_equity": 508.05509066933047,
    "halted_day": "",
-   "trades": 210,
+   "trades": 211,
    "peak_equity": 1005.3866010289258,
    "max_dd": 0.49644397276451535
   }
@@ -89,16 +49,16 @@
   "GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump": 1793491639.0993557
  },
  "stats": {
-  "scans": 32349,
-  "candidates_seen": 2682783,
+  "scans": 32364,
+  "candidates_seen": 2684014,
   "rejections": {
-   "dex": 1063782,
-   "liq_low": 666879,
-   "odd_quote": 297795,
-   "too_old": 377873,
-   "too_new": 17316,
+   "dex": 1064282,
+   "liq_low": 667097,
+   "odd_quote": 297985,
+   "too_old": 378053,
+   "too_new": 17322,
    "rug_danger": 15323,
-   "fdv_liq_thin": 13066,
+   "fdv_liq_thin": 13096,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 30690,
@@ -106,7 +66,7 @@
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 12983,
-   "titan_too_small": 1431
+   "titan_too_small": 1441
   }
  },
  "last_prices": {}
