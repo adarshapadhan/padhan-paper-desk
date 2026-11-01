@@ -1,2 +1,2 @@
-2026-11-01 10:35:08Z [desk] BUY PAWCAT $5.00 @ 0.003962 score=85.1 liq=$174,397
-2026-11-01 10:35:08Z [control] BUY WASTED $5.00 @ 0.0001438 score=31.2 liq=$33,484
+2026-11-01 10:43:06Z [desk] PARTIAL PAWCAT take_profit_1 sold 50% for $3.10
+2026-11-01 10:45:40Z [desk] EXIT PAWCAT trailing_stop pnl=$+0.44 (+8.7%)
