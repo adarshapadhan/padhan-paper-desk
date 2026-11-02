@@ -15,10 +15,10 @@
      "cost": 5.1,
      "entry_price": 0.001741,
      "fill_price": 0.0017584771643357534,
-     "peak": 0.001809,
+     "peak": 0.00219,
      "entry_liq": 264389.05,
-     "last_price": 0.001756,
-     "last_liq": 265567.49,
+     "last_price": 0.00219,
+     "last_liq": 296568.16,
      "score": 90.2,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793638939.7000954
+     "last_seen": 1793639854.458194
     },
     "8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump": {
      "symbol": "ANAKIN",
@@ -53,10 +53,10 @@
      "cost": 5.01,
      "entry_price": 0.003747,
      "fill_price": 0.0037846838718244655,
-     "peak": 0.003782,
+     "peak": 0.003851,
      "entry_liq": 175538.77,
-     "last_price": 0.003758,
-     "last_liq": 175607.56,
+     "last_price": 0.003143,
+     "last_liq": 160548.81,
      "score": 89.0,
      "detail": {
       "atlas": 100,
@@ -79,7 +79,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793638939.7000954
+     "last_seen": 1793639854.458194
     }
    },
    "realized": -906.1772094425401,
@@ -93,7 +93,7 @@
   },
   "control": {
    "name": "control",
-   "cash": 491.8617282362838,
+   "cash": 494.9817574523683,
    "positions": {
     "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": {
      "symbol": "WASTED",
@@ -107,8 +107,8 @@
      "fill_price": 0.0010050593980573733,
      "peak": 0.001239,
      "entry_liq": 92761.1,
-     "last_price": 0.001014,
-     "last_liq": 93663.62,
+     "last_price": 0.000914,
+     "last_liq": 88926.89,
      "score": 67.9,
      "detail": {
       "atlas": 88,
@@ -131,55 +131,17 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793638939.7000954
-    },
-    "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump": {
-     "symbol": "FEAR",
-     "pair": "BZvN52YuR6sxptrfPQR6zdxXsRKnkKz4M9wU7TB7KoiA",
-     "url": "https://dexscreener.com/solana/bzvn52yur6sxptrfpqr6zdxxsrknkkz4m9wu7tb7koia",
-     "opened": 1793638650.3701704,
-     "qty": 37082.11443988085,
-     "qty0": 37082.11443988085,
-     "cost": 5.01,
-     "entry_price": 0.0001254,
-     "fill_price": 0.00012669787230221104,
-     "peak": 0.0001274,
-     "entry_liq": 28630.1,
-     "last_price": 0.0001189,
-     "last_liq": 28012.92,
-     "score": 64.0,
-     "detail": {
-      "atlas": 100,
-      "vega": 25,
-      "orion": 70,
-      "luna": 52,
-      "buy_ratio": 0.71,
-      "tx_m5": 381,
-      "vol_accel": 0.34,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": false,
-      "m5": 3.94,
-      "h1": 96.01,
-      "liq": 28630,
-      "fdv": 122148,
-      "turnover_h1": 12.31
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793638939.7000954
+     "last_seen": 1793639854.458194
     }
    },
-   "realized": -498.02827176371534,
+   "realized": -499.9182425476308,
    "fees_est": 0.0,
    "day": "2026-11-02",
    "day_start_equity": 503.0426952701265,
    "halted_day": "",
-   "trades": 215,
+   "trades": 216,
    "peak_equity": 1005.3866010289258,
-   "max_dd": 0.5025250174648643
+   "max_dd": 0.5036921962804908
   }
  },
  "cooldown": {
@@ -199,24 +161,24 @@
   "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump": 1793638650.3701704
  },
  "stats": {
-  "scans": 34539,
-  "candidates_seen": 2858808,
+  "scans": 34554,
+  "candidates_seen": 2860027,
   "rejections": {
-   "dex": 1138206,
-   "liq_low": 706589,
-   "odd_quote": 316137,
-   "too_old": 399659,
-   "too_new": 18652,
-   "rug_danger": 15628,
-   "fdv_liq_thin": 16874,
+   "dex": 1138685,
+   "liq_low": 706887,
+   "odd_quote": 316268,
+   "too_old": 399796,
+   "too_new": 18659,
+   "rug_danger": 15652,
+   "fdv_liq_thin": 16889,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 31204,
-   "liq_high": 14296,
+   "liq_high": 14297,
    "titan_max_positions": 100,
    "no_price": 25,
    "rugcheck_unavailable": 12983,
-   "titan_too_small": 2870
+   "titan_too_small": 2879
   }
  },
  "last_prices": {}
