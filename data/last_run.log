@@ -1,2 +1,1 @@
-2026-11-02 20:06:33Z [control] PARTIAL WASTED take_profit_1 sold 50% for $3.08
-2026-11-02 20:09:35Z [desk] PARTIAL FLOAT take_profit_1 sold 50% for $3.00
+2026-11-02 20:34:28Z [control] EXIT WASTED trailing_stop pnl=$+0.42 (+8.3%)
