@@ -17,8 +17,8 @@
      "fill_price": 0.0017584771643357534,
      "peak": 0.002239,
      "entry_liq": 264389.05,
-     "last_price": 0.001516,
-     "last_liq": 247955.74,
+     "last_price": 0.001543,
+     "last_liq": 250195.84,
      "score": 90.2,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793647146.588915
+     "last_seen": 1793648064.1474588
     }
    },
    "realized": -908.0585487092811,
@@ -51,7 +51,7 @@
    "halted_day": "2026-10-29",
    "trades": 380,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.9094340361898045
+   "max_dd": 0.9094797235098568
   },
   "control": {
    "name": "control",
@@ -69,8 +69,8 @@
      "fill_price": 0.0010050593980573733,
      "peak": 0.00137,
      "entry_liq": 92761.1,
-     "last_price": 0.001103,
-     "last_liq": 97267.68,
+     "last_price": 0.001134,
+     "last_liq": 98691.1,
      "score": 67.9,
      "detail": {
       "atlas": 88,
@@ -93,7 +93,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793647146.588915
+     "last_seen": 1793648064.1474588
     }
    },
    "realized": -499.9182425476308,
@@ -123,24 +123,24 @@
   "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump": 1793638650.3701704
  },
  "stats": {
-  "scans": 34670,
-  "candidates_seen": 2869932,
+  "scans": 34685,
+  "candidates_seen": 2871214,
   "rejections": {
-   "dex": 1142665,
-   "liq_low": 709487,
-   "odd_quote": 317241,
-   "too_old": 401055,
-   "too_new": 18723,
-   "rug_danger": 15814,
-   "fdv_liq_thin": 16989,
+   "dex": 1143166,
+   "liq_low": 709801,
+   "odd_quote": 317347,
+   "too_old": 401242,
+   "too_new": 18728,
+   "rug_danger": 15842,
+   "fdv_liq_thin": 17004,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
-   "lp_unlocked": 31302,
+   "lp_unlocked": 31315,
    "liq_high": 14298,
    "titan_max_positions": 100,
    "no_price": 25,
    "rugcheck_unavailable": 13068,
-   "titan_too_small": 2900
+   "titan_too_small": 2902
   }
  },
  "last_prices": {}
