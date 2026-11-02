@@ -44,16 +44,16 @@
   "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump": 1793535601.237105
  },
  "stats": {
-  "scans": 33624,
-  "candidates_seen": 2784856,
+  "scans": 33639,
+  "candidates_seen": 2786194,
   "rejections": {
-   "dex": 1106596,
-   "liq_low": 689601,
-   "odd_quote": 309112,
-   "too_old": 392388,
-   "too_new": 18095,
+   "dex": 1107148,
+   "liq_low": 689858,
+   "odd_quote": 309248,
+   "too_old": 392568,
+   "too_new": 18099,
    "rug_danger": 15487,
-   "fdv_liq_thin": 15813,
+   "fdv_liq_thin": 15830,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 30987,
@@ -61,7 +61,7 @@
    "titan_max_positions": 100,
    "no_price": 23,
    "rugcheck_unavailable": 12983,
-   "titan_too_small": 2157
+   "titan_too_small": 2172
   }
  },
  "last_prices": {}
