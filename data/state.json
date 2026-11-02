@@ -17,8 +17,8 @@
      "fill_price": 0.0017584771643357534,
      "peak": 0.002239,
      "entry_liq": 264389.05,
-     "last_price": 0.001719,
-     "last_liq": 263464.92,
+     "last_price": 0.001794,
+     "last_liq": 269020.17,
      "score": 90.2,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793643514.9640405
+     "last_seen": 1793644425.257542
     }
    },
    "realized": -908.0585487092811,
@@ -51,7 +51,7 @@
    "halted_day": "2026-10-29",
    "trades": 380,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.908877726029925
+   "max_dd": 0.9090336001731698
   },
   "control": {
    "name": "control",
@@ -69,8 +69,8 @@
      "fill_price": 0.0010050593980573733,
      "peak": 0.001243,
      "entry_liq": 92761.1,
-     "last_price": 0.001096,
-     "last_liq": 97045.25,
+     "last_price": 0.001158,
+     "last_liq": 99783.17,
      "score": 67.9,
      "detail": {
       "atlas": 88,
@@ -93,7 +93,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793643514.9640405
+     "last_seen": 1793644425.257542
     }
    },
    "realized": -499.9182425476308,
@@ -123,24 +123,24 @@
   "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump": 1793638650.3701704
  },
  "stats": {
-  "scans": 34610,
-  "candidates_seen": 2864724,
+  "scans": 34625,
+  "candidates_seen": 2866004,
   "rejections": {
-   "dex": 1140561,
-   "liq_low": 708069,
-   "odd_quote": 316809,
-   "too_old": 400376,
-   "too_new": 18691,
-   "rug_danger": 15720,
-   "fdv_liq_thin": 16929,
+   "dex": 1141078,
+   "liq_low": 708369,
+   "odd_quote": 316925,
+   "too_old": 400541,
+   "too_new": 18701,
+   "rug_danger": 15756,
+   "fdv_liq_thin": 16944,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
-   "lp_unlocked": 31215,
+   "lp_unlocked": 31239,
    "liq_high": 14298,
    "titan_max_positions": 100,
    "no_price": 25,
-   "rugcheck_unavailable": 13054,
-   "titan_too_small": 2886
+   "rugcheck_unavailable": 13068,
+   "titan_too_small": 2887
   }
  },
  "last_prices": {}
