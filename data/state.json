@@ -3,22 +3,22 @@
  "books": {
   "desk": {
    "name": "desk",
-   "cash": 86.84145129071807,
+   "cash": 89.84328055343819,
    "positions": {
     "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
      "symbol": "FLOAT",
      "pair": "FJk9sajdc2Q4heRPPu3yLzkmf2ZByZkpiHQLv9e2bn5A",
      "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a",
      "opened": 1793637795.848239,
-     "qty": 2722.810450489198,
+     "qty": 1361.405225244599,
      "qty0": 2722.810450489198,
      "cost": 5.1,
      "entry_price": 0.001741,
      "fill_price": 0.0017584771643357534,
-     "peak": 0.002358,
+     "peak": 0.002511,
      "entry_liq": 264389.05,
-     "last_price": 0.002325,
-     "last_liq": 307349.66,
+     "last_price": 0.00248,
+     "last_liq": 318715.08,
      "score": 90.2,
      "detail": {
       "atlas": 100,
@@ -39,9 +39,9 @@
       "fdv": 1740265,
       "turnover_h1": 0.17
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793649882.3346603
+     "tp1_done": true,
+     "proceeds": 3.0018292627201153,
+     "last_seen": 1793650796.824217
     }
    },
    "realized": -908.0585487092811,
@@ -55,22 +55,22 @@
   },
   "control": {
    "name": "control",
-   "cash": 494.9817574523683,
+   "cash": 498.05700378866607,
    "positions": {
     "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": {
      "symbol": "WASTED",
      "pair": "TT7DKs9YjJZj1fwMGoPmKBmDreZzyMAMrHoDCGdfwqN",
      "url": "https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn",
      "opened": 1793637795.848239,
-     "qty": 4763.897546010191,
+     "qty": 2381.9487730050955,
      "qty0": 4763.897546010191,
      "cost": 5.1,
      "entry_price": 0.000995,
      "fill_price": 0.0010050593980573733,
-     "peak": 0.001376,
+     "peak": 0.001435,
      "entry_liq": 92761.1,
-     "last_price": 0.001285,
-     "last_liq": 105194.29,
+     "last_price": 0.001416,
+     "last_liq": 110520.34,
      "score": 67.9,
      "detail": {
       "atlas": 88,
@@ -91,9 +91,9 @@
       "fdv": 976234,
       "turnover_h1": 0.38
      },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793649882.3346603
+     "tp1_done": true,
+     "proceeds": 3.0752463362977704,
+     "last_seen": 1793650796.824217
     }
    },
    "realized": -499.9182425476308,
@@ -123,24 +123,24 @@
   "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump": 1793638650.3701704
  },
  "stats": {
-  "scans": 34715,
-  "candidates_seen": 2873730,
+  "scans": 34730,
+  "candidates_seen": 2874987,
   "rejections": {
-   "dex": 1144219,
-   "liq_low": 710227,
-   "odd_quote": 317580,
-   "too_old": 401634,
-   "too_new": 18757,
-   "rug_danger": 15896,
-   "fdv_liq_thin": 17034,
+   "dex": 1144740,
+   "liq_low": 710427,
+   "odd_quote": 317716,
+   "too_old": 401831,
+   "too_new": 18767,
+   "rug_danger": 15916,
+   "fdv_liq_thin": 17049,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
-   "lp_unlocked": 31315,
+   "lp_unlocked": 31324,
    "liq_high": 14298,
    "titan_max_positions": 100,
    "no_price": 25,
    "rugcheck_unavailable": 13068,
-   "titan_too_small": 2928
+   "titan_too_small": 2942
   }
  },
  "last_prices": {}
