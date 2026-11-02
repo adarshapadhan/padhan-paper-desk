@@ -16,51 +16,14 @@
   },
   "control": {
    "name": "control",
-   "cash": 498.0126952701265,
-   "positions": {
-    "8pjfN5Ayb4rucGpYE3tZWN6v3EysizjPx1v62zx1pump": {
-     "symbol": "KIM",
-     "pair": "AbeqLWaD4nQi37xvTZcPUo953cHcLqBUCUYC8MHDP4EQ",
-     "url": "https://dexscreener.com/solana/abeqlwad4nqi37xvtzcpuo953chclqbucuyc8mhdp4eq",
-     "opened": 1793595397.4462805,
-     "qty": 46283.36670052477,
-     "qty0": 46283.36670052477,
-     "cost": 5.03,
-     "entry_price": 0.0001009,
-     "fill_price": 0.00010194105002189706,
-     "peak": 0.0001083,
-     "entry_liq": 31660.87,
-     "last_price": 9.219e-05,
-     "last_liq": 30209.57,
-     "score": 22.7,
-     "detail": {
-      "atlas": 0,
-      "vega": 25,
-      "orion": 40,
-      "luna": 32,
-      "buy_ratio": 0.4,
-      "tx_m5": 10,
-      "vol_accel": 0.41,
-      "socials": [],
-      "boosted": false,
-      "trending": true,
-      "m5": -0.82,
-      "h1": 2.47,
-      "liq": 31661,
-      "fdv": 98976,
-      "turnover_h1": 0.13
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793609738.7214277
-    }
-   },
-   "realized": -496.95730472987265,
+   "cash": 501.9717282362838,
+   "positions": {},
+   "realized": -498.02827176371534,
    "fees_est": 0.0,
    "day": "2026-11-02",
    "day_start_equity": 503.0426952701265,
    "halted_day": "",
-   "trades": 214,
+   "trades": 215,
    "peak_equity": 1005.3866010289258,
    "max_dd": 0.5014384310319252
   }
@@ -82,24 +45,24 @@
   "8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump": 1793595397.4462805
  },
  "stats": {
-  "scans": 34059,
-  "candidates_seen": 2822388,
+  "scans": 34074,
+  "candidates_seen": 2823531,
   "rejections": {
-   "dex": 1122115,
-   "liq_low": 697866,
-   "odd_quote": 313492,
-   "too_old": 396477,
-   "too_new": 18328,
+   "dex": 1122581,
+   "liq_low": 698166,
+   "odd_quote": 313589,
+   "too_old": 396605,
+   "too_new": 18342,
    "rug_danger": 15487,
-   "fdv_liq_thin": 16250,
+   "fdv_liq_thin": 16265,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 31059,
-   "liq_high": 14290,
+   "liq_high": 14293,
    "titan_max_positions": 100,
    "no_price": 25,
    "rugcheck_unavailable": 12983,
-   "titan_too_small": 2527
+   "titan_too_small": 2533
   }
  },
  "last_prices": {}
