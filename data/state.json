@@ -17,8 +17,8 @@
      "fill_price": 0.0017584771643357534,
      "peak": 0.002239,
      "entry_liq": 264389.05,
-     "last_price": 0.001682,
-     "last_liq": 260875.05,
+     "last_price": 0.001556,
+     "last_liq": 251605.4,
      "score": 90.2,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793645328.4378948
+     "last_seen": 1793646232.802565
     }
    },
    "realized": -908.0585487092811,
@@ -51,7 +51,7 @@
    "halted_day": "2026-10-29",
    "trades": 380,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.9090336001731698
+   "max_dd": 0.90935341114614
   },
   "control": {
    "name": "control",
@@ -69,8 +69,8 @@
      "fill_price": 0.0010050593980573733,
      "peak": 0.00137,
      "entry_liq": 92761.1,
-     "last_price": 0.001109,
-     "last_liq": 97722.2,
+     "last_price": 0.001064,
+     "last_liq": 95764.55,
      "score": 67.9,
      "detail": {
       "atlas": 88,
@@ -93,7 +93,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793645328.4378948
+     "last_seen": 1793646232.802565
     }
    },
    "realized": -499.9182425476308,
@@ -123,24 +123,24 @@
   "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump": 1793638650.3701704
  },
  "stats": {
-  "scans": 34640,
-  "candidates_seen": 2867309,
+  "scans": 34655,
+  "candidates_seen": 2868627,
   "rejections": {
-   "dex": 1141622,
-   "liq_low": 708736,
-   "odd_quote": 317031,
-   "too_old": 400706,
-   "too_new": 18710,
-   "rug_danger": 15771,
-   "fdv_liq_thin": 16959,
+   "dex": 1142156,
+   "liq_low": 709128,
+   "odd_quote": 317136,
+   "too_old": 400875,
+   "too_new": 18717,
+   "rug_danger": 15787,
+   "fdv_liq_thin": 16974,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
-   "lp_unlocked": 31269,
+   "lp_unlocked": 31302,
    "liq_high": 14298,
    "titan_max_positions": 100,
    "no_price": 25,
    "rugcheck_unavailable": 13068,
-   "titan_too_small": 2892
+   "titan_too_small": 2894
   }
  },
  "last_prices": {}
