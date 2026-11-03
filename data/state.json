@@ -17,8 +17,8 @@
      "fill_price": 0.004343101194448902,
      "peak": 0.004357,
      "entry_liq": 428313.81,
-     "last_price": 0.003657,
-     "last_liq": 374638.85,
+     "last_price": 0.003586,
+     "last_liq": 371688.37,
      "score": 88.6,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793689961.4050868
+     "last_seen": 1793690876.4835355
     }
    },
    "realized": -905.7137247950386,
@@ -55,55 +55,16 @@
   },
   "control": {
    "name": "control",
-   "cash": 495.4642589768107,
-   "positions": {
-    "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr": {
-     "symbol": "CAPY",
-     "pair": "4WutFjFujupWJm5UUidXouMgUPauXG4sAEjVaYqjrMBW",
-     "url": "https://dexscreener.com/solana/4wutfjfujupwjm5uuidxoumgupauxg4saejvayqjrmbw",
-     "opened": 1793681274.9006321,
-     "qty": 6123.0428993386995,
-     "qty0": 6123.0428993386995,
-     "cost": 5.04,
-     "entry_price": 0.0007645,
-     "fill_price": 0.0007721895922876271,
-     "peak": 0.0008657,
-     "entry_liq": 172803.66,
-     "last_price": 0.0006965,
-     "last_liq": 164228.95,
-     "score": 71.9,
-     "detail": {
-      "atlas": 100,
-      "vega": 65,
-      "orion": 40,
-      "luna": 78,
-      "buy_ratio": 0.43,
-      "tx_m5": 219,
-      "vol_accel": 2.25,
-      "socials": [
-       "twitter"
-      ],
-      "boosted": false,
-      "trending": true,
-      "m5": -2.23,
-      "h1": 39.85,
-      "liq": 172804,
-      "fdv": 764515,
-      "turnover_h1": 0.42
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793689961.4050868
-    }
-   },
-   "realized": -499.4957410231884,
+   "cash": 498.57320406838454,
+   "positions": {},
+   "realized": -501.4267959316145,
    "fees_est": 0.0,
    "day": "2026-11-03",
    "day_start_equity": 500.5042589768107,
    "halted_day": "",
-   "trades": 217,
+   "trades": 218,
    "peak_equity": 1005.3866010289258,
-   "max_dd": 0.5040800539991269
+   "max_dd": 0.5040980220363608
   }
  },
  "cooldown": {
@@ -120,16 +81,16 @@
   "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr": 1793681274.9006321
  },
  "stats": {
-  "scans": 35375,
-  "candidates_seen": 2931392,
+  "scans": 35390,
+  "candidates_seen": 2932692,
   "rejections": {
-   "dex": 1168647,
-   "liq_low": 723337,
-   "odd_quote": 323428,
-   "too_old": 409217,
-   "too_new": 19167,
-   "rug_danger": 16816,
-   "fdv_liq_thin": 17911,
+   "dex": 1169153,
+   "liq_low": 723643,
+   "odd_quote": 323574,
+   "too_old": 409382,
+   "too_new": 19174,
+   "rug_danger": 16831,
+   "fdv_liq_thin": 17926,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 31604,
@@ -137,7 +98,7 @@
    "titan_max_positions": 100,
    "no_price": 25,
    "rugcheck_unavailable": 13107,
-   "titan_too_small": 3431
+   "titan_too_small": 3446
   }
  },
  "last_prices": {}
