@@ -41,16 +41,16 @@
   "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr": 1793681274.9006321
  },
  "stats": {
-  "scans": 35630,
-  "candidates_seen": 2954182,
+  "scans": 35645,
+  "candidates_seen": 2955512,
   "rejections": {
-   "dex": 1177405,
-   "liq_low": 729319,
-   "odd_quote": 326133,
-   "too_old": 411684,
-   "too_new": 19296,
-   "rug_danger": 17063,
-   "fdv_liq_thin": 18166,
+   "dex": 1177894,
+   "liq_low": 729697,
+   "odd_quote": 326287,
+   "too_old": 411849,
+   "too_new": 19304,
+   "rug_danger": 17078,
+   "fdv_liq_thin": 18181,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 31645,
@@ -58,7 +58,7 @@
    "titan_max_positions": 100,
    "no_price": 25,
    "rugcheck_unavailable": 13107,
-   "titan_too_small": 3675
+   "titan_too_small": 3688
   }
  },
  "last_prices": {}
