@@ -41,24 +41,24 @@
   "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump": 1793638650.3701704
  },
  "stats": {
-  "scans": 35150,
-  "candidates_seen": 2910932,
+  "scans": 35165,
+  "candidates_seen": 2912271,
   "rejections": {
-   "dex": 1160318,
-   "liq_low": 718107,
-   "odd_quote": 321327,
-   "too_old": 406876,
-   "too_new": 19032,
-   "rug_danger": 16597,
-   "fdv_liq_thin": 17686,
+   "dex": 1160921,
+   "liq_low": 718432,
+   "odd_quote": 321462,
+   "too_old": 407012,
+   "too_new": 19046,
+   "rug_danger": 16604,
+   "fdv_liq_thin": 17701,
    "fdv_low": 1432,
    "titan_daily_loss_stop": 15394,
-   "lp_unlocked": 31498,
-   "liq_high": 14306,
+   "lp_unlocked": 31528,
+   "liq_high": 14307,
    "titan_max_positions": 100,
    "no_price": 25,
    "rugcheck_unavailable": 13107,
-   "titan_too_small": 3247
+   "titan_too_small": 3262
   }
  },
  "last_prices": {}
