@@ -30,8 +30,8 @@
      "fill_price": 0.0008385991944684532,
      "peak": 0.00084,
      "entry_liq": 89505.89,
-     "last_price": 0.0007512,
-     "last_liq": 84674.67,
+     "last_price": 0.0006983,
+     "last_liq": 81571.09,
      "score": 24.9,
      "detail": {
       "atlas": 4,
@@ -54,7 +54,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793826814.8336139
+     "last_seen": 1793827739.180674
     }
    },
    "realized": -503.7412126830175,
@@ -64,7 +64,7 @@
    "halted_day": "",
    "trades": 220,
    "peak_equity": 1005.3866010289258,
-   "max_dd": 0.5079519769653698
+   "max_dd": 0.507967557578199
   }
  },
  "cooldown": {
@@ -75,15 +75,15 @@
   "FrSrp9P3bgiFHwr6h5PQHVh55iC8Dae4eZCKPUo9pump": 1793768091.1296327
  },
  "stats": {
-  "scans": 37625,
-  "candidates_seen": 3126674,
+  "scans": 37640,
+  "candidates_seen": 3128009,
   "rejections": {
-   "dex": 1240108,
-   "liq_low": 771166,
-   "odd_quote": 350951,
-   "too_old": 431997,
-   "too_new": 20493,
-   "rug_danger": 17583,
+   "dex": 1240557,
+   "liq_low": 771514,
+   "odd_quote": 351102,
+   "too_old": 432209,
+   "too_new": 20497,
+   "rug_danger": 17593,
    "fdv_liq_thin": 19708,
    "fdv_low": 1434,
    "titan_daily_loss_stop": 15394,
@@ -92,7 +92,7 @@
    "titan_max_positions": 100,
    "no_price": 30,
    "rugcheck_unavailable": 13107,
-   "titan_too_small": 5443
+   "titan_too_small": 5456
   }
  },
  "last_prices": {}
