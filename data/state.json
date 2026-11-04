@@ -17,8 +17,8 @@
      "fill_price": 0.0021352140844044395,
      "peak": 0.002858,
      "entry_liq": 292188.37,
-     "last_price": 0.002509,
-     "last_liq": 321288.58,
+     "last_price": 0.002219,
+     "last_liq": 304333.78,
      "score": 91.2,
      "detail": {
       "atlas": 100,
@@ -41,7 +41,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793770267.1172035
+     "last_seen": 1793771179.173402
     }
    },
    "realized": -909.1831719136485,
@@ -51,7 +51,7 @@
    "halted_day": "2026-10-29",
    "trades": 383,
    "peak_equity": 1000.4514068560584,
-   "max_dd": 0.9094797235098568
+   "max_dd": 0.9097120342775059
   },
   "control": {
    "name": "control",
@@ -69,8 +69,8 @@
      "fill_price": 0.0007591076158808766,
      "peak": 0.0009396,
      "entry_liq": 83078.75,
-     "last_price": 0.00084,
-     "last_liq": 88185.54,
+     "last_price": 0.0008076,
+     "last_liq": 86732.96,
      "score": 27.9,
      "detail": {
       "atlas": 10,
@@ -93,7 +93,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793770267.1172035
+     "last_seen": 1793771179.173402
     }
    },
    "realized": -503.42066461794667,
@@ -103,7 +103,7 @@
    "halted_day": "",
    "trades": 219,
    "peak_equity": 1005.3866010289258,
-   "max_dd": 0.506263200927803
+   "max_dd": 0.5064715704271929
   }
  },
  "cooldown": {
@@ -116,16 +116,16 @@
   "FrSrp9P3bgiFHwr6h5PQHVh55iC8Dae4eZCKPUo9pump": 1793768091.1296327
  },
  "stats": {
-  "scans": 36695,
-  "candidates_seen": 3047637,
+  "scans": 36710,
+  "candidates_seen": 3048915,
   "rejections": {
-   "dex": 1210501,
-   "liq_low": 753167,
-   "odd_quote": 338998,
-   "too_old": 421585,
-   "too_new": 19915,
+   "dex": 1211000,
+   "liq_low": 753419,
+   "odd_quote": 339254,
+   "too_old": 421691,
+   "too_new": 19923,
    "rug_danger": 17405,
-   "fdv_liq_thin": 19182,
+   "fdv_liq_thin": 19197,
    "fdv_low": 1434,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 32096,
@@ -133,7 +133,7 @@
    "titan_max_positions": 100,
    "no_price": 25,
    "rugcheck_unavailable": 13107,
-   "titan_too_small": 4663
+   "titan_too_small": 4678
   }
  },
  "last_prices": {}
