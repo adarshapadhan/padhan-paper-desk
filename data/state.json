@@ -16,54 +16,14 @@
   },
   "control": {
    "name": "control",
-   "cash": 489.81643670283836,
-   "positions": {
-    "2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1": {
-     "symbol": "CATPAD",
-     "pair": "GU2ajBKEBpvXumm27t41XEteVUsbvrwGhDmJW7FDc4BN",
-     "url": "https://dexscreener.com/solana/gu2ajbkebpvxumm27t41xetevusbvrwghdmjw7fdc4bn",
-     "opened": 1793832732.74003,
-     "qty": 33963.18708908143,
-     "qty0": 33963.18708908143,
-     "cost": 5.03,
-     "entry_price": 0.0001375,
-     "fill_price": 0.00013892026645275616,
-     "peak": 0.0001375,
-     "entry_liq": 30547.89,
-     "last_price": 0.0001346,
-     "last_liq": 30284.06,
-     "score": 43.6,
-     "detail": {
-      "atlas": 30,
-      "vega": 75,
-      "orion": 41,
-      "luna": 29,
-      "buy_ratio": 0.6,
-      "tx_m5": 5,
-      "vol_accel": 0.36,
-      "socials": [
-       "telegram",
-       "twitter"
-      ],
-      "boosted": true,
-      "trending": false,
-      "m5": 0.07,
-      "h1": 8.41,
-      "liq": 30548,
-      "fdv": 130236,
-      "turnover_h1": 0.05
-     },
-     "tp1_done": false,
-     "proceeds": 0.0,
-     "last_seen": 1793846785.0237608
-    }
-   },
-   "realized": -505.1535632971607,
+   "cash": 494.0294766355232,
+   "positions": {},
+   "realized": -505.9705233644758,
    "fees_est": 0.0,
    "day": "2026-11-05",
    "day_start_equity": 493.94565963063843,
    "halted_day": "",
-   "trades": 221,
+   "trades": 222,
    "peak_equity": 1005.3866010289258,
    "max_dd": 0.5089141777301821
   }
@@ -78,14 +38,14 @@
   "2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1": 1793832732.74003
  },
  "stats": {
-  "scans": 37955,
-  "candidates_seen": 3156316,
+  "scans": 37970,
+  "candidates_seen": 3157716,
   "rejections": {
-   "dex": 1250030,
-   "liq_low": 778211,
-   "odd_quote": 354554,
-   "too_old": 436898,
-   "too_new": 20676,
+   "dex": 1250509,
+   "liq_low": 778524,
+   "odd_quote": 354717,
+   "too_old": 437138,
+   "too_new": 20687,
    "rug_danger": 17691,
    "fdv_liq_thin": 19708,
    "fdv_low": 1434,
@@ -95,7 +55,7 @@
    "titan_max_positions": 100,
    "no_price": 30,
    "rugcheck_unavailable": 13107,
-   "titan_too_small": 5761
+   "titan_too_small": 5776
   }
  },
  "last_prices": {}
