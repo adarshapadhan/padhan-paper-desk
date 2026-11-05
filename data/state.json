@@ -15,10 +15,10 @@
      "cost": 5.03,
      "entry_price": 0.0003598,
      "fill_price": 0.00036346903580023094,
-     "peak": 0.0004275,
+     "peak": 0.0004514,
      "entry_liq": 50944.36,
-     "last_price": 0.0004045,
-     "last_liq": 54184.19,
+     "last_price": 0.0004448,
+     "last_liq": 56970.59,
      "score": 91.1,
      "detail": {
       "atlas": 100,
@@ -42,7 +42,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793836819.4608035
+     "last_seen": 1793837726.717267
     }
    },
    "realized": -908.3797982946709,
@@ -70,8 +70,8 @@
      "fill_price": 0.00013892026645275616,
      "peak": 0.0001375,
      "entry_liq": 30547.89,
-     "last_price": 0.0001321,
-     "last_liq": 29858.09,
+     "last_price": 0.0001317,
+     "last_liq": 29782.1,
      "score": 43.6,
      "detail": {
       "atlas": 30,
@@ -95,7 +95,7 @@
      },
      "tp1_done": false,
      "proceeds": 0.0,
-     "last_seen": 1793836819.4608035
+     "last_seen": 1793837726.717267
     }
    },
    "realized": -505.1535632971607,
@@ -105,7 +105,7 @@
    "halted_day": "",
    "trades": 221,
    "peak_equity": 1005.3866010289258,
-   "max_dd": 0.5087874690989298
+   "max_dd": 0.5088374887018
   }
  },
  "cooldown": {
@@ -118,24 +118,24 @@
   "2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1": 1793832732.74003
  },
  "stats": {
-  "scans": 37790,
-  "candidates_seen": 3141286,
+  "scans": 37805,
+  "candidates_seen": 3142598,
   "rejections": {
-   "dex": 1244746,
-   "liq_low": 774759,
-   "odd_quote": 352992,
-   "too_old": 434461,
-   "too_new": 20552,
+   "dex": 1245174,
+   "liq_low": 775068,
+   "odd_quote": 353135,
+   "too_old": 434689,
+   "too_new": 20562,
    "rug_danger": 17691,
    "fdv_liq_thin": 19708,
    "fdv_low": 1434,
    "titan_daily_loss_stop": 15394,
-   "lp_unlocked": 32500,
+   "lp_unlocked": 32510,
    "liq_high": 14326,
    "titan_max_positions": 100,
    "no_price": 30,
    "rugcheck_unavailable": 13107,
-   "titan_too_small": 5596
+   "titan_too_small": 5611
   }
  },
  "last_prices": {}
