@@ -33,14 +33,14 @@
   "2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1": 1793832732.74003
  },
  "stats": {
-  "scans": 40430,
-  "candidates_seen": 3373680,
+  "scans": 40445,
+  "candidates_seen": 3375018,
   "rejections": {
-   "dex": 1326856,
-   "liq_low": 827810,
-   "odd_quote": 378242,
-   "too_old": 480101,
-   "too_new": 22088,
+   "dex": 1327367,
+   "liq_low": 828137,
+   "odd_quote": 378392,
+   "too_old": 480378,
+   "too_new": 22100,
    "rug_danger": 18267,
    "fdv_liq_thin": 19791,
    "fdv_low": 1458,
@@ -50,7 +50,7 @@
    "titan_max_positions": 100,
    "no_price": 33,
    "rugcheck_unavailable": 13107,
-   "titan_too_small": 8106
+   "titan_too_small": 8121
   }
  },
  "last_prices": {}
