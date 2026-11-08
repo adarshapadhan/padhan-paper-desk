@@ -7,8 +7,8 @@
    "positions": {},
    "realized": -914.1585965175814,
    "fees_est": 0.0,
-   "day": "2026-11-07",
-   "day_start_equity": 89.13730249308784,
+   "day": "2026-11-08",
+   "day_start_equity": 85.84140348241797,
    "halted_day": "2026-10-29",
    "trades": 388,
    "peak_equity": 1000.4514068560584,
@@ -20,8 +20,8 @@
    "positions": {},
    "realized": -508.2068722024376,
    "fees_est": 0.0,
-   "day": "2026-11-07",
-   "day_start_equity": 493.58144156960634,
+   "day": "2026-11-08",
+   "day_start_equity": 491.79312779756145,
    "halted_day": "",
    "trades": 224,
    "peak_equity": 1005.3866010289258,
@@ -35,14 +35,14 @@
   "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump": 1794075635.3992684
  },
  "stats": {
-  "scans": 42050,
-  "candidates_seen": 3508555,
+  "scans": 42065,
+  "candidates_seen": 3509897,
   "rejections": {
-   "dex": 1375862,
-   "liq_low": 859282,
-   "odd_quote": 394538,
-   "too_old": 506114,
-   "too_new": 23164,
+   "dex": 1376265,
+   "liq_low": 859614,
+   "odd_quote": 394718,
+   "too_old": 506354,
+   "too_new": 23172,
    "rug_danger": 18714,
    "fdv_liq_thin": 20375,
    "fdv_low": 1535,
@@ -52,7 +52,7 @@
    "titan_max_positions": 100,
    "no_price": 33,
    "rugcheck_unavailable": 13111,
-   "titan_too_small": 9608
+   "titan_too_small": 9623
   }
  },
  "last_prices": {}
