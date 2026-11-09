@@ -33,14 +33,14 @@
   "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump": 1794075635.3992684
  },
  "stats": {
-  "scans": 43640,
-  "candidates_seen": 3634601,
+  "scans": 43655,
+  "candidates_seen": 3635763,
   "rejections": {
-   "dex": 1420498,
-   "liq_low": 889707,
-   "odd_quote": 404687,
-   "too_old": 526273,
-   "too_new": 24280,
+   "dex": 1420862,
+   "liq_low": 890014,
+   "odd_quote": 404791,
+   "too_old": 526438,
+   "too_new": 24294,
    "rug_danger": 19123,
    "fdv_liq_thin": 20375,
    "fdv_low": 2221,
@@ -50,7 +50,7 @@
    "titan_max_positions": 100,
    "no_price": 33,
    "rugcheck_unavailable": 13111,
-   "titan_too_small": 11151
+   "titan_too_small": 11166
   }
  },
  "last_prices": {}
