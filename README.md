@@ -1,7 +1,7 @@
 # Padhan Paper Desk — live scorecard
 
 > **Paper trading only.** No wallet, no keys, no real money. Every trade is simulated on live Solana prices
-> with realistic fees, slippage and rug-pull losses. Updated 2026-11-17 13:08 UTC · day 39.1
+> with realistic fees, slippage and rug-pull losses. Updated 2026-11-17 13:23 UTC · day 39.1
 
 ## Verdict: **DO NOT INVEST — failed: profit, pf, dd, edge, luck**
 
@@ -29,8 +29,8 @@
 | Rug / liquidity-pull exits | 24 | 13 |
 | Open positions now | 0 | 0 |
 
-Tokens screened: **4,664,681** across 55,400 scans. Top reasons the safety agent (LUNA) said no:
-dex (1,779,400), liq_low (1,154,503), too_old (707,893), odd_quote (516,696), lp_unlocked (37,266), too_new (32,325), rug_danger (23,299), fdv_liq_thin (20,585)
+Tokens screened: **4,665,953** across 55,415 scans. Top reasons the safety agent (LUNA) said no:
+dex (1,779,854), liq_low (1,154,879), too_old (708,106), odd_quote (516,763), lp_unlocked (37,266), too_new (32,333), rug_danger (23,314), fdv_liq_thin (20,585)
 
 ## How it works
 Six agents, one job each — **RADAR** finds new tokens · **LUNA** blocks unsafe ones (liquidity, age, RugCheck: mint/freeze
