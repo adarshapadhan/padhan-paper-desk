@@ -30,24 +30,24 @@
  },
  "cooldown": {},
  "stats": {
-  "scans": 68705,
-  "candidates_seen": 5775915,
+  "scans": 68720,
+  "candidates_seen": 5777100,
   "rejections": {
-   "dex": 2163711,
-   "liq_low": 1433882,
-   "odd_quote": 629619,
-   "too_old": 900644,
-   "too_new": 43000,
+   "dex": 2164120,
+   "liq_low": 1434280,
+   "odd_quote": 629679,
+   "too_old": 900824,
+   "too_new": 43018,
    "rug_danger": 26196,
-   "fdv_liq_thin": 22847,
+   "fdv_liq_thin": 22862,
    "fdv_low": 3411,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 43193,
-   "liq_high": 31192,
+   "liq_high": 31207,
    "titan_max_positions": 100,
    "no_price": 65,
    "rugcheck_unavailable": 13443,
-   "titan_too_small": 31919
+   "titan_too_small": 31934
   }
  },
  "last_prices": {}
