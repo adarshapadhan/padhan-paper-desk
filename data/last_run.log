@@ -1,3 +1,2 @@
-2026-11-28 17:06:46Z net-err TimeoutError https://api.rugcheck.xyz/v1/tokens/B6JwxRFd5Nomou9v2CELN3rjgwVxCzoAZbZqLHszpump/report/sum
-2026-11-28 17:07:02Z net-err TimeoutError https://api.rugcheck.xyz/v1/tokens/B6JwxRFd5Nomou9v2CELN3rjgwVxCzoAZbZqLHszpump/report/sum
-2026-11-28 17:07:17Z http 400 https://api.rugcheck.xyz/v1/tokens/B6JwxRFd5Nomou9v2CELN3rjgwVxCzoAZbZqLHszpump/report/sum
+2026-11-28 17:21:46Z http 400 https://api.rugcheck.xyz/v1/tokens/ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump/report/sum
+2026-11-28 17:22:05Z net-err TimeoutError https://api.rugcheck.xyz/v1/tokens/2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump/report/sum
