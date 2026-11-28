@@ -7,7 +7,7 @@
    "positions": {},
    "realized": -914.1585965175814,
    "fees_est": 0.0,
-   "day": "2026-11-27",
+   "day": "2026-11-28",
    "day_start_equity": 85.84140348241797,
    "halted_day": "2026-10-29",
    "trades": 388,
@@ -20,7 +20,7 @@
    "positions": {},
    "realized": -508.2068722024376,
    "fees_est": 0.0,
-   "day": "2026-11-27",
+   "day": "2026-11-28",
    "day_start_equity": 491.79312779756145,
    "halted_day": "",
    "trades": 224,
@@ -30,16 +30,16 @@
  },
  "cooldown": {},
  "stats": {
-  "scans": 69920,
-  "candidates_seen": 5871402,
+  "scans": 69935,
+  "candidates_seen": 5872676,
   "rejections": {
-   "dex": 2197214,
-   "liq_low": 1461708,
-   "odd_quote": 636243,
-   "too_old": 916181,
-   "too_new": 44060,
+   "dex": 2197692,
+   "liq_low": 1462070,
+   "odd_quote": 636348,
+   "too_old": 916376,
+   "too_new": 44072,
    "rug_danger": 26246,
-   "fdv_liq_thin": 24063,
+   "fdv_liq_thin": 24078,
    "fdv_low": 3411,
    "titan_daily_loss_stop": 15394,
    "lp_unlocked": 43673,
@@ -47,7 +47,7 @@
    "titan_max_positions": 100,
    "no_price": 65,
    "rugcheck_unavailable": 13459,
-   "titan_too_small": 32613
+   "titan_too_small": 32625
   }
  },
  "last_prices": {}
